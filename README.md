@@ -2,7 +2,7 @@
 
 ## Background
 
-For this assessment, please build a dbt project that addresses the problem listed below. Ensure that you have it cloned to a git-based sharable repository, and that you have a README.md file in the repository's root discussing your analysis for the problem. You may use whichever SQL database flavor you prefer (we use PostgreSQL), just state which was chosen in your README.md. 
+For this assessment, please build a dbt project that addresses the problem listed below. Ensure that you have it cloned to a git-based sharable repository, and that you have a README.md file in the repository's root discussing your analysis for the problem. You may use whichever SQL database flavor you prefer, just state which was chosen in your README.md. 
 
 ---
 
