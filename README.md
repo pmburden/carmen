@@ -1,4 +1,4 @@
-# Skill Assessment: _dbt_ Data Engineer
+# Skill Assessment: Data Engineer
 
 ## Background
 
