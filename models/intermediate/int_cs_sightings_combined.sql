@@ -97,6 +97,4 @@ WITH
 
 SELECT * FROM carmen_sightings
 
----------------------
--- Any triggers
----------------------
+

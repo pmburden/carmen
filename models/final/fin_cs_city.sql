@@ -6,7 +6,7 @@
 -- Any config
 ---------------------
 {{ config(
-    post_hook="ALTER TABLE {{this}} ADD CONSTRAINT pk1 PRIMARY KEY (region_id)" 
+    post_hook="ALTER TABLE {{this}} ADD CONSTRAINT pk1 PRIMARY KEY (city_id)"
 ) }}
 
 ---------------------
@@ -18,8 +18,9 @@ WITH
     AS
     (
         SELECT DISTINCT
-                cs.region_id											AS region_id,
-                cs.region											    AS region,
+                cs.country_id										    AS country_id,
+                cs.city_id											    AS city_id,
+                cs.city											        AS city,
 				----------------
 				-- audit trail
 				----------------
@@ -28,7 +29,7 @@ WITH
 				'{{ invocation_id }}'          							AS dw_updated_run_id,
 				current_timestamp()            							AS dw_updated_dtm    
 		FROM
-				{{ ref ( 'int_cs_sightings_add_keys' ) 	}} AS cs   
+				{{ ref ( 'int_cs_sightings_add_keys' ) 	}} AS cs
     )
 
 ------------------------------

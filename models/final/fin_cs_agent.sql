@@ -6,7 +6,7 @@
 -- Any config
 ---------------------
 {{ config(
-    post_hook="ALTER TABLE {{this}} ADD CONSTRAINT pk1 PRIMARY KEY (region_id)" 
+    post_hook="ALTER TABLE {{this}} ADD CONSTRAINT pk1 PRIMARY KEY (agent_id)" 
 ) }}
 
 ---------------------
@@ -18,8 +18,8 @@ WITH
     AS
     (
         SELECT DISTINCT
-                cs.region_id											AS region_id,
-                cs.region											    AS region,
+                cs.agent_id											    AS agent_id,
+                cs.agent											    AS agent,
 				----------------
 				-- audit trail
 				----------------
