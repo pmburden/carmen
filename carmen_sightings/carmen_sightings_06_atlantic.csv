@@ -1,0 +1,29 @@
+region,date_witness,date_agent,witness,agent,latitude,longitude,city,country,city_agent,has_weapon,has_hat,has_jacket,behavior
+Atlantic,4/06/2017,7/07/2017,Jennifer Harrington,Jennifer Hoffman,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,FALSE,TRUE,over-complimenting
+Atlantic,9/12/2018,18/01/2019,Christine Greene,Karen Nguyen,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,TRUE,FALSE,evasive
+Atlantic,5/04/2001,23/04/2001,Laura Lin,Ronnie Anthony,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,FALSE,tense
+Atlantic,7/08/1986,2/10/1986,David Castillo,Tiffany Patrick,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,TRUE,TRUE,complaining
+Atlantic,5/10/2009,13/11/2009,Gabrielle Francis,Ashley Taylor,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,FALSE,TRUE,talkative
+Atlantic,3/11/1987,4/11/1987,Gregory Roth,Jennifer Hernandez,37.74615,-25.66689,Ponta Delgada,PT,Azores,TRUE,TRUE,TRUE,unhappy
+Atlantic,25/05/1992,5/06/1992,Stephanie Mack,Maria Tucker,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,FALSE,happy
+Atlantic,18/11/2021,5/01/2022,Caitlin Reynolds,Melissa Ellis,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,TRUE,TRUE,friendly
+Atlantic,11/03/2014,1/05/2014,Thomas Holland,Amy Bray,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,over-complimenting
+Atlantic,11/04/1998,27/05/1998,Joseph Reeves,Andrea Watkins,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,sad
+Atlantic,2/04/2006,2/05/2006,John Kelly,William Zuniga,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,over-complimenting
+Atlantic,3/09/2019,22/09/2019,Teresa Duncan,Hannah Lindsey,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,TRUE,TRUE,panicking
+Atlantic,5/03/2001,24/03/2001,Linda Vang,Laura Parks,27.76056,-15.58602,Maspalomas,ES,Canary,TRUE,TRUE,TRUE,silent
+Atlantic,16/05/1994,27/05/1994,Tyrone Chapman,Garrett Moore,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,FALSE,TRUE,sad
+Atlantic,17/01/2004,12/03/2004,Tony Rodriguez,Gerald Green,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,accusatory
+Atlantic,11/03/2010,25/03/2010,Joseph Ingram,Margaret Ortega,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,FALSE,TRUE,out-of-control
+Atlantic,6/09/1989,1/11/1989,Elizabeth Hunter,David Woodward,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,TRUE,TRUE,talkative
+Atlantic,13/03/2005,11/05/2005,Collin Rodriguez,Michelle Lee,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,sad
+Atlantic,20/12/2015,1/02/2016,Debbie Pace,Maurice Mccarthy,27.76056,-15.58602,Maspalomas,ES,Canary,TRUE,TRUE,TRUE,over-complimenting
+Atlantic,29/06/2016,2/08/2016,Whitney Finley,Lauren Johnson,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,FALSE,TRUE,hostile
+Atlantic,28/08/1985,25/10/1985,Kenneth Acosta,David Woodward,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,sad
+Atlantic,13/06/1990,16/06/1990,Jeffery Delacruz,Paul Garner,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,TRUE,TRUE,evasive
+Atlantic,23/12/2003,20/02/2004,Jeffrey Trujillo,Allen Lawrence,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,paranoid
+Atlantic,14/04/1999,22/05/1999,Christopher Jones MD,Dr. Gregory Gibson,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,FALSE,TRUE,evasive
+Atlantic,7/10/2006,4/12/2006,Anthony Carlson,Theresa Patterson,27.76056,-15.58602,Maspalomas,ES,Canary,FALSE,FALSE,FALSE,oblivious
+Atlantic,9/03/2017,19/03/2017,Bridget Kelly,Laura Santana,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,FALSE,TRUE,insulting
+Atlantic,3/11/2007,8/12/2007,Abigail King,Nicole Rogers,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,oblivious
+Atlantic,8/10/2003,11/10/2003,Paul Crawford MD,Sandra Odonnell,37.74615,-25.66689,Ponta Delgada,PT,Azores,FALSE,TRUE,TRUE,friendly
