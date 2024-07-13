@@ -1,0 +1,166 @@
+region,date_witness,date_agent,witness,agent,latitude,longitude,city,country,city_agent,has_weapon,has_hat,has_jacket,behavior
+Australia,19/10/1998,29/11/1998,Kevin Mcfarland,Kyle Thomas,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,accusatory
+Australia,9/01/1987,22/01/1987,Katherine Melton,Samuel Jackson,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,FALSE,TRUE,paranoid
+Australia,11/04/1990,15/04/1990,Julia Avila,Kendra Mercado,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,FALSE,TRUE,hostile
+Australia,14/01/1997,2/02/1997,Amanda Frazier,Victoria Rodriguez,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,FALSE,TRUE,hostile
+Australia,18/10/1987,30/11/1987,Holly Weaver,Kathleen Hicks,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,TRUE,TRUE,unhappy
+Australia,4/11/1998,12/12/1998,Christine Garner,Casey Wheeler,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,FALSE,TRUE,friendly
+Australia,26/01/2006,6/03/2006,Joseph Miller PhD,Jeremy Moran,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,FALSE,TRUE,injured
+Australia,24/08/1990,24/08/1990,George Reyes,Jessica Joseph,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,FALSE,TRUE,evasive
+Australia,16/02/2004,7/03/2004,Erica French,Larry Wiggins,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,TRUE,TRUE,paranoid
+Australia,23/04/1994,25/05/1994,Elizabeth Davis,Shannon Norman,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,TRUE,accusatory
+Australia,25/08/2002,23/09/2002,Jason Brown,Julia Cannon,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,TRUE,TRUE,evasive
+Australia,1/11/1994,11/11/1994,Kenneth Juarez,Paul Garner,-37.9,145.18333,Wheelers Hill,AU,Melbourne,TRUE,TRUE,TRUE,confessing
+Australia,18/09/1992,12/11/1992,Sharon Davis,Stephanie Taylor,-33.88096,151.07986,Strathfield,AU,Sydney,TRUE,FALSE,TRUE,paranoid
+Australia,13/07/2021,30/08/2021,Mark Montes,Bradley Ewing,-32.05251,115.88782,Willetton,AU,Perth,FALSE,FALSE,TRUE,oblivious
+Australia,25/07/2000,25/07/2000,Robert Stanley,Laura Oconnor,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,TRUE,TRUE,lonely
+Australia,19/03/2017,9/05/2017,Sherry Garcia,Brandon Miller,-31.95224,115.8614,Perth,AU,Perth,FALSE,FALSE,TRUE,over-complimenting
+Australia,18/01/1998,14/02/1998,Kristin Potts,Ashley Vaughn,-32.05251,115.88782,Willetton,AU,Perth,FALSE,TRUE,TRUE,silent
+Australia,26/11/2004,3/12/2004,Robert Mitchell,Tiffany Bennett,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,over-complimenting
+Australia,3/11/2018,3/12/2018,Calvin Hood,Zachary Moore,-33.75881,150.99292,Baulkham Hills,AU,Sydney,TRUE,TRUE,TRUE,sad
+Australia,7/06/1985,24/07/1985,Heather Butler,John Carlson,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,oblivious
+Australia,20/04/2006,3/05/2006,Sandra Mckenzie,Eugene Brown,-25.54073,152.70493,Maryborough,AU,Brisbane,TRUE,FALSE,TRUE,over-complimenting
+Australia,14/03/1988,21/04/1988,Kimberly Vega,Rebecca Russell,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,FALSE,TRUE,confessing
+Australia,2/01/1990,10/02/1990,Kelly Brown,Natalie Patrick,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,FALSE,TRUE,over-complimenting
+Australia,25/12/2011,25/12/2011,Lindsey Green,Ray Hall,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,FALSE,TRUE,tense
+Australia,5/05/1987,25/06/1987,Scott Jackson,Ashley Larson,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,confessing
+Australia,15/03/2010,9/04/2010,Felicia Anderson,Kerry Buck,-31.95224,115.8614,Perth,AU,Perth,TRUE,FALSE,TRUE,confessing
+Australia,11/02/2010,6/04/2010,Lisa Parker,Shelley Sheppard,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,FALSE,TRUE,complaining
+Australia,7/11/2015,10/11/2015,Adam Bailey,Tracy Blackwell,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,FALSE,TRUE,complaining
+Australia,6/03/1993,28/04/1993,Maria Williams,Aaron Nguyen,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,TRUE,TRUE,sad
+Australia,24/05/2006,14/06/2006,Ryan Warren,Patricia Williams,-31.95224,115.8614,Perth,AU,Perth,FALSE,FALSE,TRUE,scared
+Australia,14/12/1986,24/01/1987,Philip Adams,Kari Chandler,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,TRUE,confessing
+Australia,13/04/1993,21/05/1993,Scott Tapia,Joshua Moore,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,friendly
+Australia,7/01/1997,21/02/1997,Matthew Walters,Angela Strickland,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,FALSE,TRUE,panicking
+Australia,13/03/1997,22/04/1997,Sandra Brown,Sarah Peters,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,tense
+Australia,1/11/2007,19/11/2007,Barbara Woods,Christopher Bell,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,TRUE,TRUE,friendly
+Australia,22/07/1989,11/08/1989,Ruth Finley,Jessica Duran,-27.50578,153.10236,Carindale,AU,Brisbane,TRUE,FALSE,TRUE,accusatory
+Australia,30/03/2013,3/05/2013,Keith Garcia,Ms. Sheila Campbell MD,-32.05251,115.88782,Willetton,AU,Perth,FALSE,FALSE,TRUE,oblivious
+Australia,28/10/2013,25/11/2013,Taylor Smith,John Turner,-31.95224,115.8614,Perth,AU,Perth,FALSE,FALSE,TRUE,paranoid
+Australia,13/03/2001,14/03/2001,Casey Parks,Bethany Chen,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,TRUE,TRUE,scared
+Australia,13/01/2004,7/02/2004,Shari Wall,Leslie Curtis,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,friendly
+Australia,22/12/2002,26/12/2002,Christine Farrell,Megan Livingston,-33.75881,150.99292,Baulkham Hills,AU,Sydney,TRUE,TRUE,TRUE,accusatory
+Australia,30/03/1999,26/05/1999,Jamie Liu,James Williams,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,TRUE,TRUE,injured
+Australia,4/12/2001,11/01/2002,Stephen Hawkins,Emily Santana,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,FALSE,TRUE,silent
+Australia,15/05/2011,24/05/2011,Christopher Montoya,Maurice Mccarthy,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,FALSE,insulting
+Australia,11/08/2015,25/09/2015,Sean Nixon,Justin Whitehead,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,FALSE,tense
+Australia,9/01/1998,1/02/1998,Charles Smith,Christian Moore,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,TRUE,TRUE,accusatory
+Australia,23/03/2006,26/04/2006,Kristen Garza,Rachel Barnes,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,friendly
+Australia,23/06/2018,26/07/2018,Melissa Maynard,Lauren Johnson,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,silent
+Australia,8/03/2012,27/03/2012,Ronald Prince,Charles Mitchell,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,TRUE,unhappy
+Australia,9/09/1987,14/10/1987,Janice Lowe,Daniel Lewis,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,FALSE,TRUE,paranoid
+Australia,31/01/2004,27/02/2004,Craig Gill,Dana Parker,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,panicking
+Australia,29/08/2000,25/10/2000,Tony Avila,Jasmine Rowland,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,FALSE,TRUE,confessing
+Australia,15/06/2007,22/07/2007,Lisa Rogers,Meghan Owens,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,tense
+Australia,3/09/2004,29/09/2004,Robert Acosta,Rebecca Snyder MD,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,FALSE,TRUE,complaining
+Australia,12/06/2001,1/07/2001,Frank Mcdonald,Allen Baker,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,lonely
+Australia,22/09/2009,21/10/2009,Nicholas Martinez,Michelle Green,-33.75881,150.99292,Baulkham Hills,AU,Sydney,TRUE,FALSE,TRUE,happy
+Australia,28/07/1992,29/07/1992,Joseph Boyd,Deborah Holden,-31.95224,115.8614,Perth,AU,Perth,FALSE,FALSE,TRUE,oblivious
+Australia,10/10/1987,27/10/1987,Julia Ray,Deborah Holden,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,tense
+Australia,23/06/2006,24/06/2006,Miss Heather Roman,Brian Torres,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,accusatory
+Australia,29/09/1992,12/10/1992,Elizabeth Jenkins,Brian Haas,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,FALSE,TRUE,over-complimenting
+Australia,25/10/2003,28/11/2003,Donald Woodward,Kelly Lindsey,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,complaining
+Australia,12/02/2009,21/02/2009,James Ellis PhD,David Woodward,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,TRUE,TRUE,fleeing
+Australia,30/09/2004,9/10/2004,Danielle Johnson,Robert Baird,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,FALSE,TRUE,silent
+Australia,22/09/2019,5/10/2019,Steven Carr,James Whitehead,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,unhappy
+Australia,18/12/2021,19/01/2022,Nancy Turner,Dennis Flores,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,FALSE,TRUE,worried
+Australia,27/02/1995,27/03/1995,Tiffany Colon,David Richardson,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,sad
+Australia,17/05/1992,15/06/1992,Steven Shea,Jennifer Malone,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,out-of-control
+Australia,1/07/2016,2/08/2016,Taylor Jacobs,Jeanette Best,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,TRUE,TRUE,talkative
+Australia,2/12/1997,23/12/1997,Lauren Patton,Thomas Hamilton,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,FALSE,TRUE,unhappy
+Australia,10/02/1987,14/02/1987,Jeffrey Mccarthy,Sharon Young,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,FALSE,TRUE,complaining
+Australia,4/01/2004,25/02/2004,Joshua Smith,Christopher Greer,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,unhappy
+Australia,12/11/1992,7/01/1993,Kimberly Schultz,Evelyn Hines,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,FALSE,TRUE,worried
+Australia,14/08/1991,2/09/1991,Terry Nguyen,James Williams,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,worried
+Australia,3/03/1986,17/03/1986,Sheryl Potter,Latasha Norris,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,tense
+Australia,6/09/2005,12/10/2005,Teresa King,James Burnett,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,TRUE,evasive
+Australia,15/02/2005,3/03/2005,Carolyn Flynn,Robert Jenkins,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,confessing
+Australia,9/04/1994,2/05/1994,Jesse Andrews,Adam Montes,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,FALSE,FALSE,happy
+Australia,15/07/1988,22/08/1988,Jason Golden,Elizabeth Martinez,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,worried
+Australia,7/08/2020,5/10/2020,David Walton,Robert Meyer,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,FALSE,TRUE,insulting
+Australia,4/10/2005,11/11/2005,Crystal Johnson,Wesley Horton,-32.05251,115.88782,Willetton,AU,Perth,FALSE,FALSE,TRUE,tense
+Australia,14/01/1989,15/01/1989,Elizabeth Alexander,Dr. Crystal Mccormick,-31.95224,115.8614,Perth,AU,Perth,FALSE,TRUE,TRUE,evasive
+Australia,25/04/1997,18/05/1997,Randall Andrews,Jamie Martin,-31.95224,115.8614,Perth,AU,Perth,FALSE,FALSE,TRUE,silent
+Australia,26/02/1995,21/03/1995,Megan Hanson,Cristina Reynolds,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,FALSE,TRUE,friendly
+Australia,21/04/2010,29/05/2010,James Price,Brandy Mendez,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,FALSE,TRUE,fleeing
+Australia,15/10/2010,22/11/2010,Amy Martinez,Vanessa Chapman,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,lonely
+Australia,13/09/2006,10/11/2006,Barbara Solomon,Matthew Wagner,-34.28853,146.05093,Griffith,AU,Sydney,TRUE,FALSE,TRUE,confessing
+Australia,3/01/2018,16/02/2018,Teresa Hurley,Angela Strickland,-31.95224,115.8614,Perth,AU,Perth,FALSE,FALSE,TRUE,friendly
+Australia,16/03/2001,29/04/2001,Brittney Green,Darrell Crawford,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,talkative
+Australia,3/06/1992,28/07/1992,Dr. Diane Simmons,Jordan Torres,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,FALSE,TRUE,friendly
+Australia,18/10/2015,22/11/2015,Mr. Austin Duran,Christian Moore,-31.95224,115.8614,Perth,AU,Perth,FALSE,FALSE,TRUE,confessing
+Australia,23/06/2022,28/07/2022,Nathan Ashley,Richard Reyes,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,worried
+Australia,22/04/2007,14/05/2007,Michael Martin,David Simmons,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,TRUE,TRUE,confessing
+Australia,4/08/2002,20/08/2002,Judy Hoffman,Kathleen Castro,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,friendly
+Australia,28/09/2009,8/11/2009,Dustin Davis,Aaron Nguyen,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,FALSE,TRUE,evasive
+Australia,18/03/2000,16/04/2000,Jay Santana,Terry Erickson,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,confessing
+Australia,2/12/1995,30/01/1996,Steven Mcgee,Amber Wright,-32.05251,115.88782,Willetton,AU,Perth,FALSE,TRUE,TRUE,happy
+Australia,7/05/2005,4/07/2005,Margaret Sanchez,Amber Wright,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,accusatory
+Australia,21/12/1994,19/01/1995,Natalie Mason,Dawn Pierce,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,evasive
+Australia,28/05/2022,21/06/2022,Shirley Kerr,Todd Robinson,-31.95224,115.8614,Perth,AU,Perth,FALSE,FALSE,TRUE,worried
+Australia,2/10/1992,28/10/1992,Kelly Boyer,Timothy Frank,-33.79176,151.08057,Eastwood,AU,Sydney,TRUE,FALSE,TRUE,evasive
+Australia,29/09/2005,8/11/2005,Tony Lutz,Patricia Williams,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,accusatory
+Australia,13/12/1990,22/01/1991,Katherine Oconnor,Mark Ferguson,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,tense
+Australia,17/12/1988,31/12/1988,Joshua Stephens,Emily Stephens,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,FALSE,lonely
+Australia,12/02/2018,13/03/2018,Mrs. Christina Mccoy,Mrs. Kristin Lopez MD,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,happy
+Australia,26/06/1990,24/08/1990,Lucas Moore,Shelia Holmes,-33.79176,151.08057,Eastwood,AU,Sydney,TRUE,FALSE,FALSE,hostile
+Australia,28/01/2008,19/02/2008,Roger Gonzales,Kayla Klein,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,TRUE,FALSE,over-complimenting
+Australia,25/02/2015,16/03/2015,Cindy Brown,Jeanette Best,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,talkative
+Australia,13/07/2014,1/08/2014,Kimberly Wolfe,Paul Rogers,-38.16604,145.13643,Frankston South,AU,Melbourne,TRUE,TRUE,FALSE,paranoid
+Australia,29/09/1997,26/11/1997,Carly Crosby,Jennifer George,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,TRUE,TRUE,hostile
+Australia,17/02/1990,26/03/1990,Timothy Patel,Melvin Hansen,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,FALSE,TRUE,sad
+Australia,1/01/1998,6/01/1998,Tracy Young,Patrick Stephens,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,TRUE,TRUE,unhappy
+Australia,17/05/2013,26/06/2013,Chase Larson,Tammy Lutz,-31.95224,115.8614,Perth,AU,Perth,FALSE,TRUE,TRUE,silent
+Australia,1/09/2011,18/10/2011,Alex Brown,Richard Reyes,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,TRUE,paranoid
+Australia,11/11/2009,2/12/2009,Michael Sellers,Samuel Cunningham,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,worried
+Australia,15/07/1990,29/08/1990,Jared Pitts,Sharon Young,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,friendly
+Australia,13/09/1994,11/10/1994,Steve Williams,Micheal Thomas,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,FALSE,TRUE,happy
+Australia,29/12/2009,11/01/2010,Lori Cruz,Donna Martin,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,TRUE,lonely
+Australia,5/11/1994,11/11/1994,Tina Butler,Evan Perkins,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,TRUE,TRUE,out-of-control
+Australia,13/05/1988,25/05/1988,Joshua Nguyen,Donald Miller,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,TRUE,TRUE,tense
+Australia,29/09/2003,6/11/2003,Shannon Ross,Christine Shah,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,TRUE,TRUE,friendly
+Australia,27/08/1994,30/09/1994,Ashley Chapman,Julia Cannon,-37.9,145.18333,Wheelers Hill,AU,Melbourne,TRUE,FALSE,TRUE,confessing
+Australia,9/05/2016,27/05/2016,Jennifer Arnold,Tracy Young,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,TRUE,FALSE,evasive
+Australia,16/08/2000,7/10/2000,Sarah Martinez,Amy Gomez,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,TRUE,insulting
+Australia,20/02/2005,1/04/2005,Todd Murray,Christopher Morrison,-31.95224,115.8614,Perth,AU,Perth,FALSE,TRUE,TRUE,talkative
+Australia,6/12/2004,24/12/2004,Dr. James Carter,Christopher Morris,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,silent
+Australia,24/07/1993,25/08/1993,James Krause,Meredith Gibbs,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,over-complimenting
+Australia,12/04/1989,28/04/1989,Charles Smith,Leslie Anderson,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,FALSE,TRUE,injured
+Australia,19/07/1986,2/08/1986,Carolyn Young,Rebecca Jackson,-37.9,145.18333,Wheelers Hill,AU,Melbourne,TRUE,TRUE,TRUE,oblivious
+Australia,12/06/2014,4/08/2014,Erik Woods,Chris Campbell Jr.,-25.54073,152.70493,Maryborough,AU,Brisbane,TRUE,TRUE,TRUE,scared
+Australia,1/10/1999,18/11/1999,Brett Thomas,Michael Barron,-31.95224,115.8614,Perth,AU,Perth,TRUE,TRUE,TRUE,injured
+Australia,14/12/1994,10/01/1995,Mr. Todd Webb,Rebecca Jackson,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,tense
+Australia,21/09/1994,18/10/1994,Dawn Lawrence,Kevin Contreras,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,happy
+Australia,3/02/2005,24/02/2005,Francis Delgado,Ashley Howell,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,scared
+Australia,21/07/2010,23/07/2010,Jodi Lee,Melinda Evans,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,TRUE,TRUE,unhappy
+Australia,27/04/2010,31/05/2010,Katherine Campbell,Eddie Hall,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,TRUE,TRUE,oblivious
+Australia,2/01/2016,3/01/2016,Mary Salazar,Andrew Sullivan,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,FALSE,FALSE,accusatory
+Australia,25/05/1995,3/06/1995,Lindsay Burnett,Shawn Ramirez,-34.28853,146.05093,Griffith,AU,Sydney,TRUE,TRUE,TRUE,sad
+Australia,3/07/1992,10/08/1992,Gloria Thomas,John Hayes,-32.05251,115.88782,Willetton,AU,Perth,TRUE,FALSE,TRUE,oblivious
+Australia,25/09/1985,18/10/1985,Michael Townsend,Kimberly Cooper,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,FALSE,TRUE,tense
+Australia,10/01/2016,22/01/2016,Victor Wyatt,Courtney Thompson,-37.9,145.18333,Wheelers Hill,AU,Melbourne,FALSE,FALSE,TRUE,oblivious
+Australia,7/04/1991,22/04/1991,Linda Gordon,Stephanie Taylor,-34.28853,146.05093,Griffith,AU,Sydney,FALSE,TRUE,TRUE,unhappy
+Australia,10/05/2013,7/07/2013,Kirsten Salas,Stephanie Mcmillan,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,TRUE,TRUE,injured
+Australia,18/09/1998,23/09/1998,Rodney Oconnell PhD,Richard Lambert,-32.05251,115.88782,Willetton,AU,Perth,FALSE,TRUE,FALSE,accusatory
+Australia,19/06/2008,25/06/2008,Miguel Johnson PhD,Mark Valenzuela,-31.95224,115.8614,Perth,AU,Perth,FALSE,TRUE,TRUE,tense
+Australia,25/09/2002,12/10/2002,Joseph Thompson,Michelle Green,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,over-complimenting
+Australia,2/03/1992,8/03/1992,Elizabeth Wright,Alan Ford,-34.28853,146.05093,Griffith,AU,Sydney,TRUE,FALSE,TRUE,out-of-control
+Australia,10/11/1989,11/11/1989,Derek Kerr PhD,Jeffrey Bush,-27.50578,153.10236,Carindale,AU,Brisbane,FALSE,TRUE,TRUE,unhappy
+Australia,5/04/2013,26/04/2013,Anthony Newton,Laura Oconnor,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,FALSE,FALSE,silent
+Australia,18/01/2018,28/01/2018,Jamie Gonzalez,Gregory Moore,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,FALSE,TRUE,talkative
+Australia,5/03/1993,15/04/1993,William Hernandez,David Harrington,-33.75881,150.99292,Baulkham Hills,AU,Sydney,FALSE,FALSE,TRUE,hostile
+Australia,22/01/2012,29/01/2012,William Bennett,Eric Wilson,-34.88422,150.60036,Nowra,AU,Sydney,TRUE,TRUE,TRUE,hostile
+Australia,29/10/1996,27/11/1996,Sandra Carroll,Christine Shah,-38.16604,145.13643,Frankston South,AU,Melbourne,FALSE,FALSE,TRUE,sad
+Australia,21/06/2007,21/07/2007,Anthony Thompson,Holly Chapman,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,panicking
+Australia,24/05/1990,10/06/1990,Sheryl Kelly,Mary Weaver,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,oblivious
+Australia,14/05/2009,11/06/2009,Christian Compton,Chris Campbell Jr.,-25.54073,152.70493,Maryborough,AU,Brisbane,FALSE,TRUE,TRUE,worried
+Australia,20/03/2004,30/03/2004,Michael Price,Michael Riddle,-32.05251,115.88782,Willetton,AU,Perth,FALSE,FALSE,TRUE,worried
+Australia,11/05/2000,10/06/2000,Fernando Roberts,Teresa Sanchez,-27.50578,153.10236,Carindale,AU,Brisbane,TRUE,FALSE,TRUE,insulting
+Australia,30/08/2008,23/09/2008,William Tate,Nicole Payne,-37.9,145.18333,Wheelers Hill,AU,Melbourne,TRUE,TRUE,TRUE,evasive
+Australia,10/08/1997,21/08/1997,Joseph Garcia PhD,Samuel Jackson,-32.05251,115.88782,Willetton,AU,Perth,FALSE,TRUE,TRUE,injured
+Australia,4/11/2018,11/12/2018,Stephanie Ramirez,Grant Humphrey,-34.88422,150.60036,Nowra,AU,Sydney,FALSE,FALSE,TRUE,injured
+Australia,16/01/2014,27/01/2014,Charles Richardson,Wayne Knight,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,lonely
+Australia,16/01/2010,24/01/2010,Cheryl Petersen,Jacob Carlson,-37.88333,145.06667,Carnegie,AU,Melbourne,FALSE,TRUE,TRUE,out-of-control
+Australia,5/12/2014,9/12/2014,Carol Suarez,Kayla Klein,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,FALSE,TRUE,tense
+Australia,11/06/1998,13/06/1998,Rhonda Whitaker,Nathaniel Jackson,-33.88096,151.07986,Strathfield,AU,Sydney,FALSE,TRUE,TRUE,evasive
+Australia,19/04/2006,12/05/2006,Victoria Cunningham,Todd Garcia,-33.79176,151.08057,Eastwood,AU,Sydney,FALSE,TRUE,TRUE,worried

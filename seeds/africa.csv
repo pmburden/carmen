@@ -1,0 +1,1193 @@
+region,date_witness,date_agent,witness,agent,latitude,longitude,city,country,city_agent,has_weapon,has_hat,has_jacket,behavior
+Africa,1/08/1997,16/09/1997,Eric Edwards,Gerald Green,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,FALSE,TRUE,fleeing
+Africa,16/04/1987,22/05/1987,Kenneth Sparks,Kimberly Gibson,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,TRUE,TRUE,scared
+Africa,27/07/1985,21/08/1985,Douglas Brown,Margaret Ortega,36.08497,9.37082,Siliana,TN,Tunis,FALSE,TRUE,TRUE,talkative
+Africa,2/11/2007,7/11/2007,Elizabeth Webb,Edward Anderson,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,FALSE,TRUE,evasive
+Africa,1/11/2001,11/11/2001,David Jefferson,Matthew Brown,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,silent
+Africa,4/11/2008,29/12/2008,Michael Spears,Christina Krause,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,TRUE,TRUE,over-complimenting
+Africa,21/01/2008,18/02/2008,Leah Fitzgerald,Daniel Moore,9.89206,43.38531,Baki,SO,Mogadishu,TRUE,FALSE,TRUE,fleeing
+Africa,11/03/1993,23/04/1993,Courtney Cantu,Robert Baird,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,FALSE,TRUE,out-of-control
+Africa,26/03/1990,24/05/1990,Brittney Knight,Jeremy Mccullough,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,TRUE,confessing
+Africa,18/05/1990,4/06/1990,Christopher Cummings,Charles Mitchell,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,FALSE,tense
+Africa,6/09/2008,23/10/2008,Thomas Brown,Thomas Hamilton,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,TRUE,TRUE,out-of-control
+Africa,14/01/1991,24/02/1991,April Sampson,Kevin Contreras,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,TRUE,TRUE,complaining
+Africa,21/10/2010,30/10/2010,Darlene West,Jeffery Blair,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,FALSE,TRUE,tense
+Africa,8/12/2010,22/01/2011,James Greene,Stephen Ferguson,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,TRUE,FALSE,out-of-control
+Africa,10/07/1992,4/08/1992,Casey Chapman,Timothy Davis,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,FALSE,TRUE,sad
+Africa,20/02/2013,21/03/2013,Jaime Ford,Darrell Crawford,-26.93366,29.24152,Standerton,ZA,Johannesburg,TRUE,TRUE,TRUE,friendly
+Africa,6/09/2020,23/09/2020,Sharon Figueroa,Alexis Conway PhD,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,unhappy
+Africa,22/10/2018,19/12/2018,Michael Miller,Gordon Jimenez,12.74482,4.52514,Argungu,NG,Lagos,TRUE,TRUE,TRUE,scared
+Africa,1/07/2017,23/08/2017,Jacob Rogers,Kathleen Hicks,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,TRUE,TRUE,paranoid
+Africa,15/01/2006,25/02/2006,Susan Davis,Beth Cuevas,7.06273,-1.4001,Mampong,GH,Accra,FALSE,FALSE,FALSE,talkative
+Africa,18/06/1987,28/06/1987,Heidi Jenkins,Marie Hill,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,FALSE,TRUE,confessing
+Africa,26/11/1985,8/12/1985,Christina Boone,Caleb Cook,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,TRUE,happy
+Africa,19/12/2005,29/12/2005,Lori Parker,Aaron Nguyen,5.30383,-1.98956,Tarkwa,GH,Accra,TRUE,TRUE,TRUE,paranoid
+Africa,29/12/2010,22/01/2011,Jonathan Page,Bethany Chen,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,FALSE,TRUE,friendly
+Africa,27/07/2002,27/07/2002,Colton Jones,Allen Baker,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,TRUE,FALSE,over-complimenting
+Africa,11/08/1985,30/09/1985,Raymond Mccullough,Nicole Adams,35.21222,2.31889,Ksar Chellala,DZ,Algiers,FALSE,FALSE,TRUE,silent
+Africa,19/01/2005,14/03/2005,Sonya Kirby,Jacob Santiago,4.2475,9.00472,Idenao,CM,Douala,FALSE,FALSE,FALSE,paranoid
+Africa,8/04/1993,28/05/1993,David King,Lauren Smith,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,TRUE,TRUE,TRUE,fleeing
+Africa,25/01/1999,2/02/1999,Jennifer Lopez,Brandon Miller,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,TRUE,TRUE,out-of-control
+Africa,19/12/2008,20/12/2008,Melissa Miller,Sandra Ramos,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,FALSE,TRUE,lonely
+Africa,19/12/1990,5/01/1991,Shelby Bartlett,John Barr,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,FALSE,TRUE,silent
+Africa,1/02/2009,17/02/2009,Dylan Moyer,Randy Simmons,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,happy
+Africa,12/01/1995,11/02/1995,Dr. Andre Rivera,Todd Garcia,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,TRUE,FALSE,scared
+Africa,26/05/2006,30/06/2006,Daniel Williams,Nicole Scott,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,oblivious
+Africa,16/03/1994,22/04/1994,Robert Berry,Christian Moore,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,out-of-control
+Africa,5/01/2009,9/01/2009,Amanda Allen,Miranda Lester,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,silent
+Africa,22/06/1990,25/07/1990,Ryan Buchanan,Stephanie Taylor,5.84752,-5.682,Lakota,CI,Abidjan,TRUE,TRUE,TRUE,panicking
+Africa,22/12/1994,28/01/1995,Robert Moore,Alexandra Jones,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,unhappy
+Africa,19/10/2013,30/10/2013,Christina Lee,Kimberly Cooper,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,FALSE,TRUE,silent
+Africa,10/02/2007,2/04/2007,Barbara Garza,Tiffany Bennett,-21.44236,27.46153,Tonota,BW,Gaborone,TRUE,FALSE,TRUE,insulting
+Africa,1/03/2001,11/04/2001,Jesse Roberts,Candice Johnson,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,TRUE,TRUE,happy
+Africa,8/09/2001,17/09/2001,Jason Crane,Paul Rogers,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,FALSE,FALSE,accusatory
+Africa,14/11/2013,14/11/2013,Jacqueline Newton,Cynthia Moore,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,FALSE,FALSE,over-complimenting
+Africa,24/07/2017,23/08/2017,Christina Prince,Kevin Martin,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,panicking
+Africa,12/03/1993,29/04/1993,Andrew Rodriguez,Todd Garcia,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,scared
+Africa,10/11/2013,16/12/2013,Amy Bowen,Thomas Hamilton,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,TRUE,TRUE,accusatory
+Africa,1/06/2012,3/07/2012,Lori Murphy,Austin Williams,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,TRUE,TRUE,lonely
+Africa,19/05/1993,12/07/1993,Tracy Sullivan,Jasmine Rowland,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,TRUE,TRUE,happy
+Africa,21/10/2005,7/12/2005,Tiffany Hood,Valerie Griffin,26.67319,31.4976,Juhaynah,EG,Cairo,FALSE,FALSE,TRUE,friendly
+Africa,25/05/2019,21/07/2019,Tara Jefferson MD,Mark Williams,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,lonely
+Africa,1/12/2008,25/12/2008,Jason Guerrero,Meredith Gibbs,-26.93366,29.24152,Standerton,ZA,Johannesburg,TRUE,TRUE,TRUE,evasive
+Africa,14/08/2013,19/08/2013,Jose Moore,Kenneth Barrett,34.31,-2.16,Jerada,MA,Casablanca,FALSE,TRUE,TRUE,over-complimenting
+Africa,30/04/2020,27/05/2020,Steven Stafford,Mr. Frederick Bryant,-13.7804,34.4587,Salima,MW,Blantyre,FALSE,FALSE,TRUE,evasive
+Africa,17/01/2008,29/02/2008,Richard Mcdaniel,Angelica Chan,35.72917,10.58082,Msaken,TN,Tunis,FALSE,FALSE,TRUE,tense
+Africa,5/06/2004,3/08/2004,Mary Tyler,Lacey Brown,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,FALSE,TRUE,hostile
+Africa,14/09/2001,30/09/2001,Kevin Graves,Todd Garcia,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,FALSE,TRUE,fleeing
+Africa,29/06/1998,15/07/1998,Daniel Cooley,Denise Park,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,TRUE,TRUE,worried
+Africa,4/12/1995,10/01/1996,Robert Thomas,David Richardson,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,TRUE,TRUE,sad
+Africa,12/10/1998,15/10/1998,Paula Carpenter,Kimberly Woods,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,TRUE,TRUE,friendly
+Africa,30/06/2011,3/08/2011,Lisa Stevens,Victor Tapia,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,TRUE,TRUE,unhappy
+Africa,13/09/2005,8/10/2005,Jeffery Martinez,John Hayes,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,evasive
+Africa,28/09/1997,29/10/1997,Robin Miller,Ashley Davis,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,TRUE,FALSE,out-of-control
+Africa,26/03/1996,26/03/1996,Gregory White,Zachary Hawkins,4.96667,10.7,Tonga,CM,Douala,FALSE,FALSE,TRUE,accusatory
+Africa,9/10/1992,4/11/1992,David Henry,Alexa Flores,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,panicking
+Africa,28/06/2015,8/07/2015,Kellie Gray,Nancy White,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,TRUE,TRUE,happy
+Africa,7/07/2003,20/07/2003,Jon Smith,Steven Lee,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,FALSE,complaining
+Africa,12/02/2008,16/03/2008,April Brown,Jennifer Snyder,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,TRUE,TRUE,happy
+Africa,13/09/2011,22/09/2011,Alicia Rivera,Michelle Lee,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,TRUE,over-complimenting
+Africa,6/08/2014,6/08/2014,Tammy Lopez,Jennifer Swanson,5.30383,-1.98956,Tarkwa,GH,Accra,TRUE,FALSE,TRUE,hostile
+Africa,23/12/1992,4/02/1993,Amy Hanson,Sonia Mcdaniel,12.74409,-8.07257,Kati,ML,Bamako,TRUE,FALSE,TRUE,sad
+Africa,29/08/1991,28/09/1991,Gary Jordan,Cynthia Carr,37.16911,10.03478,El Alia,TN,Tunis,FALSE,TRUE,TRUE,panicking
+Africa,26/04/1999,1/06/1999,Joseph Mills,Emily Mccoy,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,FALSE,TRUE,over-complimenting
+Africa,26/10/1988,24/12/1988,Robert Lin,Dr. Crystal Mccormick,35.72917,10.58082,Msaken,TN,Tunis,FALSE,FALSE,TRUE,talkative
+Africa,24/09/2012,24/09/2012,Sheri Kaiser,Joseph Arellano,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,FALSE,FALSE,friendly
+Africa,25/04/2021,25/04/2021,Denise Smith,Destiny Peterson,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,lonely
+Africa,1/05/1990,10/06/1990,Melanie Chapman,Terry Erickson,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,TRUE,TRUE,friendly
+Africa,7/11/1992,23/12/1992,Joan Wallace,Samuel Cunningham,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,TRUE,lonely
+Africa,4/01/2006,18/01/2006,Patricia Bush,Randy Simmons,6.8485,3.64633,Shagamu,NG,Lagos,TRUE,TRUE,FALSE,paranoid
+Africa,31/12/2012,27/01/2013,Miss Jennifer Willis MD,Lisa Sweeney,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,TRUE,TRUE,panicking
+Africa,31/08/1988,12/10/1988,Kayla Hebert,Michael Riddle,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,TRUE,TRUE,friendly
+Africa,13/04/2008,30/04/2008,Lisa Edwards,Holly Chapman,9.58126,8.2926,Kafanchan,NG,Lagos,FALSE,TRUE,TRUE,insulting
+Africa,6/04/2012,28/05/2012,Michael Simmons,Laura Oconnor,33.43443,-5.22126,Azrou,MA,Casablanca,TRUE,TRUE,TRUE,paranoid
+Africa,16/03/2019,3/04/2019,Alexis West,Cynthia Carr,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,TRUE,TRUE,worried
+Africa,26/06/1987,27/07/1987,Hailey Parsons,Jordan Torres,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,FALSE,TRUE,tense
+Africa,20/09/1997,21/10/1997,Melissa Alexander,Evan Perkins,-13.7804,34.4587,Salima,MW,Blantyre,FALSE,TRUE,TRUE,worried
+Africa,21/09/2019,18/11/2019,Jeffrey Cooper,Mr. James Hooper,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,TRUE,TRUE,unhappy
+Africa,23/09/1996,24/09/1996,Grace Walsh,Adam Smith,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,TRUE,scared
+Africa,4/06/2019,2/08/2019,Michael Padilla,Mark Valenzuela,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,TRUE,paranoid
+Africa,8/04/2014,6/06/2014,Megan Hernandez,Brett Scott,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,paranoid
+Africa,27/05/2020,27/06/2020,Andrew Roberts,Carrie Boone,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,complaining
+Africa,12/02/1997,16/03/1997,Emily Miles,Christopher Sandoval,11.86064,9.0027,Gaya,NG,Lagos,FALSE,FALSE,TRUE,injured
+Africa,7/12/1994,11/12/1994,Hannah Miller,James Bryant,-8.73508,24.99798,Kamina,CD,Lubumbashi,FALSE,FALSE,TRUE,friendly
+Africa,24/07/2002,11/08/2002,Nicholas Rogers,Ashley Larson,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,happy
+Africa,19/07/2013,29/08/2013,Justin Jackson,Susan Bowers,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,FALSE,TRUE,paranoid
+Africa,16/07/2015,30/08/2015,James Chase,Matthew Brown,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,unhappy
+Africa,2/09/2015,4/09/2015,Mark Owens,Ronald Wong PhD,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,FALSE,TRUE,evasive
+Africa,21/07/2021,11/08/2021,John Evans,Holly Chapman,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,TRUE,TRUE,paranoid
+Africa,8/01/2022,21/01/2022,Jennifer Roberson,Carrie Jones,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,TRUE,TRUE,TRUE,talkative
+Africa,17/03/2009,20/03/2009,Christopher Johnson,Ryan Wilkinson,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,FALSE,TRUE,talkative
+Africa,2/01/2007,27/02/2007,John Johnson,Daniel Moore,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,TRUE,TRUE,tense
+Africa,1/04/1990,17/05/1990,Ryan Chandler,Charles Moran,3.51667,11.5,Mbalmayo,CM,Douala,FALSE,TRUE,TRUE,hostile
+Africa,21/09/1996,18/10/1996,Marissa Pugh,Anthony Hamilton,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,sad
+Africa,1/09/1990,22/09/1990,Mario Barber,Christina Krause,2.41669,30.98551,Paidha,UG,Kampala,TRUE,TRUE,TRUE,panicking
+Africa,20/08/1989,29/08/1989,Anthony Brooks,Jeanne Green,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,injured
+Africa,30/05/2003,16/06/2003,Philip Boone,Daniel Lewis,7.06273,-1.4001,Mampong,GH,Accra,FALSE,FALSE,TRUE,paranoid
+Africa,11/03/2020,1/04/2020,Shannon Hines,Dr. Gregory Gibson,7.6,4.18333,Olupona,NG,Lagos,FALSE,TRUE,TRUE,talkative
+Africa,3/05/2014,26/05/2014,Kara Flores,Diana Torres,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,oblivious
+Africa,4/10/2015,9/11/2015,Matthew Moore,Andrew Sullivan,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,FALSE,TRUE,paranoid
+Africa,14/10/2021,10/11/2021,David Hart,Laura Santana,-4.26613,15.28318,Brazzaville,CG,Brazzaville,TRUE,FALSE,TRUE,fleeing
+Africa,25/08/1996,23/09/1996,Matthew Griffin,Shelia Holmes,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,FALSE,oblivious
+Africa,13/03/1990,29/03/1990,Latasha Santiago,Todd Garcia,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,TRUE,TRUE,TRUE,lonely
+Africa,13/09/1990,23/09/1990,Donald Atkins,Natalie Jordan,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,FALSE,TRUE,friendly
+Africa,7/09/2013,12/10/2013,Kelly Anderson,Tiffany Bennett,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,FALSE,TRUE,sad
+Africa,31/08/1996,12/09/1996,Mikayla Brown,John Hayes,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,FALSE,TRUE,talkative
+Africa,16/11/2002,9/01/2003,Valerie White,Emily Mccoy,36.76775,2.95924,Cheraga,DZ,Algiers,TRUE,TRUE,TRUE,lonely
+Africa,6/02/2007,22/03/2007,Kimberly Herrera,Pamela Gonzales,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,tense
+Africa,10/03/2012,31/03/2012,Erica Lopez,Evelyn Hines,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,TRUE,TRUE,talkative
+Africa,3/11/2020,15/12/2020,Linda Cline,Allen Lawrence,3.02013,30.91105,Arua,UG,Kampala,FALSE,TRUE,TRUE,complaining
+Africa,27/09/2014,23/11/2014,Jeffery Flores,Victoria Rodriguez,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,TRUE,TRUE,oblivious
+Africa,26/02/1999,2/03/1999,Mr. Alex Jackson,Cristina Reynolds,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,TRUE,TRUE,lonely
+Africa,8/02/2001,1/03/2001,Mrs. Angela Parsons,Alan Ford,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,FALSE,TRUE,friendly
+Africa,12/08/1992,13/09/1992,Travis Luna,Summer Mosley,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,FALSE,TRUE,out-of-control
+Africa,22/05/1992,16/07/1992,John Williams,Chloe Harris,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,FALSE,TRUE,lonely
+Africa,8/11/2013,20/12/2013,Gina Williams DVM,Nicole Hart,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,FALSE,TRUE,complaining
+Africa,29/05/2008,19/07/2008,Mary Thompson,Carrie Boone,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,TRUE,out-of-control
+Africa,2/01/1993,13/02/1993,Justin Roman,Michael Bailey,-1.9487,30.4347,Rwamagana,RW,Kigali,TRUE,TRUE,TRUE,out-of-control
+Africa,10/12/1991,17/01/1992,Christopher Huerta,Stephanie Brooks,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,TRUE,TRUE,over-complimenting
+Africa,8/05/2006,16/05/2006,Mary Ross,David Wagner,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,TRUE,TRUE,happy
+Africa,19/08/1997,5/09/1997,Rita Fernandez,Kerri Clay,10.61285,12.19458,Biu,NG,Lagos,FALSE,TRUE,TRUE,worried
+Africa,15/03/2009,22/03/2009,Lisa Bradley,Bethany Chen,12.74409,-8.07257,Kati,ML,Bamako,FALSE,TRUE,TRUE,over-complimenting
+Africa,13/04/2003,24/05/2003,James Brewer,Elizabeth Cook,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,panicking
+Africa,30/03/2002,8/04/2002,Christina Johnson,Kendra Mercado,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,TRUE,TRUE,TRUE,talkative
+Africa,25/05/2022,6/06/2022,Sarah Owens,Charles Moran,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,FALSE,TRUE,hostile
+Africa,6/06/2004,8/07/2004,Morgan Ferguson,Joshua Curtis,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,FALSE,TRUE,accusatory
+Africa,13/01/2001,18/01/2001,Susan Winters,Matthew Brown,10.61285,12.19458,Biu,NG,Lagos,FALSE,FALSE,TRUE,panicking
+Africa,1/09/1989,16/10/1989,Dana Jones,Aaron Nguyen,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,unhappy
+Africa,27/09/2019,5/10/2019,Dillon Ramirez,Brittany Henderson,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,FALSE,TRUE,lonely
+Africa,5/05/2005,2/07/2005,Stacey Young,Donald Pierce,12.74482,4.52514,Argungu,NG,Lagos,FALSE,TRUE,TRUE,lonely
+Africa,18/05/1998,6/07/1998,Sheena Joyce,Gordon Jimenez,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,TRUE,tense
+Africa,2/11/2018,25/12/2018,Allison Knight,Jeffrey Graves MD,24.96334,10.18003,Ghat,LY,Tripoli,FALSE,TRUE,FALSE,paranoid
+Africa,31/08/1986,9/10/1986,James Garcia,Jeremy Moran,12.18441,18.69303,Mongo,TD,Ndjamena,TRUE,TRUE,FALSE,over-complimenting
+Africa,8/07/2021,16/07/2021,Amanda Stuart,Thomas Hamilton,6.8485,3.64633,Shagamu,NG,Lagos,TRUE,TRUE,TRUE,tense
+Africa,27/02/1988,27/03/1988,Chad Wilson,Stephanie Mcmillan,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,hostile
+Africa,6/04/2016,23/05/2016,Mitchell Jones,Samuel Cunningham,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,TRUE,out-of-control
+Africa,24/02/1993,15/04/1993,Betty Parker,Jason Mccarthy,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,TRUE,worried
+Africa,6/04/1990,12/04/1990,Anne Weaver,Nancy White,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,happy
+Africa,30/11/2001,6/01/2002,Carlos Brown,Jimmy Patel,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,talkative
+Africa,24/06/2007,29/06/2007,Lindsay Whitaker,Stephanie Brooks,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,evasive
+Africa,24/08/1995,15/10/1995,Jose Watson,Todd Robinson,-8.73508,24.99798,Kamina,CD,Lubumbashi,TRUE,FALSE,TRUE,fleeing
+Africa,1/08/2001,11/09/2001,Tonya Walker,Joseph Rogers,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,hostile
+Africa,15/06/2010,5/08/2010,Lisa Pearson,Dawn Simmons,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,TRUE,TRUE,panicking
+Africa,7/01/2006,21/02/2006,Dr. Scott Anderson,Justin White,7.06273,-1.4001,Mampong,GH,Accra,FALSE,TRUE,TRUE,lonely
+Africa,27/12/2010,2/01/2011,Nicole Robinson,Jacob Salazar,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,FALSE,TRUE,tense
+Africa,15/03/2004,14/04/2004,Christian Richardson,Jeffery Lee,35.72917,10.58082,Msaken,TN,Tunis,FALSE,TRUE,FALSE,accusatory
+Africa,16/10/2015,20/10/2015,Jonathan Roberts,Jorge Novak,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,TRUE,silent
+Africa,20/04/2012,13/06/2012,Brandon Ford,Wayne Knight,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,TRUE,TRUE,panicking
+Africa,22/04/2001,15/05/2001,Paul Martin,Laura Santana,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,insulting
+Africa,19/01/2003,10/02/2003,Ryan Smith,Shelly Espinoza,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,worried
+Africa,28/11/2021,17/01/2022,James Smith,Christopher Baker,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,friendly
+Africa,8/03/1988,18/04/1988,Benjamin Bennett,David Woodward,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,TRUE,TRUE,sad
+Africa,13/02/1993,29/03/1993,Matthew Ortiz,Rita Johnson,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,TRUE,FALSE,accusatory
+Africa,3/03/2012,23/03/2012,Scott Escobar,Kevin Contreras,7.06273,-1.4001,Mampong,GH,Accra,FALSE,TRUE,TRUE,complaining
+Africa,6/08/1988,1/09/1988,Katie Thompson,Robert Maxwell,4.94273,15.87735,Carnot,CF,Bangui,FALSE,FALSE,TRUE,friendly
+Africa,25/11/2003,19/12/2003,Deborah Brooks,Laura Oconnor,24.96334,10.18003,Ghat,LY,Tripoli,FALSE,FALSE,TRUE,lonely
+Africa,3/06/2008,11/06/2008,Amber Dennis,Christine Obrien,-27.76952,30.79165,Vryheid,ZA,Johannesburg,TRUE,FALSE,TRUE,friendly
+Africa,18/07/1990,31/08/1990,Heather Stewart,Jasmine Rowland,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,TRUE,TRUE,talkative
+Africa,31/07/1997,15/08/1997,Ashley Mitchell,Kimberly Woods,0.49113,29.47306,Beni,CD,Lubumbashi,FALSE,FALSE,TRUE,over-complimenting
+Africa,29/05/2007,22/06/2007,Timothy Rodriguez,Shawn Ramirez,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,TRUE,TRUE,panicking
+Africa,16/03/2003,16/04/2003,Jeffrey Powell,Brandy White,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,unhappy
+Africa,19/09/1986,4/11/1986,Stephanie Williams,Rachel Martin,-7.76667,35.7,Iringa,TZ,Dar es Salaam,TRUE,TRUE,TRUE,scared
+Africa,23/06/2013,13/08/2013,Melanie Schultz,Cassidy Brown,34.31,-2.16,Jerada,MA,Casablanca,FALSE,TRUE,TRUE,tense
+Africa,13/02/2008,16/03/2008,Regina Keller,Jerry Collins,-7.76667,35.7,Iringa,TZ,Dar es Salaam,TRUE,TRUE,TRUE,worried
+Africa,15/08/1995,15/09/1995,Megan Welch,Ashley Carr,24.96334,10.18003,Ghat,LY,Tripoli,FALSE,FALSE,TRUE,evasive
+Africa,12/03/2016,2/05/2016,Ryan Collins,Adam Mathis,35.72917,10.58082,Msaken,TN,Tunis,FALSE,FALSE,TRUE,tense
+Africa,5/05/1989,15/05/1989,Chase Garcia,Dr. John Webb DVM,34.15429,3.50309,Messaad,DZ,Algiers,TRUE,TRUE,TRUE,insulting
+Africa,14/09/2007,29/10/2007,Christina Mccann,Teresa Diaz,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,TRUE,TRUE,insulting
+Africa,18/09/1989,18/09/1989,Steven Orr,Sarah Reynolds,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,FALSE,TRUE,evasive
+Africa,28/05/2004,3/06/2004,Mary Clay,Grant Humphrey,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,FALSE,unhappy
+Africa,20/10/2013,8/12/2013,Steven Spencer,Ray Hall,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,evasive
+Africa,22/05/1998,20/07/1998,Renee Sanchez,Shelia Holmes,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,TRUE,TRUE,lonely
+Africa,19/07/1994,30/08/1994,Ashley Porter,Elizabeth Cook,34.15429,3.50309,Messaad,DZ,Algiers,TRUE,FALSE,TRUE,silent
+Africa,26/10/1993,11/11/1993,Jared Jarvis,Michael Bailey,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,TRUE,TRUE,accusatory
+Africa,8/12/1993,17/12/1993,Michael Miller,Alexandra Jones,2.41669,30.98551,Paidha,UG,Kampala,FALSE,FALSE,TRUE,complaining
+Africa,2/06/1995,2/06/1995,Brian Carroll,William Gallagher,36.72544,3.55665,Thenia,DZ,Algiers,TRUE,FALSE,TRUE,accusatory
+Africa,23/01/2006,20/03/2006,Jeremy Lopez,Ashley Farrell,36.08497,9.37082,Siliana,TN,Tunis,FALSE,TRUE,TRUE,paranoid
+Africa,29/07/1988,5/09/1988,Gregory Davenport,Brian Delacruz,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,paranoid
+Africa,8/07/2004,31/08/2004,Anthony Flowers,Susan Bowers,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,FALSE,TRUE,happy
+Africa,18/05/2011,24/06/2011,Nancy Mason,Angelica Chan,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,TRUE,TRUE,friendly
+Africa,21/04/2014,24/04/2014,Michael Delgado,Christina Ball,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,FALSE,TRUE,worried
+Africa,11/05/2015,24/06/2015,Michael Tucker,Marie Hernandez,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,paranoid
+Africa,13/06/2006,13/06/2006,Jason Dawson,Maria Tucker,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,talkative
+Africa,10/02/1992,22/03/1992,Susan Perry,Emily Johns,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,TRUE,TRUE,over-complimenting
+Africa,10/11/1992,12/12/1992,Levi Jones,Lindsey Wheeler,-1.9487,30.4347,Rwamagana,RW,Kigali,TRUE,TRUE,TRUE,out-of-control
+Africa,31/08/2013,21/09/2013,Kelsey Ford,Kenneth Barrett,35.72917,10.58082,Msaken,TN,Tunis,TRUE,TRUE,TRUE,confessing
+Africa,6/12/1990,27/01/1991,Ann Tucker,Reginald Harvey,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,FALSE,TRUE,silent
+Africa,28/11/2011,23/01/2012,Steven Shepard,Wesley Horton,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,TRUE,TRUE,accusatory
+Africa,4/09/2005,29/10/2005,Amber Wright,Gregory Hanson,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,FALSE,TRUE,insulting
+Africa,19/08/2002,26/09/2002,Lisa Smith,Christopher Morrison,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,tense
+Africa,21/12/2015,4/01/2016,Joshua Lewis,Barbara Bailey,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,talkative
+Africa,14/05/2000,1/06/2000,Courtney Bryant,Melissa Ellis,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,TRUE,TRUE,injured
+Africa,12/12/2010,3/02/2011,Crystal Mcdonald,Sarah Green,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,FALSE,TRUE,sad
+Africa,8/05/1997,30/05/1997,Ashley Hanna,Rachel Lucas,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,FALSE,FALSE,evasive
+Africa,14/07/2021,24/08/2021,Alexander Caldwell,Michael Higgins,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,FALSE,TRUE,paranoid
+Africa,1/01/2016,28/02/2016,Robert Scott IV,Jeffrey Bush,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,FALSE,TRUE,evasive
+Africa,12/01/1996,7/02/1996,Christine Gardner,Lindsey Wheeler,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,TRUE,TRUE,friendly
+Africa,16/07/1986,30/07/1986,Laura Williams,Michael Smith,8.48714,-13.2356,Freetown,SL,Freetown,TRUE,TRUE,TRUE,scared
+Africa,11/10/2001,29/10/2001,Gregory Pitts,Barbara Bailey,3.11988,35.59642,Lodwar,KE,Nairobi,TRUE,FALSE,FALSE,accusatory
+Africa,26/02/2018,25/04/2018,William Jackson,Stacey Morris,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,TRUE,TRUE,confessing
+Africa,15/06/2011,9/07/2011,Jennifer Smith,Kathryn Martin,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,FALSE,TRUE,accusatory
+Africa,27/09/1998,1/11/1998,Jennifer Collins,Kerry Buck,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,TRUE,TRUE,unhappy
+Africa,24/01/1990,17/02/1990,Timothy Woods,Jeanne Green,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,evasive
+Africa,8/02/2009,3/04/2009,David Williams,Ashley Howell,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,FALSE,TRUE,scared
+Africa,6/09/2009,21/09/2009,David Sims,Sandra Ramos,-1.63333,13.58357,Franceville,GA,Libreville,TRUE,FALSE,TRUE,insulting
+Africa,25/02/2010,5/03/2010,Allen Duran,Garrett Moore,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,oblivious
+Africa,12/11/1994,4/12/1994,Robert Snyder,Andrew Miranda,-6.8,39.25,Magomeni,TZ,Dar es Salaam,TRUE,TRUE,TRUE,sad
+Africa,10/04/2018,3/06/2018,Tammy Zamora,Belinda Thompson,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,FALSE,TRUE,out-of-control
+Africa,13/05/1996,5/06/1996,Nicole Miller,Joshua Reed,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,FALSE,TRUE,accusatory
+Africa,19/02/1988,21/02/1988,Timothy Mason,Kimberly Cooper,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,TRUE,TRUE,worried
+Africa,19/07/2005,20/07/2005,Ian Reed,Christopher Miller,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,talkative
+Africa,12/10/2005,16/10/2005,Carolyn Hicks,Allen Baker,0.49113,29.47306,Beni,CD,Lubumbashi,FALSE,TRUE,TRUE,accusatory
+Africa,15/05/2013,27/06/2013,David Perez,Jennifer Hernandez,-11.78333,19.91667,Luena,AO,Luanda,FALSE,FALSE,TRUE,tense
+Africa,4/06/2015,12/07/2015,Matthew Larson,Stephen Graham,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,TRUE,TRUE,silent
+Africa,24/06/2006,27/06/2006,Matthew Vega,Cynthia Carr,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,TRUE,TRUE,injured
+Africa,17/04/2008,12/06/2008,Cody Hernandez,Julia Cannon,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,confessing
+Africa,27/12/2021,30/12/2021,Martin Jackson,Timothy Maldonado,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,TRUE,fleeing
+Africa,1/01/1993,6/01/1993,Leslie Patel,Jeffery Lee,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,TRUE,TRUE,oblivious
+Africa,24/03/2007,5/05/2007,Curtis Cannon,Rachel Lucas,8.48714,-13.2356,Freetown,SL,Freetown,TRUE,TRUE,FALSE,confessing
+Africa,3/12/2006,11/12/2006,Jeremiah Harris,Karen Keller MD,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,FALSE,fleeing
+Africa,21/09/2012,29/10/2012,Brandon Phillips,Jessica Conway,35.72917,10.58082,Msaken,TN,Tunis,FALSE,TRUE,TRUE,lonely
+Africa,13/05/2022,24/05/2022,Amanda Cameron,Micheal Thomas,35.21222,2.31889,Ksar Chellala,DZ,Algiers,FALSE,TRUE,TRUE,out-of-control
+Africa,19/05/2001,21/06/2001,Lindsey Doyle,Mr. Shannon Sharp,35.06544,1.04945,Frenda,DZ,Algiers,TRUE,TRUE,TRUE,over-complimenting
+Africa,8/05/2003,5/07/2003,Deborah Arias,Denise Park,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,injured
+Africa,15/12/1992,1/02/1993,Robert Johns,Nicole Payne,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,injured
+Africa,13/03/2004,11/04/2004,William Singh,Brian Velasquez,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,unhappy
+Africa,8/12/2009,19/12/2009,Kimberly Owens,Jerry Erickson,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,hostile
+Africa,16/09/2021,20/09/2021,Mary Carney,Jeffrey Freeman,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,TRUE,TRUE,accusatory
+Africa,19/01/1988,6/02/1988,Jessica Harrison,Allen Baker,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,FALSE,TRUE,injured
+Africa,3/04/2008,25/04/2008,Timothy Lawson,Jennifer Cook,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,TRUE,TRUE,out-of-control
+Africa,3/09/1988,13/09/1988,Paul Johns,Gabriel Jones,10.61285,12.19458,Biu,NG,Lagos,TRUE,TRUE,TRUE,oblivious
+Africa,17/11/2014,15/01/2015,Sarah Stephens,Shannon Norman,0.46005,34.11169,Busia,KE,Nairobi,FALSE,FALSE,TRUE,talkative
+Africa,24/08/2003,9/09/2003,Tiffany Roth,Maurice Mccarthy,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,FALSE,TRUE,lonely
+Africa,27/03/1989,12/05/1989,Matthew Mcdaniel,Jose Hunt,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,evasive
+Africa,31/03/2002,23/05/2002,Laura Morales,Melissa Ellis,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,FALSE,happy
+Africa,3/07/2002,7/08/2002,Tina Rodriguez,Nicole Hinton,-1.9487,30.4347,Rwamagana,RW,Kigali,TRUE,TRUE,TRUE,complaining
+Africa,10/09/1985,22/09/1985,Lisa Lee,Kenneth Stevenson,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,FALSE,TRUE,talkative
+Africa,1/06/1996,4/06/1996,Sarah Cole,Brian Haas,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,FALSE,TRUE,tense
+Africa,23/12/2006,31/12/2006,Michael King,Nicole Scott,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,FALSE,TRUE,sad
+Africa,9/02/2021,2/03/2021,Joshua Kerr,Julia Reynolds,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,confessing
+Africa,5/04/2019,11/04/2019,Andre Smith,Sarah Brown,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,FALSE,FALSE,unhappy
+Africa,25/04/2003,18/06/2003,Angela Gillespie,Martin Diaz,36.61954,4.08282,Beni Douala,DZ,Algiers,TRUE,TRUE,TRUE,paranoid
+Africa,29/12/1985,9/02/1986,Sharon Duffy,Shannon Camacho,33.42585,-6.00137,Oulmes,MA,Casablanca,TRUE,FALSE,TRUE,scared
+Africa,14/01/2001,28/01/2001,Alexis Cantu,Cynthia Moore,-0.35817,42.54536,Kismayo,SO,Mogadishu,TRUE,TRUE,TRUE,out-of-control
+Africa,25/08/2011,14/09/2011,Charles Smith,Michael Riddle,-0.35817,42.54536,Kismayo,SO,Mogadishu,TRUE,FALSE,TRUE,evasive
+Africa,11/12/1988,2/01/1989,Melanie Flores,David Strong,9.535,-13.68778,Camayenne,GN,Conakry,TRUE,TRUE,TRUE,fleeing
+Africa,8/03/1990,30/03/1990,Tracy Maxwell,Charles Moran,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,FALSE,TRUE,insulting
+Africa,26/12/2012,4/02/2013,David Roberson,Michael Riddle,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,panicking
+Africa,30/06/1998,16/07/1998,Daisy Nolan,Jose Hunt,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,FALSE,TRUE,paranoid
+Africa,23/10/1990,31/10/1990,Curtis Reid,Elizabeth Martinez,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,FALSE,TRUE,talkative
+Africa,6/12/2001,27/12/2001,Brittany Anderson,Steven Edwards,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,TRUE,insulting
+Africa,9/04/1995,5/05/1995,Lisa Perry,Dennis Flores,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,TRUE,evasive
+Africa,4/10/1985,22/11/1985,Keith Murphy,Ernest Spencer,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,TRUE,TRUE,injured
+Africa,16/09/2006,27/09/2006,Kendra Small,Angela Johnson,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,TRUE,sad
+Africa,19/04/2014,30/04/2014,Philip Lee,Ashley Larson,12.74409,-8.07257,Kati,ML,Bamako,FALSE,FALSE,TRUE,hostile
+Africa,13/04/2020,15/05/2020,Christopher Smith,Brian Torres,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,FALSE,evasive
+Africa,1/05/2011,21/05/2011,Chad Phillips,Monica Davis,34.31,-2.16,Jerada,MA,Casablanca,FALSE,TRUE,TRUE,accusatory
+Africa,15/06/1993,16/07/1993,Cynthia Sims,Angela Johnson,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,FALSE,TRUE,oblivious
+Africa,15/12/2013,2/02/2014,Angela Ochoa,Andrew Miranda,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,FALSE,TRUE,talkative
+Africa,11/09/2020,7/10/2020,Megan Fernandez,Nicholas Jones,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,FALSE,TRUE,hostile
+Africa,3/06/2018,15/06/2018,Justin Martinez,Ronald Wong PhD,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,TRUE,TRUE,complaining
+Africa,10/07/1985,24/08/1985,Christopher Price,Annette Barrett,37.16911,10.03478,El Alia,TN,Tunis,FALSE,TRUE,TRUE,tense
+Africa,10/08/1990,11/08/1990,Henry Rivera,Jerry Collins,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,FALSE,tense
+Africa,4/11/1993,24/12/1993,Jessica Alvarez,Karen Nguyen,3.02013,30.91105,Arua,UG,Kampala,FALSE,FALSE,FALSE,injured
+Africa,29/06/2000,6/07/2000,Claire Brown,Melissa Meyers,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,TRUE,TRUE,TRUE,scared
+Africa,14/09/1993,12/11/1993,Kim Lam,John Hayes,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,FALSE,TRUE,over-complimenting
+Africa,4/01/1992,8/02/1992,Anthony Foster,Jared Reid,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,TRUE,TRUE,panicking
+Africa,6/05/1994,14/06/1994,Melissa Dominguez,Steven Lee,-6.8,39.25,Magomeni,TZ,Dar es Salaam,TRUE,TRUE,TRUE,accusatory
+Africa,17/04/1997,27/04/1997,Kristen Kelley,Charles Walls,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,FALSE,TRUE,lonely
+Africa,26/06/2017,18/07/2017,Kimberly Bowman DDS,Natalie Jordan,24.96334,10.18003,Ghat,LY,Tripoli,FALSE,TRUE,TRUE,insulting
+Africa,21/03/1991,14/05/1991,Carlos Baker,Karen Keller MD,7.06273,-1.4001,Mampong,GH,Accra,FALSE,FALSE,TRUE,scared
+Africa,12/07/1992,28/08/1992,Tiffany Mason,Bradley Ewing,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,FALSE,TRUE,friendly
+Africa,17/03/2017,14/04/2017,Pam Curry,Christopher Ross,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,FALSE,TRUE,evasive
+Africa,22/10/1989,28/11/1989,Cameron Fischer,Richard Green,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,FALSE,TRUE,out-of-control
+Africa,24/12/2010,4/02/2011,Lori Simmons,Lisa Sweeney,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,out-of-control
+Africa,9/07/2018,28/08/2018,Melissa Wagner,William Wood,7.6,4.18333,Olupona,NG,Lagos,TRUE,FALSE,TRUE,hostile
+Africa,5/04/2017,10/04/2017,Christopher Good,Belinda Thompson,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,complaining
+Africa,11/06/2012,26/07/2012,Brianna Quinn,Thomas Hamilton,7.6,4.18333,Olupona,NG,Lagos,FALSE,TRUE,TRUE,evasive
+Africa,6/03/1995,23/03/1995,Sean Grimes,Joshua Reed,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,happy
+Africa,31/03/1996,28/05/1996,Chad Mccormick,Carrie Boone,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,TRUE,over-complimenting
+Africa,27/05/2022,19/06/2022,Angel Brown,Jacob Carlson,37.16911,10.03478,El Alia,TN,Tunis,FALSE,FALSE,FALSE,oblivious
+Africa,25/08/2003,15/10/2003,Mary Walker,Jeremy Moran,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,happy
+Africa,11/05/2018,2/06/2018,William Mendoza,David Woodward,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,FALSE,TRUE,complaining
+Africa,7/01/2000,2/03/2000,Matthew Levy,Mallory Wu,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,TRUE,TRUE,tense
+Africa,31/01/1992,29/02/1992,Theresa Morrison,Nicholas Rowe,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,TRUE,TRUE,insulting
+Africa,3/08/2013,9/09/2013,Karen Williams,Charles Moran,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,TRUE,TRUE,insulting
+Africa,3/09/2001,26/10/2001,James Douglas,Phillip Quinn,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,FALSE,TRUE,scared
+Africa,27/06/2001,3/08/2001,Jeff Johnson,Mark Ferguson,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,sad
+Africa,18/05/2019,13/06/2019,Maureen Stevens,Thomas Hamilton,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,sad
+Africa,26/01/1999,31/01/1999,Haley Singleton,Amy Bray,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,TRUE,oblivious
+Africa,9/12/1995,4/01/1996,Michael Patel,Denise Park,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,FALSE,TRUE,confessing
+Africa,14/12/2011,6/01/2012,Francisco Craig,Jesse Boyd,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,TRUE,TRUE,complaining
+Africa,23/11/1987,8/01/1988,Dennis Velez,Jennifer Swanson,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,TRUE,TRUE,unhappy
+Africa,6/01/1994,13/01/1994,Dr. Margaret Morgan,Kevin Evans,36.61954,4.08282,Beni Douala,DZ,Algiers,TRUE,FALSE,TRUE,panicking
+Africa,4/08/1997,4/08/1997,Jennifer Mclean,Emily Ruiz,34.31,-2.16,Jerada,MA,Casablanca,FALSE,TRUE,FALSE,lonely
+Africa,14/12/1992,21/12/1992,Samuel Baker,Belinda Thompson,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,tense
+Africa,18/03/2009,28/03/2009,Jennifer Hernandez,Hannah Palmer,12.74409,-8.07257,Kati,ML,Bamako,FALSE,TRUE,TRUE,sad
+Africa,12/07/2011,9/08/2011,Michelle Ayala,Scott Houston,3.02013,30.91105,Arua,UG,Kampala,FALSE,TRUE,TRUE,tense
+Africa,26/12/1996,23/01/1997,Emily Perry,Patrick White,-11.78333,19.91667,Luena,AO,Luanda,FALSE,FALSE,TRUE,talkative
+Africa,16/10/2005,28/10/2005,Jeffrey Valdez,Michael Barron,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,TRUE,lonely
+Africa,10/09/1987,21/10/1987,Vanessa Chase,Jessica Rogers,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,tense
+Africa,1/01/2022,6/02/2022,Jacob Harris,Jerry Stephenson,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,panicking
+Africa,10/11/1993,17/12/1993,George Moss,Laura Cook,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,talkative
+Africa,21/07/2020,30/08/2020,Anthony Lee,David Murphy,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,silent
+Africa,13/07/2000,14/07/2000,Crystal Bowen,Jennifer Hernandez,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,TRUE,TRUE,FALSE,hostile
+Africa,7/11/1991,9/11/1991,Evan Wolf,Amy Moore,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,insulting
+Africa,1/07/2011,8/08/2011,Nicole Gordon,Mrs. Kristin Lopez MD,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,FALSE,TRUE,evasive
+Africa,14/10/1985,9/12/1985,Andrea Goodman,Dennis Flores,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,complaining
+Africa,25/05/1996,4/06/1996,Jennifer Green,Donald Miller,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,panicking
+Africa,18/01/1995,21/02/1995,Carly Garcia,Andrew Miranda,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,FALSE,injured
+Africa,30/05/1995,30/06/1995,Christine Meyer DVM,Robert Baird,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,TRUE,TRUE,hostile
+Africa,13/02/2003,8/04/2003,Erika Roberts,Brooke Crawford,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,accusatory
+Africa,27/03/2003,3/04/2003,Kristen Richards,Ashley Farrell,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,out-of-control
+Africa,10/07/2013,28/07/2013,Debra Rogers,Charlene Mccormick,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,lonely
+Africa,23/04/2020,24/04/2020,Kristin Keith,Robert Arellano,10.61285,12.19458,Biu,NG,Lagos,FALSE,TRUE,TRUE,sad
+Africa,22/01/2019,8/03/2019,Brandon Brown,Mark Valenzuela,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,FALSE,FALSE,friendly
+Africa,20/05/2018,3/06/2018,Robert Simmons,Deborah Harrison,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,TRUE,TRUE,confessing
+Africa,18/12/1986,13/01/1987,Daniel Morris,Ashley Howell,4.2475,9.00472,Idenao,CM,Douala,FALSE,TRUE,TRUE,tense
+Africa,28/01/2000,16/03/2000,Robert Mullen,Anna Flores,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,complaining
+Africa,21/09/1985,30/09/1985,David Stuart,Kenneth Barrett,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,TRUE,TRUE,friendly
+Africa,24/03/2003,25/03/2003,William Fields,Andrea Watkins,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,TRUE,TRUE,oblivious
+Africa,11/08/2002,16/09/2002,Steven Franklin,Linda Edwards,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,TRUE,TRUE,friendly
+Africa,14/10/2000,8/11/2000,Jeffrey Cardenas,Jessica Rogers,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,sad
+Africa,2/04/1997,10/04/1997,Jermaine York,Victor Tapia,-11.78333,19.91667,Luena,AO,Luanda,FALSE,FALSE,TRUE,paranoid
+Africa,19/01/2011,21/01/2011,Jeffrey Baker,Eric Wilson,-0.35817,42.54536,Kismayo,SO,Mogadishu,TRUE,TRUE,TRUE,unhappy
+Africa,23/01/2010,12/02/2010,Miss Holly Aguilar,Belinda Thompson,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,FALSE,TRUE,insulting
+Africa,28/04/2019,22/06/2019,Kelly Sanchez,Amy Bray,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,complaining
+Africa,19/04/2000,23/04/2000,Jessica Bauer,Kim Dyer,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,TRUE,TRUE,fleeing
+Africa,12/10/1990,18/10/1990,Jennifer Burns,Joshua Moore,10.61285,12.19458,Biu,NG,Lagos,FALSE,FALSE,TRUE,talkative
+Africa,23/10/2003,27/11/2003,Evelyn Grant,Charles Mitchell,12.74482,4.52514,Argungu,NG,Lagos,TRUE,FALSE,TRUE,scared
+Africa,3/02/2021,26/03/2021,Hailey Tucker,Jasmine Rowland,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,FALSE,TRUE,silent
+Africa,8/11/1992,17/12/1992,Danny Johnson,William Wood,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,TRUE,TRUE,worried
+Africa,6/01/2001,11/02/2001,Tara Clark,Linda Porter DVM,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,FALSE,TRUE,evasive
+Africa,29/07/1991,23/09/1991,Mrs. Tracy Johnson,Andre Lamb,33.43443,-5.22126,Azrou,MA,Casablanca,TRUE,FALSE,TRUE,worried
+Africa,14/05/1988,8/06/1988,Kenneth Fox,Shelia Holmes,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,TRUE,FALSE,evasive
+Africa,5/12/1995,2/02/1996,William Perez,Jeanne Green,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,FALSE,TRUE,fleeing
+Africa,13/10/2017,2/12/2017,Ashley Zimmerman,Tracy Young,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,TRUE,TRUE,happy
+Africa,28/04/1996,19/06/1996,Joshua Alvarez,John Wright,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,FALSE,TRUE,unhappy
+Africa,5/06/1995,1/08/1995,Jeffrey Lee,Christopher Ross,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,FALSE,TRUE,confessing
+Africa,2/11/2019,19/12/2019,Mark Obrien,Deborah Holden,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,FALSE,TRUE,injured
+Africa,8/10/1995,7/11/1995,Joshua Stewart,David Murphy,34.31,-2.16,Jerada,MA,Casablanca,FALSE,FALSE,TRUE,confessing
+Africa,9/02/2016,19/02/2016,Wesley Santana,Nicholas Jones,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,TRUE,TRUE,over-complimenting
+Africa,15/03/2015,17/04/2015,Jeffrey Daugherty,Phillip Quinn,-1.63333,13.58357,Franceville,GA,Libreville,TRUE,TRUE,TRUE,evasive
+Africa,6/07/2012,6/08/2012,Jennifer Pacheco,Tiffany Morrison,37.16911,10.03478,El Alia,TN,Tunis,TRUE,TRUE,TRUE,worried
+Africa,23/12/2002,13/02/2003,Diana Williamson,Kenneth Barrett,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,oblivious
+Africa,5/04/2018,20/05/2018,Robert Scott,Jeffery Lee,-0.35817,42.54536,Kismayo,SO,Mogadishu,TRUE,TRUE,TRUE,panicking
+Africa,13/08/2000,7/09/2000,Cynthia Mays,Darlene Pitts,24.96334,10.18003,Ghat,LY,Tripoli,TRUE,FALSE,TRUE,happy
+Africa,6/10/1996,9/10/1996,April Bowers PhD,Candice Johnson,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,FALSE,insulting
+Africa,5/07/1997,16/07/1997,Elizabeth Pineda,Nathaniel Jackson,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,injured
+Africa,13/10/1994,30/10/1994,Cassidy Roy,Andrew Sullivan,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,FALSE,insulting
+Africa,14/07/1995,18/07/1995,Levi Jones,Lacey Brown,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,TRUE,FALSE,TRUE,silent
+Africa,28/06/1996,10/08/1996,William Smith,Justin Whitehead,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,tense
+Africa,28/09/1989,7/10/1989,Claudia Leach,Thomas Hamilton,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,FALSE,TRUE,unhappy
+Africa,18/11/2011,1/01/2012,Sonya Jones,Mackenzie Gilbert,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,TRUE,paranoid
+Africa,2/02/1999,23/03/1999,Brandon Marshall,Amy Bray,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,talkative
+Africa,3/09/2018,11/10/2018,Thomas Reilly,Sarah Reynolds,6.45407,3.39467,Lagos,NG,Lagos,TRUE,TRUE,FALSE,out-of-control
+Africa,22/12/2017,4/02/2018,Vanessa Gomez,Lisa Sweeney,3.51667,11.5,Mbalmayo,CM,Douala,FALSE,FALSE,TRUE,happy
+Africa,20/09/1992,7/10/1992,Barbara Ramos,Jeffrey Bush,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,friendly
+Africa,20/05/2004,24/06/2004,Alyssa Holt,Jason Mccarthy,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,TRUE,FALSE,accusatory
+Africa,23/02/2009,1/03/2009,Renee Lewis,Austin Summers,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,FALSE,TRUE,paranoid
+Africa,18/06/2016,1/08/2016,Justin Marshall,Kevin Evans,4.2475,9.00472,Idenao,CM,Douala,FALSE,FALSE,TRUE,oblivious
+Africa,28/07/1987,1/09/1987,Stacy Green,Erin Ray,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,paranoid
+Africa,11/12/2014,2/01/2015,Joseph Vasquez,Frank Gutierrez,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,TRUE,TRUE,unhappy
+Africa,7/11/2010,16/12/2010,Wesley Garcia,Jacob Santiago,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,FALSE,TRUE,silent
+Africa,14/11/2020,24/11/2020,Travis Richardson,Mr. Rodney Franco,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,accusatory
+Africa,26/08/1989,4/09/1989,Jacqueline Smith,Brandon Miller,11.86064,9.0027,Gaya,NG,Lagos,FALSE,FALSE,TRUE,oblivious
+Africa,1/02/2017,10/02/2017,Roger Pearson,Scott Houston,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,FALSE,TRUE,out-of-control
+Africa,31/01/1987,31/03/1987,Jonathan Gardner,Amy Gomez,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,confessing
+Africa,27/05/2000,26/06/2000,Lauren Sutton,Valerie Griffin,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,TRUE,TRUE,sad
+Africa,3/07/2003,18/08/2003,Jason Johnson,Martin Diaz,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,FALSE,TRUE,sad
+Africa,16/01/2002,10/03/2002,Jonathan Fowler,Joseph Rogers,9.58126,8.2926,Kafanchan,NG,Lagos,FALSE,TRUE,FALSE,happy
+Africa,29/12/2016,2/01/2017,Jeanne Hanson,James Bryant,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,FALSE,TRUE,complaining
+Africa,17/02/1994,19/02/1994,Robin Mcdaniel,Stephen Graham,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,hostile
+Africa,16/09/2007,9/10/2007,Jacqueline Hall,Laura Parks,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,paranoid
+Africa,21/06/2015,7/07/2015,Randall Downs,Steven Edwards,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,TRUE,injured
+Africa,8/10/1994,9/11/1994,Andrea Peters,Eric French,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,FALSE,sad
+Africa,3/12/1990,13/12/1990,Jeremy Thompson,Nicole Adams,36.06386,4.62744,El Achir,DZ,Algiers,TRUE,TRUE,TRUE,out-of-control
+Africa,26/12/2021,12/01/2022,Chad King,Carrie Jones,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,TRUE,TRUE,fleeing
+Africa,16/07/2019,29/07/2019,Justin Garcia,Joshua Curtis,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,TRUE,TRUE,unhappy
+Africa,6/06/2003,8/07/2003,James Harper,Darren Simpson,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,friendly
+Africa,17/07/2006,27/08/2006,Brooke Smith,Evan Perkins,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,insulting
+Africa,19/10/1985,31/10/1985,Matthew Roman,Carrie Jones,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,TRUE,complaining
+Africa,24/08/2001,26/08/2001,John Ibarra,Nicholas Powell,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,TRUE,TRUE,happy
+Africa,5/05/1993,26/06/1993,Sarah Glover,Megan West,24.96334,10.18003,Ghat,LY,Tripoli,FALSE,FALSE,TRUE,complaining
+Africa,8/04/2002,22/05/2002,Shelby Arnold,Kyle Thomas,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,TRUE,TRUE,panicking
+Africa,18/10/1994,29/10/1994,Heather Smith,James Williams,30.75545,20.22625,Ajdabiya,LY,Tripoli,TRUE,TRUE,TRUE,evasive
+Africa,1/10/1998,26/11/1998,Kylie Santiago,Ashley Taylor,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,over-complimenting
+Africa,19/05/2012,17/06/2012,Suzanne Pearson,Sarah Brown,0.49113,29.47306,Beni,CD,Lubumbashi,FALSE,FALSE,TRUE,accusatory
+Africa,29/01/1986,8/03/1986,Dean Vasquez,Dr. Gregory Gibson,3.51667,11.5,Mbalmayo,CM,Douala,TRUE,TRUE,TRUE,confessing
+Africa,31/01/1997,22/02/1997,Sherry Spears,Andrew Sullivan,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,FALSE,TRUE,friendly
+Africa,10/12/1992,30/12/1992,Mrs. Brittney Ramos,Meredith Gibbs,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,TRUE,TRUE,happy
+Africa,20/08/2010,4/09/2010,Shane Fisher,Nicholas Jones,36.61954,4.08282,Beni Douala,DZ,Algiers,TRUE,FALSE,TRUE,friendly
+Africa,15/10/2018,1/12/2018,Jamie Chambers,Timothy Frank,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,TRUE,TRUE,complaining
+Africa,1/01/2005,23/02/2005,Andrew Chan,Richard Green,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,complaining
+Africa,2/09/2001,3/10/2001,Olivia Guzman,David Murphy,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,talkative
+Africa,14/02/2019,1/03/2019,Michael Smith,Thomas Hamilton,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,FALSE,TRUE,talkative
+Africa,10/05/2001,7/06/2001,Robert Chavez,Chris Campbell Jr.,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,TRUE,panicking
+Africa,14/07/2018,14/07/2018,James Hoffman,Carla Reyes,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,FALSE,TRUE,out-of-control
+Africa,4/03/1992,31/03/1992,Michael Kim,Joseph Nguyen,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,complaining
+Africa,7/03/2001,26/03/2001,Rebecca Gallegos,Nicole Hart,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,FALSE,TRUE,paranoid
+Africa,8/06/1989,21/07/1989,Craig Thompson,Richard Harris,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,TRUE,TRUE,TRUE,confessing
+Africa,9/08/2006,14/08/2006,William Maxwell,David Richardson,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,FALSE,TRUE,silent
+Africa,21/04/2009,5/05/2009,Natasha Chase,Scott Anderson Jr.,-4.5833,15.16554,Kasangulu,CD,Kinshasa,TRUE,TRUE,TRUE,out-of-control
+Africa,28/07/2010,30/08/2010,Jesse Byrd,Melissa Meyers,0.49113,29.47306,Beni,CD,Lubumbashi,TRUE,FALSE,TRUE,oblivious
+Africa,4/12/1999,12/01/2000,Luke Valencia,James Whitehead,0.46005,34.11169,Busia,KE,Nairobi,FALSE,FALSE,TRUE,accusatory
+Africa,24/12/1986,14/02/1987,David Delacruz,Jeffrey Graves MD,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,confessing
+Africa,13/01/1992,29/01/1992,Danielle Smith,Richard Green,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,tense
+Africa,23/10/1995,30/10/1995,Mrs. Elizabeth Brooks,Glen Walker,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,scared
+Africa,18/07/2007,20/07/2007,Joshua Thompson,Mr. Shannon Sharp,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,TRUE,FALSE,accusatory
+Africa,11/03/1998,27/04/1998,Tina Chandler,Eugene Brown,-21.44236,27.46153,Tonota,BW,Gaborone,TRUE,TRUE,FALSE,happy
+Africa,6/12/2019,17/01/2020,Patrick Russell,Lindsey Hoover,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,hostile
+Africa,29/01/2022,15/02/2022,Kirk Gray,Tammy Lutz,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,happy
+Africa,25/04/2005,18/05/2005,Tyler Mckinney,Alexa Flores,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,FALSE,TRUE,panicking
+Africa,24/01/1989,22/02/1989,Brittany Clark,Charles Mitchell,12.74409,-8.07257,Kati,ML,Bamako,FALSE,TRUE,TRUE,out-of-control
+Africa,29/09/2001,26/11/2001,Evan Sharp,Kyle Thomas,31.20176,29.91582,Alexandria,EG,Cairo,TRUE,FALSE,TRUE,accusatory
+Africa,5/04/1988,9/04/1988,Mary Gonzalez,Garrett Allen,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,panicking
+Africa,3/01/1992,24/02/1992,Louis Gonzales,Dawn Simmons,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,FALSE,TRUE,tense
+Africa,16/02/1993,27/02/1993,Kristen Herman,Donald Pierce,26.67319,31.4976,Juhaynah,EG,Cairo,FALSE,TRUE,TRUE,complaining
+Africa,19/10/1989,12/11/1989,Taylor Melton,Gordon Jimenez,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,injured
+Africa,30/05/2022,19/07/2022,Michelle Sandoval,Emily Mccoy,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,FALSE,TRUE,happy
+Africa,5/07/2020,26/08/2020,Ethan Kelly,Patrick Stephens,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,TRUE,TRUE,paranoid
+Africa,26/05/1997,21/07/1997,Adam Myers,Nicole Scott,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,FALSE,TRUE,oblivious
+Africa,11/03/2012,9/04/2012,Angela Perry,Kimberly Perez,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,worried
+Africa,17/07/2007,3/08/2007,Tonya Sweeney,David Richardson,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,paranoid
+Africa,9/06/2017,26/07/2017,Tracy Crawford,Meghan Owens,33.43443,-5.22126,Azrou,MA,Casablanca,TRUE,FALSE,TRUE,silent
+Africa,12/05/1994,6/07/1994,Brittany Lang,Garrett Allen,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,TRUE,TRUE,happy
+Africa,7/10/1992,28/11/1992,Joshua Aguirre,Thomas Hamilton,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,FALSE,TRUE,worried
+Africa,7/12/2018,27/01/2019,Angela Garza,Timothy Davis,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,fleeing
+Africa,18/06/2008,17/07/2008,Doris Drake,Tracy Young,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,FALSE,TRUE,happy
+Africa,6/10/2016,14/10/2016,Cody Munoz,Kimberly Cooper,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,TRUE,TRUE,tense
+Africa,12/09/1990,6/10/1990,Patricia Brown,Richard Reyes,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,FALSE,TRUE,silent
+Africa,13/09/2007,13/09/2007,Diane Cole,Ashley Larson,26.67319,31.4976,Juhaynah,EG,Cairo,FALSE,TRUE,TRUE,talkative
+Africa,6/06/2012,27/06/2012,John Ramirez,Cynthia Moore,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,TRUE,TRUE,lonely
+Africa,29/11/1994,2/12/1994,Tammy Davis,Christian Moore,2.41669,30.98551,Paidha,UG,Kampala,FALSE,FALSE,TRUE,insulting
+Africa,17/03/2001,5/04/2001,Michele Green,Amy Bray,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,injured
+Africa,22/01/2013,29/01/2013,Tina Weiss,Amber Wright,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,FALSE,TRUE,over-complimenting
+Africa,5/02/2020,29/03/2020,Kelly Walsh,Evan Perkins,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,FALSE,TRUE,talkative
+Africa,18/07/2000,2/08/2000,Rachel Nunez,William Gallagher,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,TRUE,TRUE,confessing
+Africa,4/03/2011,28/04/2011,Edwin Williams,Miranda Lester,37.16911,10.03478,El Alia,TN,Tunis,FALSE,FALSE,TRUE,out-of-control
+Africa,12/01/1994,15/02/1994,Stephanie Patterson,Chad Chandler,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,FALSE,TRUE,evasive
+Africa,21/07/2006,12/09/2006,Matthew Williams,Jeffery Carter,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,FALSE,TRUE,complaining
+Africa,20/11/1995,28/11/1995,Michael Russell,Lauren Mccoy,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,FALSE,TRUE,fleeing
+Africa,6/10/1998,1/11/1998,Lance Long,Michael Smith,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,FALSE,TRUE,fleeing
+Africa,24/02/2005,17/03/2005,Alexander Padilla,Tracy Young,12.74482,4.52514,Argungu,NG,Lagos,FALSE,FALSE,TRUE,complaining
+Africa,5/03/1995,29/04/1995,Dan Spence,Angel Payne,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,TRUE,TRUE,insulting
+Africa,27/06/2021,8/08/2021,April Young,Daniel Moore,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,unhappy
+Africa,26/02/1998,24/04/1998,Antonio Alexander,Mark Ferguson,10.61285,12.19458,Biu,NG,Lagos,FALSE,TRUE,TRUE,panicking
+Africa,27/01/2002,29/01/2002,Tammy Watkins,Timothy Maldonado,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,oblivious
+Africa,23/10/1992,24/10/1992,Kelly Frye,Justin Whitehead,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,FALSE,TRUE,silent
+Africa,27/11/2004,23/01/2005,Christina Greene,David Strong,2.41669,30.98551,Paidha,UG,Kampala,FALSE,FALSE,TRUE,tense
+Africa,27/08/2018,30/09/2018,Cheryl Flores,Logan Duncan,35.72917,10.58082,Msaken,TN,Tunis,FALSE,FALSE,TRUE,paranoid
+Africa,11/01/1994,10/02/1994,Jessica James,Emily Mccoy,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,FALSE,TRUE,tense
+Africa,17/08/1986,25/08/1986,Melanie Joseph DVM,Mallory Wu,12.74409,-8.07257,Kati,ML,Bamako,FALSE,TRUE,TRUE,worried
+Africa,13/07/2015,11/08/2015,Valerie Ramirez,Jeffrey Graves MD,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,accusatory
+Africa,16/05/2017,23/05/2017,Ashley Ryan,Ashley Farrell,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,happy
+Africa,21/07/1990,18/08/1990,Samantha Hess,Lindsey Wheeler,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,TRUE,TRUE,over-complimenting
+Africa,5/08/2017,9/08/2017,Tracy Robertson,Brooke Crawford,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,FALSE,TRUE,happy
+Africa,17/02/2001,24/03/2001,Jeffery Smith,Julian Anderson,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,over-complimenting
+Africa,1/12/2005,1/12/2005,Kristopher Wise,Erik Gibson,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,FALSE,TRUE,worried
+Africa,5/07/2018,31/08/2018,Keith Shannon,Richard Green,35.72917,10.58082,Msaken,TN,Tunis,FALSE,TRUE,TRUE,injured
+Africa,8/01/2001,10/02/2001,Jesse Smith,Alexa Flores,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,TRUE,sad
+Africa,11/05/2001,8/07/2001,Nicole Kelly,Gina Howard,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,TRUE,TRUE,paranoid
+Africa,14/01/2012,11/02/2012,Angela Orozco,Jacob Santiago,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,FALSE,TRUE,panicking
+Africa,16/11/2012,29/11/2012,Carolyn Paul,Lauren Mccoy,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,FALSE,TRUE,out-of-control
+Africa,13/08/1991,16/08/1991,Tommy Avery,Andrew Miranda,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,TRUE,TRUE,worried
+Africa,27/04/2015,18/05/2015,Amanda Green,Steven Edwards,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,oblivious
+Africa,1/08/2018,10/08/2018,Kevin Page,Denise Kramer,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,FALSE,TRUE,insulting
+Africa,7/02/1989,25/02/1989,Jennifer Saunders,Jacob Salazar,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,TRUE,TRUE,injured
+Africa,15/09/1995,24/09/1995,Michael Edwards,Grant Humphrey,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,FALSE,TRUE,hostile
+Africa,29/02/1992,18/03/1992,Donna Thomas,Casey Weber,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,silent
+Africa,29/05/1990,30/06/1990,Patrick Smith,Jeffery Carter,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,confessing
+Africa,5/12/1994,11/12/1994,Jonathan Nash,Gerald Green,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,FALSE,TRUE,friendly
+Africa,4/02/2022,28/03/2022,Ryan Stewart,Julie Lopez,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,TRUE,hostile
+Africa,18/11/2020,22/11/2020,William Moore,Maurice Mccarthy,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,TRUE,TRUE,silent
+Africa,4/09/2019,12/09/2019,David White,Shawn Huang,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,TRUE,TRUE,happy
+Africa,28/02/2011,31/03/2011,Angela Holloway,James Brock,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,TRUE,TRUE,friendly
+Africa,28/06/1995,18/07/1995,Heather Black,Belinda Thompson,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,TRUE,TRUE,injured
+Africa,7/05/2016,1/06/2016,Cynthia Martin,Michelle Jarvis,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,TRUE,TRUE,unhappy
+Africa,23/12/2013,30/12/2013,Jennifer Gallagher,Casey Wheeler,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,TRUE,silent
+Africa,9/04/1988,15/04/1988,Diane Franco,Ashley Larson,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,TRUE,TRUE,accusatory
+Africa,28/09/2020,2/10/2020,Sandra Carter,Rhonda Jones,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,TRUE,TRUE,panicking
+Africa,23/01/2013,21/03/2013,Ashley Robertson,William Zuniga,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,TRUE,TRUE,worried
+Africa,15/05/1988,9/07/1988,Connie Cherry,Patricia Edwards,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,panicking
+Africa,21/11/2006,11/12/2006,Glenn Guzman,Pamela Gonzales,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,FALSE,TRUE,paranoid
+Africa,12/09/2018,29/09/2018,Nicole Roberts,Rachel Lucas,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,fleeing
+Africa,10/08/2006,27/09/2006,Troy Harris,Jennifer Snyder,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,TRUE,TRUE,happy
+Africa,19/04/1999,4/06/1999,Daniel Hansen,Grant Humphrey,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,complaining
+Africa,14/08/1986,4/10/1986,Erin Bowen,Joseph Arellano,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,injured
+Africa,20/01/2016,13/03/2016,Tammy Webb,Cynthia Carr,-8.73508,24.99798,Kamina,CD,Lubumbashi,FALSE,FALSE,TRUE,oblivious
+Africa,4/05/1997,1/07/1997,Stephen Evans,David Wagner,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,tense
+Africa,7/04/2018,7/05/2018,Amy Rodriguez,Jorge Novak,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,TRUE,out-of-control
+Africa,26/04/1997,20/06/1997,Kathryn Reed,Jane Huff,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,FALSE,TRUE,confessing
+Africa,31/07/2010,14/09/2010,Andrea Wyatt,Ashley Taylor,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,FALSE,TRUE,tense
+Africa,9/01/1993,12/02/1993,Nicholas Campbell,Jordan Torres,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,FALSE,TRUE,fleeing
+Africa,10/12/2018,17/01/2019,Jennifer Snow MD,Beth Cuevas,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,friendly
+Africa,23/07/2011,2/08/2011,Victoria Weaver,Jennifer Cook,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,FALSE,TRUE,lonely
+Africa,29/04/2014,27/05/2014,Kristine Brown,Ashley Howell,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,FALSE,TRUE,complaining
+Africa,21/03/2006,8/04/2006,Peter Morrow,Christopher Sandoval,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,FALSE,TRUE,over-complimenting
+Africa,14/03/1991,26/03/1991,Paul Brown,Kurt Clark,-11.78333,19.91667,Luena,AO,Luanda,TRUE,TRUE,TRUE,fleeing
+Africa,7/09/2014,23/09/2014,Lisa Mcbride,Brandon Miller,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,FALSE,TRUE,accusatory
+Africa,6/07/2006,22/08/2006,Alexandria Nunez,Jennifer Snyder,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,TRUE,TRUE,TRUE,out-of-control
+Africa,22/09/2011,25/10/2011,Elijah Melton,Brooke Crawford,4.96667,10.7,Tonga,CM,Douala,FALSE,FALSE,TRUE,fleeing
+Africa,13/10/2015,12/11/2015,Nancy Harmon,Kimberly Gibson,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,FALSE,TRUE,hostile
+Africa,23/12/2021,13/01/2022,Robert Pope,Nathaniel Jackson,4.2475,9.00472,Idenao,CM,Douala,FALSE,TRUE,TRUE,happy
+Africa,2/05/1993,20/05/1993,Elizabeth Martin,Julia Reynolds,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,FALSE,TRUE,hostile
+Africa,1/12/1998,17/01/1999,Dylan Christian,Glen Walker,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,happy
+Africa,2/01/2003,29/01/2003,Jonathan Ellis,Jessica Joseph,12.74409,-8.07257,Kati,ML,Bamako,FALSE,TRUE,TRUE,complaining
+Africa,13/11/2020,7/12/2020,Andrew Rivera,Jacob Salazar,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,TRUE,TRUE,talkative
+Africa,17/09/1997,11/10/1997,Patricia Burch,Mr. Rodney Franco,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,FALSE,FALSE,happy
+Africa,31/10/1986,22/11/1986,Nicholas Blackwell,Jennifer Malone,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,TRUE,TRUE,accusatory
+Africa,8/11/1987,15/11/1987,Jillian Haney,Hannah Palmer,35.21222,2.31889,Ksar Chellala,DZ,Algiers,FALSE,TRUE,TRUE,accusatory
+Africa,6/03/2018,22/03/2018,Timothy Guzman,Angel Gonzales,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,FALSE,TRUE,complaining
+Africa,25/11/1997,25/12/1997,Kenneth Callahan,Tiffany Morrison,11.86064,9.0027,Gaya,NG,Lagos,TRUE,FALSE,TRUE,complaining
+Africa,26/01/2016,8/03/2016,Christy Green,Mrs. Kristin Lopez MD,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,evasive
+Africa,19/10/1994,5/12/1994,Stephen Young,Lauren Johnson,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,worried
+Africa,26/10/2010,28/10/2010,Jeremy Smith,Kenneth Barrett,0.49113,29.47306,Beni,CD,Lubumbashi,TRUE,FALSE,TRUE,panicking
+Africa,29/05/1995,29/06/1995,Robert Allen,Tiffany Patrick,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,TRUE,friendly
+Africa,28/11/1992,19/12/1992,Michael Kemp,Stephen Ferguson,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,injured
+Africa,24/11/1987,15/01/1988,Jessica Arnold DDS,Jared Reid,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,TRUE,TRUE,TRUE,silent
+Africa,4/12/2013,22/01/2014,Jeffrey Ibarra,Kari Chandler,4.96667,10.7,Tonga,CM,Douala,TRUE,FALSE,TRUE,talkative
+Africa,15/08/1990,30/08/1990,Angela Vang,Taylor Robinson,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,tense
+Africa,11/11/2002,18/12/2002,David Hall,Angela Johnson,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,TRUE,TRUE,happy
+Africa,17/09/1994,27/10/1994,John Lynch,Sarah Green,12.74482,4.52514,Argungu,NG,Lagos,FALSE,TRUE,TRUE,hostile
+Africa,9/10/1997,25/10/1997,Belinda Brown,Rebecca Jackson,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,TRUE,TRUE,paranoid
+Africa,3/03/2017,10/03/2017,Brandi Anderson,Kaitlyn Johns,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,worried
+Africa,24/05/2005,1/07/2005,Cynthia Vasquez,Shelia Holmes,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,FALSE,TRUE,sad
+Africa,13/07/2007,12/08/2007,Mark Salazar,Micheal Thomas,37.16911,10.03478,El Alia,TN,Tunis,FALSE,FALSE,TRUE,friendly
+Africa,6/06/1987,1/08/1987,Tracy Doyle,Sarah Reynolds,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,FALSE,TRUE,tense
+Africa,30/09/1987,24/11/1987,Sean Clarke,Jessica Rogers,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,TRUE,talkative
+Africa,20/02/2003,27/02/2003,Nancy Perry,Christine Shah,-21.44236,27.46153,Tonota,BW,Gaborone,TRUE,FALSE,TRUE,tense
+Africa,26/04/2009,20/06/2009,Trevor Martinez,Brian Haas,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,scared
+Africa,5/11/2012,16/11/2012,Mary Davis,Hannah Lindsey,-6.8,39.25,Magomeni,TZ,Dar es Salaam,TRUE,TRUE,TRUE,friendly
+Africa,6/02/1997,19/03/1997,Juan Jackson,Mindy Bates,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,confessing
+Africa,17/08/1999,8/09/1999,Ricardo Heath,Mary Scott,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,insulting
+Africa,10/09/2005,16/09/2005,Frank Long DDS,Donna Mathis,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,accusatory
+Africa,4/08/2020,8/09/2020,Lee Henderson,Chad Graham,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,TRUE,fleeing
+Africa,2/06/2007,6/06/2007,Kevin Schmidt,Loretta Wood,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,lonely
+Africa,16/11/1998,19/11/1998,Jonathan Scott,Sharon Young,12.74482,4.52514,Argungu,NG,Lagos,FALSE,FALSE,TRUE,talkative
+Africa,10/04/2000,28/04/2000,Brandon Mendez,Garrett Allen,36.46917,10.78222,Beni Khiar,TN,Tunis,TRUE,FALSE,FALSE,lonely
+Africa,10/11/1988,19/11/1988,Mark Stephens,Julia Reynolds,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,evasive
+Africa,2/06/2015,4/07/2015,Cody Lopez,Maria Tucker,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,out-of-control
+Africa,8/10/1993,14/10/1993,Chelsea Cross,Nicole Hart,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,FALSE,FALSE,paranoid
+Africa,29/03/1997,12/04/1997,Christopher Scott,Allen Baker,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,confessing
+Africa,28/03/2011,22/04/2011,David Navarro,Anthony Hamilton,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,evasive
+Africa,21/07/2008,9/08/2008,Kathy Kemp,Edward Anderson,12.74482,4.52514,Argungu,NG,Lagos,FALSE,TRUE,TRUE,fleeing
+Africa,28/06/2010,4/08/2010,John Mueller,Jeffrey Johnson,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,accusatory
+Africa,26/03/2012,17/05/2012,Kristen Martin,Lauren Smith,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,over-complimenting
+Africa,1/07/2009,16/08/2009,Lonnie Gomez,Timothy Maldonado,7.06273,-1.4001,Mampong,GH,Accra,FALSE,FALSE,FALSE,over-complimenting
+Africa,22/04/2011,2/06/2011,Daniel Hill,Jennifer Malone,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,TRUE,TRUE,talkative
+Africa,6/07/2016,22/08/2016,Bradley Ashley,Christopher Baker,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,TRUE,TRUE,over-complimenting
+Africa,30/05/1992,12/06/1992,Christopher Callahan,Rebecca Rodriguez,-0.35817,42.54536,Kismayo,SO,Mogadishu,TRUE,FALSE,TRUE,lonely
+Africa,24/12/2009,7/02/2010,Stacy Mccarty,Parker Mitchell,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,FALSE,TRUE,scared
+Africa,8/07/2005,21/07/2005,Norman Henderson,Kurt Clark,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,accusatory
+Africa,12/11/2014,3/01/2015,Nicole Rodriguez,Kimberly Gibson,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,FALSE,TRUE,injured
+Africa,5/07/2015,20/08/2015,Christopher Adams,Amy Bray,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,FALSE,TRUE,injured
+Africa,28/06/2006,23/07/2006,Michael Henry,Jeffery Carter,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,FALSE,happy
+Africa,9/10/1987,2/11/1987,Steven Jacobs,Darlene Pitts,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,over-complimenting
+Africa,14/01/1988,24/02/1988,Joseph Harrison,Jennifer Shannon,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,complaining
+Africa,26/04/1996,3/05/1996,Nicholas Richards,Julie Nguyen,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,TRUE,out-of-control
+Africa,28/05/1998,19/07/1998,Barbara Smith,Mark Williams,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,TRUE,TRUE,panicking
+Africa,6/05/1997,24/05/1997,Timothy Green,Christopher Morris,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,lonely
+Africa,11/09/1997,13/09/1997,Sarah Johnson,Christina Ball,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,FALSE,FALSE,unhappy
+Africa,8/10/2009,23/10/2009,Debbie Hale,Elizabeth Martinez,-13.7804,34.4587,Salima,MW,Blantyre,TRUE,TRUE,TRUE,evasive
+Africa,28/07/1995,10/08/1995,Michele Rice,Emily Stephens,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,TRUE,TRUE,injured
+Africa,17/01/1986,17/02/1986,Victor Cummings,Christina Ball,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,worried
+Africa,2/05/1999,18/05/1999,Lauren Brown,Jerry Cruz,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,fleeing
+Africa,25/05/1989,28/06/1989,Matthew Wilson,Andre Lamb,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,TRUE,TRUE,injured
+Africa,25/06/1995,25/06/1995,Joseph Green,Lisa Sweeney,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,evasive
+Africa,11/08/1993,9/09/1993,Gerald Hale,Andre Lamb,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,FALSE,TRUE,panicking
+Africa,24/01/2014,31/01/2014,Tracy Kramer,Jason Berg,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,TRUE,TRUE,silent
+Africa,29/07/1990,29/07/1990,Lance Cannon,Charlene Mccormick,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,TRUE,over-complimenting
+Africa,29/11/2009,28/12/2009,Rebekah Wilson,Jerry Collins,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,TRUE,TRUE,oblivious
+Africa,17/08/1996,5/09/1996,Anthony Johnson,Christopher Baker,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,friendly
+Africa,28/05/1995,5/07/1995,Kyle Hughes,Melvin Hansen,-8.73508,24.99798,Kamina,CD,Lubumbashi,FALSE,FALSE,TRUE,tense
+Africa,20/06/2022,24/07/2022,Diane Flores,John Carlson,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,FALSE,TRUE,friendly
+Africa,19/05/1991,13/06/1991,Joseph Pruitt,Kimberly Cooper,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,FALSE,insulting
+Africa,11/02/1996,26/02/1996,Darryl Gallagher,Brian Velasquez,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,FALSE,TRUE,silent
+Africa,20/10/2016,25/11/2016,Amanda Edwards,Monica Davis,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,FALSE,TRUE,panicking
+Africa,8/04/1995,9/05/1995,Lindsey Evans DVM,Kim Dyer,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,FALSE,TRUE,paranoid
+Africa,1/05/2015,11/06/2015,Kelly Smith,Erin Ray,12.74482,4.52514,Argungu,NG,Lagos,FALSE,TRUE,TRUE,complaining
+Africa,15/06/2020,17/07/2020,Manuel Bailey,Samuel Jackson,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,lonely
+Africa,16/10/1989,20/10/1989,Jeffrey Walker,Dana Parker,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,FALSE,TRUE,tense
+Africa,25/04/1996,27/04/1996,Tracy Bryant,Jordan Torres,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,TRUE,TRUE,worried
+Africa,9/11/2020,15/11/2020,Kelly Cox,Stephen Ferguson,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,paranoid
+Africa,9/10/2009,2/11/2009,Dr. Danielle Brown DVM,Lauren Johnson,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,unhappy
+Africa,12/01/1997,2/03/1997,Shannon Nguyen,Paul Rogers,0.46005,34.11169,Busia,KE,Nairobi,TRUE,TRUE,TRUE,hostile
+Africa,21/06/2016,28/07/2016,Jacob Wilson,Shelley Richardson,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,FALSE,TRUE,out-of-control
+Africa,7/12/1986,5/01/1987,Andrew Perez,Laura Cook,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,FALSE,TRUE,hostile
+Africa,9/06/1990,21/06/1990,Gary Watkins,Julia Reynolds,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,TRUE,scared
+Africa,11/02/1991,9/04/1991,Travis Dixon,Gabriel Jones,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,hostile
+Africa,5/01/2012,26/02/2012,Kenneth Castillo,Lauren Smith,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,TRUE,TRUE,confessing
+Africa,29/03/2014,11/04/2014,Yolanda Miller,Jacob Salazar,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,TRUE,oblivious
+Africa,15/12/2000,30/01/2001,Angela Schultz,John Wright,11.86064,9.0027,Gaya,NG,Lagos,FALSE,FALSE,TRUE,fleeing
+Africa,23/08/2018,7/09/2018,Sarah Owen,Sarah Reynolds,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,FALSE,lonely
+Africa,3/04/1999,18/05/1999,Sarah Leon,Kenneth Stevenson,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,worried
+Africa,25/10/2021,8/11/2021,Joshua Parker,Theresa Patterson,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,FALSE,TRUE,scared
+Africa,5/08/2014,12/09/2014,Mariah Townsend,Stephanie Taylor,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,FALSE,TRUE,tense
+Africa,26/09/2018,26/09/2018,Michael Day,James Dawson,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,FALSE,TRUE,happy
+Africa,20/06/2017,1/07/2017,Grant Jackson,Mackenzie Gilbert,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,TRUE,out-of-control
+Africa,24/03/1990,8/05/1990,Sarah Grimes,Mr. Shannon Sharp,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,FALSE,TRUE,panicking
+Africa,30/03/2015,24/04/2015,Emily Scott,Teresa Sanchez,33.42585,-6.00137,Oulmes,MA,Casablanca,TRUE,TRUE,TRUE,happy
+Africa,27/05/2006,9/07/2006,Mark Thompson,Karen Nguyen,3.02013,30.91105,Arua,UG,Kampala,FALSE,TRUE,TRUE,paranoid
+Africa,11/05/2022,21/06/2022,Rachel Henry,Jeffrey Graves MD,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,TRUE,TRUE,scared
+Africa,3/02/1989,13/02/1989,Brianna Martinez,Michelle Green,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,TRUE,TRUE,insulting
+Africa,3/07/2005,19/08/2005,Natalie Gross,Todd Robinson,3.02013,30.91105,Arua,UG,Kampala,FALSE,TRUE,TRUE,worried
+Africa,24/03/2006,22/05/2006,Joseph Gonzalez,Garrett Lawrence,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,FALSE,TRUE,over-complimenting
+Africa,10/04/2012,14/04/2012,Rachel Wilkins,Paul Rogers,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,worried
+Africa,17/04/1990,5/05/1990,Jennifer Erickson,James Burnett,3.51667,11.5,Mbalmayo,CM,Douala,FALSE,FALSE,TRUE,tense
+Africa,5/12/2007,2/02/2008,Christopher West,Kathy Meadows,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,FALSE,TRUE,fleeing
+Africa,18/04/2008,26/04/2008,Christy Benson,Jane Hall,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,lonely
+Africa,24/06/1985,21/08/1985,Kristen Price,Angela Strickland,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,FALSE,TRUE,insulting
+Africa,11/10/1993,14/11/1993,Jade Smith,Samuel Jackson,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,happy
+Africa,23/10/1998,10/12/1998,Kevin Johnson,Jasmine Rowland,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,friendly
+Africa,20/11/2013,30/12/2013,Sandra Olson,Timothy Maldonado,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,FALSE,TRUE,oblivious
+Africa,18/05/2002,18/05/2002,Kelsey Russell,Andrew Sullivan,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,silent
+Africa,15/11/2011,12/01/2012,Katherine Walker,Timothy Maldonado,7.50251,5.06258,Igbara-Odo,NG,Lagos,TRUE,TRUE,TRUE,silent
+Africa,17/11/2006,1/12/2006,Crystal Pittman,Karen Weber,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,unhappy
+Africa,18/08/2010,24/08/2010,Joseph Cobb,Nicole Adams,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,FALSE,TRUE,oblivious
+Africa,1/11/2005,15/12/2005,Diana Reynolds,Misty Marshall,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,TRUE,TRUE,sad
+Africa,17/07/1996,1/08/1996,Derek Barton,Ashley Larson,3.02013,30.91105,Arua,UG,Kampala,FALSE,TRUE,TRUE,friendly
+Africa,24/01/2009,4/02/2009,Nicole Todd,Jeffrey Graves MD,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,TRUE,TRUE,TRUE,evasive
+Africa,20/01/2009,7/02/2009,Heidi Sexton,Timothy Davis,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,TRUE,FALSE,TRUE,scared
+Africa,11/07/2006,7/09/2006,Matthew Munoz,Meghan Owens,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,FALSE,TRUE,insulting
+Africa,15/08/2007,7/10/2007,David Calhoun,Stephen Ferguson,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,TRUE,TRUE,scared
+Africa,18/10/2021,6/12/2021,Christopher Byrd,Amber Wright,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,out-of-control
+Africa,1/08/2003,3/08/2003,Linda Johnson,Lauren Johnson,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,over-complimenting
+Africa,4/12/2003,17/01/2004,Leslie Lang,Michael Sims,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,TRUE,TRUE,friendly
+Africa,15/05/2003,30/06/2003,Dawn Stanley,Kimberly Stewart,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,FALSE,TRUE,unhappy
+Africa,21/03/1987,23/04/1987,Hannah Turner,Emily Stephens,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,TRUE,TRUE,oblivious
+Africa,7/07/2020,29/07/2020,Debra Porter,Christopher Greer,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,scared
+Africa,25/07/1987,1/09/1987,Carlos Coffey,Kelly Lindsey,34.15429,3.50309,Messaad,DZ,Algiers,TRUE,FALSE,FALSE,talkative
+Africa,18/03/1991,21/04/1991,Renee Arnold,Rebecca Snyder MD,37.16911,10.03478,El Alia,TN,Tunis,FALSE,FALSE,FALSE,worried
+Africa,25/10/2009,13/11/2009,Alyssa Johnson,James Burnett,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,FALSE,TRUE,talkative
+Africa,24/06/2009,23/07/2009,Joseph Smith,Katelyn Garcia,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,oblivious
+Africa,8/07/2003,26/07/2003,Scott Wright,John Wright,0.49113,29.47306,Beni,CD,Lubumbashi,FALSE,TRUE,FALSE,paranoid
+Africa,26/07/2015,27/07/2015,Brian Davis,Nathaniel Jackson,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,TRUE,TRUE,friendly
+Africa,5/11/1995,23/12/1995,Patrick Ellis,Julia Reynolds,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,hostile
+Africa,3/07/2021,12/08/2021,Pamela Gonzalez,Sarah Peters,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,TRUE,TRUE,injured
+Africa,4/03/1997,7/04/1997,Amy Murphy,Emily Johns,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,TRUE,hostile
+Africa,30/09/1993,14/11/1993,Heidi Stewart,Eric Wilson,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,FALSE,TRUE,paranoid
+Africa,13/12/1995,14/12/1995,William Fuller,Kenneth Stevenson,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,confessing
+Africa,25/03/2022,13/04/2022,Ryan Stephenson,Nancy White,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,TRUE,TRUE,happy
+Africa,24/03/1993,12/04/1993,Lisa Berry,Wayne Knight,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,TRUE,complaining
+Africa,13/06/2000,19/07/2000,James Hall,David Wagner,5.84752,-5.682,Lakota,CI,Abidjan,TRUE,FALSE,TRUE,unhappy
+Africa,10/01/2012,15/01/2012,Sarah Flores,Ashley Carr,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,scared
+Africa,10/05/2009,18/06/2009,Derrick Gould,Jeffrey Bush,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,FALSE,TRUE,worried
+Africa,7/09/1989,21/09/1989,Stephanie Hickman,Hannah Lindsey,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,FALSE,TRUE,talkative
+Africa,21/11/1989,25/11/1989,Elizabeth Ballard,Aaron Nguyen,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,sad
+Africa,27/08/2014,23/10/2014,Robert Erickson,Meghan Owens,10.61285,12.19458,Biu,NG,Lagos,FALSE,TRUE,FALSE,worried
+Africa,25/11/1992,2/12/1992,Danny Manning,Brandi Jones,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,lonely
+Africa,9/11/1987,18/12/1987,Sherri Green,Teresa Sanchez,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,injured
+Africa,5/03/2003,24/04/2003,Eric Page,Michael Webb,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,injured
+Africa,3/08/1997,23/08/1997,Mary Murphy,Erin Ray,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,TRUE,happy
+Africa,16/08/2013,20/09/2013,Sarah Castro,Kenneth Gutierrez,35.21222,2.31889,Ksar Chellala,DZ,Algiers,TRUE,FALSE,TRUE,hostile
+Africa,21/03/2010,17/05/2010,Chad Hardy,Zachary Hawkins,-13.7804,34.4587,Salima,MW,Blantyre,FALSE,FALSE,TRUE,talkative
+Africa,8/08/2004,23/08/2004,Miss Melinda Smith,Victoria Rodriguez,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,FALSE,TRUE,accusatory
+Africa,2/06/2002,16/07/2002,Vincent King,Eugene Brown,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,FALSE,TRUE,silent
+Africa,22/03/2018,6/04/2018,Nicholas Jones,Michael Woods,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,FALSE,TRUE,sad
+Africa,30/09/2001,9/11/2001,Mary Neal,Tanya Conley,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,FALSE,TRUE,over-complimenting
+Africa,7/11/2020,26/11/2020,Ryan Nelson,Ashley Davis,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,FALSE,TRUE,scared
+Africa,17/12/1995,19/01/1996,Marilyn Carter,Brandon Miller,34.15429,3.50309,Messaad,DZ,Algiers,TRUE,TRUE,TRUE,happy
+Africa,10/02/2002,15/03/2002,Erica Anderson,Christopher Bell,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,TRUE,paranoid
+Africa,25/03/2001,5/04/2001,Ricardo Smith,Melinda Soto,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,FALSE,TRUE,insulting
+Africa,10/09/1995,4/10/1995,Paul Henderson,Shannon Norman,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,out-of-control
+Africa,19/08/1990,28/08/1990,Lindsay Steele,Mrs. Kristin Lopez MD,36.08497,9.37082,Siliana,TN,Tunis,FALSE,TRUE,TRUE,insulting
+Africa,12/05/2008,22/06/2008,Timothy Everett,James Brock,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,evasive
+Africa,17/06/1993,28/06/1993,Mitchell Padilla,Joseph Arellano,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,TRUE,TRUE,fleeing
+Africa,12/01/2012,1/02/2012,Larry Davis,Rebecca Snyder MD,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,FALSE,FALSE,fleeing
+Africa,2/11/1988,12/12/1988,Rebecca Nicholson,Ms. Sheila Campbell MD,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,FALSE,TRUE,confessing
+Africa,7/11/2007,8/12/2007,Edward Krause,Kathleen Castro,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,scared
+Africa,27/05/1996,30/06/1996,Michele Snyder,Caleb Cook,26.67319,31.4976,Juhaynah,EG,Cairo,FALSE,TRUE,TRUE,accusatory
+Africa,25/10/2000,22/11/2000,Lindsay Martinez,Emily Ruiz,11.8659,34.3869,Ar Ruseris,SD,Khartoum,TRUE,TRUE,TRUE,unhappy
+Africa,17/12/1993,7/01/1994,Edward Gomez,Kerri Clay,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,TRUE,lonely
+Africa,21/11/2021,19/12/2021,Lisa Wilson,Patricia Edwards,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,scared
+Africa,27/02/2015,26/03/2015,Laura Page,Billy White,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,paranoid
+Africa,10/10/2021,14/10/2021,Robert Castaneda,Charles Leonard,4.96667,10.7,Tonga,CM,Douala,FALSE,FALSE,TRUE,sad
+Africa,16/11/2004,24/12/2004,Brendan Moody,Chloe Harris,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,worried
+Africa,15/12/2021,30/01/2022,Charles Trujillo,Garrett Allen,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,FALSE,TRUE,silent
+Africa,19/06/2010,7/07/2010,Mark Wang,Charles Moran,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,TRUE,TRUE,evasive
+Africa,24/06/2015,16/08/2015,Samantha Morris,Kendra Mercado,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,fleeing
+Africa,31/05/1988,8/07/1988,Garrett Chan,Nicholas Powell,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,evasive
+Africa,25/12/2021,13/02/2022,Jennifer Miller,Terry Erickson,-8.73508,24.99798,Kamina,CD,Lubumbashi,FALSE,FALSE,TRUE,out-of-control
+Africa,29/04/2000,23/05/2000,Nancy Bender,Crystal Kelly,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,FALSE,TRUE,hostile
+Africa,31/12/1988,29/01/1989,Tyrone Fox,Ms. Sheila Campbell MD,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,TRUE,worried
+Africa,26/11/2020,14/01/2021,Tina Mccarthy,Eugene Brown,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,FALSE,TRUE,lonely
+Africa,17/08/1994,28/09/1994,Patrick Riley,Hunter Lee,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,FALSE,TRUE,worried
+Africa,16/10/2019,6/12/2019,Matthew Morrison,Rebecca Rodriguez,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,FALSE,TRUE,tense
+Africa,23/02/1993,27/02/1993,Jose Bell,Jeffrey Graves MD,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,FALSE,TRUE,confessing
+Africa,25/12/2009,6/02/2010,Erica Marquez,Ernest Spencer,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,over-complimenting
+Africa,17/08/2015,19/09/2015,Jennifer Coleman,Nicholas Jones,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,TRUE,TRUE,evasive
+Africa,9/02/2007,10/03/2007,James Hernandez,Jessica Joseph,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,FALSE,TRUE,out-of-control
+Africa,2/11/1993,29/11/1993,Keith Galloway,Laura Santana,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,TRUE,unhappy
+Africa,6/04/1997,16/04/1997,Courtney Hendrix,Samuel Cunningham,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,FALSE,TRUE,insulting
+Africa,5/10/2020,15/10/2020,Scott James,Kelly Barnes,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,TRUE,silent
+Africa,9/03/2021,24/03/2021,Sean Briggs,Garrett Moore,3.51667,11.5,Mbalmayo,CM,Douala,FALSE,FALSE,TRUE,injured
+Africa,15/07/2013,7/09/2013,John Williams,Christopher Smith,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,TRUE,TRUE,tense
+Africa,18/03/1996,20/04/1996,Carolyn West,Rachel Barnes,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,TRUE,sad
+Africa,22/11/1991,3/12/1991,Jonathan Nicholson,Shawn Ramirez,0.49113,29.47306,Beni,CD,Lubumbashi,TRUE,TRUE,TRUE,hostile
+Africa,10/08/1994,4/09/1994,Teresa Morris,Justin White,7.6,4.18333,Olupona,NG,Lagos,FALSE,TRUE,TRUE,over-complimenting
+Africa,5/10/2015,25/11/2015,Blake Bush,Sherry Aguilar,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,tense
+Africa,14/11/2006,28/12/2006,Stacey Reed,Robert Meyer,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,TRUE,injured
+Africa,21/08/1991,8/09/1991,Randall Hayes,Kathleen Castro,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,FALSE,TRUE,tense
+Africa,15/12/2006,24/12/2006,James Foster,Loretta Wood,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,TRUE,tense
+Africa,27/02/2002,2/03/2002,Edward Adams,Emily Mccoy,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,TRUE,TRUE,happy
+Africa,2/08/1987,17/08/1987,Kathleen Martinez,Susan Bowers,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,TRUE,TRUE,panicking
+Africa,11/05/2007,1/07/2007,Mr. Shane Fernandez,Donna Mathis,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,TRUE,TRUE,lonely
+Africa,20/02/1991,3/04/1991,Seth Rice,Kari Chandler,37.16911,10.03478,El Alia,TN,Tunis,FALSE,TRUE,TRUE,tense
+Africa,25/02/1988,16/04/1988,Andre Brown,Jane Huff,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,paranoid
+Africa,15/02/2013,2/03/2013,Theresa Nichols,Brett Wood,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,TRUE,TRUE,out-of-control
+Africa,30/07/2018,9/08/2018,Mr. Jason Davis,Elizabeth Cook,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,FALSE,TRUE,confessing
+Africa,10/10/2010,16/11/2010,Katie Martinez,Veronica Richards,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,FALSE,TRUE,complaining
+Africa,3/05/1990,31/05/1990,Donald Hanson,Patricia Miller,9.89206,43.38531,Baki,SO,Mogadishu,TRUE,FALSE,TRUE,confessing
+Africa,6/06/2009,31/07/2009,Kyle Sanchez,Shelia Holmes,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,FALSE,TRUE,talkative
+Africa,13/10/2011,6/11/2011,Jeffrey Walker,Angela Strickland,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,FALSE,TRUE,out-of-control
+Africa,22/03/2004,29/04/2004,Christine Romero,Grant Humphrey,35.72917,10.58082,Msaken,TN,Tunis,FALSE,TRUE,TRUE,confessing
+Africa,12/06/1994,2/08/1994,Tyler Simmons,James Bryant,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,TRUE,FALSE,talkative
+Africa,23/05/2012,16/07/2012,Gloria Howell,Lindsey Hoover,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,FALSE,TRUE,friendly
+Africa,13/12/1998,15/01/1999,Natasha Steele,Adam Irwin,4.2475,9.00472,Idenao,CM,Douala,FALSE,FALSE,TRUE,accusatory
+Africa,3/03/2013,1/05/2013,Savannah Edwards,Martin Diaz,-8.73508,24.99798,Kamina,CD,Lubumbashi,TRUE,TRUE,TRUE,sad
+Africa,26/10/1999,18/12/1999,Robert Smith,Garrett Cook,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,hostile
+Africa,2/06/1987,21/07/1987,Clayton Davis,Dana Parker,26.67319,31.4976,Juhaynah,EG,Cairo,FALSE,TRUE,TRUE,out-of-control
+Africa,28/05/2012,17/07/2012,Tanya Foster,Kevin Contreras,4.94273,15.87735,Carnot,CF,Bangui,FALSE,FALSE,TRUE,worried
+Africa,25/08/1990,28/08/1990,Erin Murphy,Ronnie Anthony,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,FALSE,TRUE,silent
+Africa,1/10/1989,18/11/1989,Brittany Ross,Eric French,10.61285,12.19458,Biu,NG,Lagos,FALSE,FALSE,TRUE,out-of-control
+Africa,7/01/2021,28/01/2021,Brett Bennett,Joseph Nguyen,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,out-of-control
+Africa,22/07/2020,21/08/2020,Tammy Haley,Sheri Chapman,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,FALSE,TRUE,injured
+Africa,28/01/2007,20/03/2007,Tanya Woods,Garrett Cook,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,TRUE,lonely
+Africa,26/01/2014,10/03/2014,Carl Christensen,Brandy Mendez,10.61285,12.19458,Biu,NG,Lagos,TRUE,TRUE,TRUE,lonely
+Africa,16/02/2007,16/02/2007,Ashley Bowman,Daniel Moore,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,TRUE,FALSE,over-complimenting
+Africa,17/07/1998,14/09/1998,James Smith,Bethany Chen,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,FALSE,TRUE,talkative
+Africa,19/07/2012,12/09/2012,Jeremy Spencer,Kimberly Mills,-1.9487,30.4347,Rwamagana,RW,Kigali,TRUE,TRUE,TRUE,paranoid
+Africa,15/11/1989,16/11/1989,Dustin Parker,Michael Smith,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,worried
+Africa,18/10/2020,15/11/2020,Matthew Bryant,Robert Baird,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,TRUE,TRUE,paranoid
+Africa,13/10/1992,9/11/1992,Heather Krause,Terry Erickson,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,FALSE,TRUE,hostile
+Africa,5/10/2010,20/11/2010,Tiffany Kelly,Michelle Lee,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,TRUE,unhappy
+Africa,19/08/2007,10/10/2007,Jason Knapp,Anthony Harris,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,insulting
+Africa,4/06/1993,17/07/1993,John Brown,Janice Carroll,7.06273,-1.4001,Mampong,GH,Accra,TRUE,FALSE,TRUE,accusatory
+Africa,29/08/2015,11/09/2015,Joseph Franklin,Brittany Burnett,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,TRUE,TRUE,accusatory
+Africa,29/08/1999,12/09/1999,Vickie Patton,Brian Haas,7.06273,-1.4001,Mampong,GH,Accra,FALSE,TRUE,TRUE,scared
+Africa,1/08/2020,13/09/2020,Gregory Bryant,Kathleen Hicks,24.96334,10.18003,Ghat,LY,Tripoli,FALSE,FALSE,TRUE,paranoid
+Africa,16/12/2018,28/01/2019,Holly Bird,Caleb Cook,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,talkative
+Africa,8/09/2009,13/09/2009,Tina Murphy,Stephen Mills,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,TRUE,TRUE,silent
+Africa,6/06/2020,24/07/2020,John Frazier,Evelyn Hines,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,over-complimenting
+Africa,1/06/2002,7/07/2002,Mark Woods,Bradley Ewing,4.94273,15.87735,Carnot,CF,Bangui,FALSE,FALSE,TRUE,out-of-control
+Africa,10/09/2006,2/10/2006,Melanie Klein,Timothy Williams,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,scared
+Africa,16/07/1987,24/08/1987,Dustin Perez,Jennifer Hoffman,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,TRUE,TRUE,oblivious
+Africa,23/12/2012,16/02/2013,Samantha Alvarado,Hannah Lindsey,4.2475,9.00472,Idenao,CM,Douala,FALSE,FALSE,TRUE,unhappy
+Africa,10/08/2002,16/08/2002,Ralph Lee,Isabel Webb,-8.73508,24.99798,Kamina,CD,Lubumbashi,FALSE,TRUE,TRUE,worried
+Africa,2/09/2011,15/09/2011,Dean Jones,Kyle Thomas,34.31,-2.16,Jerada,MA,Casablanca,FALSE,FALSE,TRUE,accusatory
+Africa,2/11/2017,2/12/2017,Maria Grant,Larry King,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,FALSE,TRUE,confessing
+Africa,29/09/1999,28/10/1999,Danielle Randolph,Jennifer Hoffman,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,FALSE,TRUE,happy
+Africa,16/03/1998,31/03/1998,Michael Whitaker,David Strong,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,TRUE,over-complimenting
+Africa,26/10/2011,6/12/2011,Jeffrey Johnston Jr.,Patricia Hall,36.08497,9.37082,Siliana,TN,Tunis,FALSE,TRUE,TRUE,complaining
+Africa,17/11/1987,22/11/1987,Meghan Miles,Elizabeth Cooper,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,hostile
+Africa,1/09/1985,2/09/1985,Daniel Elliott,Elizabeth Cooper,2.41669,30.98551,Paidha,UG,Kampala,FALSE,TRUE,TRUE,paranoid
+Africa,17/07/1997,22/08/1997,Joseph Payne,Michael Bailey,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,FALSE,TRUE,paranoid
+Africa,19/06/2022,1/07/2022,Daniel Ellis,Tamara Hall,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,unhappy
+Africa,12/04/1992,9/06/1992,Adam Ellison,Isabel Webb,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,FALSE,TRUE,panicking
+Africa,20/04/1999,12/05/1999,Kevin Robinson,Jeffrey Johnson,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,scared
+Africa,23/08/2011,18/10/2011,Amanda Chen,Darrell Crawford,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,FALSE,TRUE,silent
+Africa,3/06/2021,6/06/2021,Brooke Johnson,Michael Sims,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,scared
+Africa,21/03/2002,9/05/2002,Paul Sanders Jr.,Todd Robinson,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,TRUE,TRUE,paranoid
+Africa,1/07/2000,22/08/2000,Heather King,James Anderson,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,panicking
+Africa,28/05/1990,23/07/1990,Isabella Moore,Joseph Nguyen,10.61285,12.19458,Biu,NG,Lagos,FALSE,FALSE,TRUE,complaining
+Africa,28/08/1987,27/09/1987,Dawn Brown,Jessica Rogers,35.72917,10.58082,Msaken,TN,Tunis,FALSE,FALSE,TRUE,lonely
+Africa,7/08/1991,3/09/1991,Laura Wilson,John Barr,4.2475,9.00472,Idenao,CM,Douala,FALSE,FALSE,TRUE,friendly
+Africa,8/09/2006,3/10/2006,Gail Dalton,Garrett Lawrence,12.74409,-8.07257,Kati,ML,Bamako,FALSE,FALSE,TRUE,confessing
+Africa,4/09/2016,28/09/2016,Michael Smith II,Scott Nixon,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,TRUE,over-complimenting
+Africa,3/10/2019,12/11/2019,Jonathan Rivera,Jessica Joseph,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,FALSE,TRUE,silent
+Africa,8/07/2000,17/07/2000,Wendy Anderson,Teresa Sanchez,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,TRUE,talkative
+Africa,11/06/2010,23/07/2010,Michael Anderson,Mark Williams,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,TRUE,TRUE,silent
+Africa,13/08/2003,7/10/2003,Lindsey Lopez,Lindsey Hoover,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,TRUE,FALSE,out-of-control
+Africa,13/10/1997,28/10/1997,Jasmine Hunter,Dennis Flores,34.31,-2.16,Jerada,MA,Casablanca,FALSE,TRUE,TRUE,oblivious
+Africa,12/10/2019,5/11/2019,Jeffrey Smith,Lori Lowery,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,fleeing
+Africa,16/12/2010,10/01/2011,Julie Campbell,Kenneth Gutierrez,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,TRUE,TRUE,happy
+Africa,2/04/1995,20/04/1995,Emily Bailey,Thomas Hamilton,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,panicking
+Africa,29/01/1995,11/02/1995,Michael Osborne,Jennifer George,-13.7804,34.4587,Salima,MW,Blantyre,TRUE,TRUE,TRUE,talkative
+Africa,26/01/1997,19/02/1997,Gerald Howe,David Simmons,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,FALSE,TRUE,oblivious
+Africa,22/07/2008,30/08/2008,Alexandria Dawson,Charles Mitchell,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,FALSE,TRUE,injured
+Africa,19/02/2013,8/03/2013,Roberto Olson,Dominic Peters,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,TRUE,TRUE,paranoid
+Africa,25/09/1989,3/10/1989,Vincent Hess,Rhonda Jones,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,insulting
+Africa,21/02/2001,26/03/2001,Ruth Webb,Brian Velasquez,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,TRUE,TRUE,confessing
+Africa,20/04/1997,25/05/1997,Laura Ford,Kerri Clay,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,FALSE,TRUE,oblivious
+Africa,20/06/1987,31/07/1987,Amber Williams,Charlene Mccormick,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,FALSE,TRUE,happy
+Africa,10/08/1986,14/08/1986,Cynthia Jones,Michael Woods,2.41669,30.98551,Paidha,UG,Kampala,FALSE,FALSE,TRUE,complaining
+Africa,19/09/1990,14/10/1990,Melissa Lara,Bradley Ewing,11.86064,9.0027,Gaya,NG,Lagos,FALSE,FALSE,TRUE,oblivious
+Africa,11/11/1996,6/12/1996,Carla Wilkins,Jeffery Weaver,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,FALSE,TRUE,hostile
+Africa,19/03/2019,15/04/2019,Phyllis Hunter,Dawn Pierce,37.16911,10.03478,El Alia,TN,Tunis,FALSE,TRUE,TRUE,unhappy
+Africa,9/09/1990,12/10/1990,Jordan Garza,Billy White,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,FALSE,TRUE,scared
+Africa,28/08/2011,28/08/2011,Crystal Smith,Kaitlyn Johns,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,FALSE,TRUE,scared
+Africa,20/01/2021,22/02/2021,Ruben Steele,Dean Martinez,-2.68333,33,Usagara,TZ,Dar es Salaam,TRUE,TRUE,TRUE,worried
+Africa,27/01/2019,5/03/2019,Alex Steele,Kendra Miller,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,FALSE,TRUE,evasive
+Africa,30/03/2006,9/04/2006,Scott Clark,David Woodward,34.15429,3.50309,Messaad,DZ,Algiers,TRUE,TRUE,TRUE,paranoid
+Africa,20/03/2009,16/04/2009,Monica Dennis,Mr. Rodney Franco,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,FALSE,TRUE,unhappy
+Africa,2/07/2013,28/07/2013,Calvin Clark,Matthew Brown,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,TRUE,TRUE,scared
+Africa,28/04/1994,16/05/1994,Alicia Doyle,Amanda Petersen DDS,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,FALSE,TRUE,scared
+Africa,1/12/2001,14/12/2001,Denise Smith,Kendra Mercado,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,scared
+Africa,20/02/2000,16/03/2000,Danielle Sanchez,Sonia Mcdaniel,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,TRUE,oblivious
+Africa,5/11/2005,19/11/2005,Hannah Harris,David Harrington,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,FALSE,talkative
+Africa,10/11/2016,6/01/2017,Emma Gonzalez,Jennifer Snyder,36.72544,3.55665,Thenia,DZ,Algiers,TRUE,TRUE,TRUE,hostile
+Africa,9/11/2014,10/12/2014,Rebecca Henry,Nicole Hart,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,hostile
+Africa,23/10/1985,4/11/1985,Gregory Rice,Kenneth Barrett,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,insulting
+Africa,2/04/1986,9/04/1986,Kenneth Rodriguez,Adam Montes,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,FALSE,TRUE,sad
+Africa,25/01/2022,6/02/2022,Crystal Grimes,Ashley Larson,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,TRUE,TRUE,complaining
+Africa,12/08/2015,25/08/2015,Joshua Robinson,Monica Davis,-21.98333,16.91667,Okahandja,NA,Windhoek,TRUE,TRUE,TRUE,friendly
+Africa,30/07/1995,27/08/1995,Carolyn Smith,Marie Hill,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,TRUE,TRUE,oblivious
+Africa,27/08/1995,18/10/1995,Stephen Wallace,Michael Higgins,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,happy
+Africa,12/08/2010,24/09/2010,Ryan Hernandez,Laura Reynolds,-8.73508,24.99798,Kamina,CD,Lubumbashi,FALSE,FALSE,TRUE,fleeing
+Africa,29/02/2004,23/03/2004,Sarah Khan,Monica Davis,7.6,4.18333,Olupona,NG,Lagos,TRUE,FALSE,TRUE,scared
+Africa,12/01/2013,22/02/2013,Marco Wilkins,Charles Mitchell,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,TRUE,TRUE,sad
+Africa,30/06/2021,30/06/2021,Charlotte Odonnell,Ashley Larson,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,FALSE,TRUE,complaining
+Africa,21/12/2001,15/02/2002,Denise Lee,Darrell Crawford,4.2475,9.00472,Idenao,CM,Douala,FALSE,FALSE,TRUE,insulting
+Africa,19/01/1998,1/02/1998,Joy Hayes,Wayne Knight,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,TRUE,hostile
+Africa,19/09/2001,14/11/2001,Keith Frank,Donald Miller,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,TRUE,TRUE,evasive
+Africa,5/03/2000,2/05/2000,Diana Medina,Jane Huff,24.96334,10.18003,Ghat,LY,Tripoli,FALSE,TRUE,TRUE,paranoid
+Africa,26/02/2013,6/03/2013,Theodore Savage,Jeffrey Johnson,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,worried
+Africa,24/06/2003,7/07/2003,Julie Beltran,Jeffrey Johnson,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,FALSE,TRUE,silent
+Africa,16/05/1989,28/06/1989,Courtney Fields,Eddie Hall,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,tense
+Africa,15/06/2001,5/07/2001,Veronica Leblanc,Jorge Novak,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,FALSE,TRUE,confessing
+Africa,14/04/2005,5/06/2005,Melanie Powers,Julian Anderson,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,hostile
+Africa,9/07/2019,4/08/2019,Lorraine Foster,Jessica Joseph,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,FALSE,friendly
+Africa,22/09/1992,6/10/1992,Bradley Meza,Ashley Vaughn,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,FALSE,TRUE,scared
+Africa,18/05/2007,23/05/2007,Keith Jennings,Shelly Espinoza,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,TRUE,panicking
+Africa,21/05/2013,21/06/2013,Larry Barnes,Gina Howard,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,TRUE,TRUE,injured
+Africa,24/04/1989,20/06/1989,Ricardo Chaney,Alexa Flores,6.8485,3.64633,Shagamu,NG,Lagos,TRUE,TRUE,TRUE,insulting
+Africa,29/05/2010,20/07/2010,Cheryl Montes,Amanda Petersen DDS,7.50251,5.06258,Igbara-Odo,NG,Lagos,TRUE,FALSE,TRUE,insulting
+Africa,21/04/1993,22/05/1993,Logan Williams,Michael Riddle,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,TRUE,TRUE,out-of-control
+Africa,21/05/2007,30/06/2007,Bethany Myers,Jeffery Carter,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,FALSE,TRUE,happy
+Africa,31/08/2005,29/09/2005,Kristin Patton,Leslie Anderson,-21.98333,16.91667,Okahandja,NA,Windhoek,TRUE,FALSE,TRUE,oblivious
+Africa,14/05/1990,19/06/1990,Trevor Huber,Laura Cook,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,injured
+Africa,17/01/1994,3/02/1994,Tanner Kline,Erin Ray,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,FALSE,TRUE,sad
+Africa,26/06/2020,16/08/2020,Nathan Simmons,Angela Johnson,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,TRUE,TRUE,TRUE,friendly
+Africa,21/03/2016,21/04/2016,Patricia Grimes,Joseph Moore DVM,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,TRUE,friendly
+Africa,1/02/1993,11/03/1993,Joshua Anderson,Miranda Lester,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,panicking
+Africa,12/01/2015,14/02/2015,John Bass,Julia Cannon,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,TRUE,TRUE,panicking
+Africa,11/01/2019,19/01/2019,Travis Shaw,Loretta Wood,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,TRUE,FALSE,fleeing
+Africa,24/09/2011,5/10/2011,Richard Robinson,Michael Tate,9.58126,8.2926,Kafanchan,NG,Lagos,FALSE,TRUE,TRUE,fleeing
+Africa,10/05/2016,12/05/2016,Megan Romero,Cathy Durham,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,TRUE,TRUE,tense
+Africa,13/06/2021,13/07/2021,Andrea Lynch,Jennifer Malone,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,FALSE,TRUE,worried
+Africa,19/11/2006,22/12/2006,Timothy Davis,Kelly Drake,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,TRUE,TRUE,friendly
+Africa,17/12/2019,2/01/2020,Kevin Anderson,William Gallagher,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,TRUE,worried
+Africa,12/03/2015,5/04/2015,Jason Brown,Susan Bowers,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,TRUE,TRUE,insulting
+Africa,29/11/2004,2/12/2004,Jennifer Montgomery,Daniel Brown,9.535,-13.68778,Camayenne,GN,Conakry,TRUE,TRUE,TRUE,unhappy
+Africa,11/03/2002,18/03/2002,Dana Maldonado,Jessica Conway,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,paranoid
+Africa,24/08/2021,6/09/2021,Adam Watkins,Leslie Anderson,9.58126,8.2926,Kafanchan,NG,Lagos,FALSE,TRUE,TRUE,evasive
+Africa,31/08/2021,4/09/2021,Alvin Martinez PhD,Kerry Buck,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,FALSE,TRUE,paranoid
+Africa,27/07/2013,18/09/2013,Rachel Brown,Sherry Aguilar,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,TRUE,TRUE,paranoid
+Africa,21/03/1993,29/04/1993,Molly Silva,Sheri Chapman,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,FALSE,TRUE,oblivious
+Africa,31/01/1995,26/03/1995,Mark Stevenson,Kelly Drake,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,FALSE,TRUE,oblivious
+Africa,26/07/1994,9/09/1994,Brian Glenn,James Brock,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,TRUE,FALSE,paranoid
+Africa,19/05/1990,25/05/1990,Jennifer Miller,Lori Lowery,26.67319,31.4976,Juhaynah,EG,Cairo,FALSE,FALSE,TRUE,silent
+Africa,29/04/2008,7/06/2008,Donald Watkins,Micheal Thomas,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,FALSE,TRUE,talkative
+Africa,5/05/1988,20/05/1988,Ryan Lee,Michelle Jarvis,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,FALSE,TRUE,sad
+Africa,30/09/2014,10/11/2014,Casey Kramer,Tiffany Morrison,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,out-of-control
+Africa,15/11/1985,12/12/1985,Jason Leonard,Natalie Patrick,12.74409,-8.07257,Kati,ML,Bamako,FALSE,TRUE,TRUE,injured
+Africa,29/07/2021,5/08/2021,Amy Potter,Annette Barrett,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,confessing
+Africa,22/03/2022,22/04/2022,John Stewart,Julian Anderson,-11.78333,19.91667,Luena,AO,Luanda,FALSE,FALSE,TRUE,happy
+Africa,3/04/1988,2/05/1988,Mitchell Clark,Kristen Peterson,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,FALSE,TRUE,insulting
+Africa,27/07/2005,29/08/2005,Matthew Edwards,Jason Berg,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,FALSE,TRUE,sad
+Africa,7/12/2017,7/01/2018,Dr. Linda Abbott,Mark Ferguson,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,TRUE,TRUE,silent
+Africa,14/06/1994,31/07/1994,Ryan Thomas,Cassidy Brown,3.02013,30.91105,Arua,UG,Kampala,FALSE,TRUE,TRUE,accusatory
+Africa,26/05/2003,18/07/2003,Jason Mcmillan,Patrick Stephens,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,FALSE,TRUE,paranoid
+Africa,27/05/2009,8/06/2009,Dawn Vega,Robert Maxwell,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,insulting
+Africa,16/11/2007,20/11/2007,Brian Smith,Brittany Henderson,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,TRUE,FALSE,lonely
+Africa,9/02/2012,5/03/2012,Julian Aguilar,Martin Diaz,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,TRUE,TRUE,out-of-control
+Africa,4/05/1995,16/05/1995,Alyssa Foley,Gregory Hanson,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,FALSE,complaining
+Africa,10/02/1997,4/03/1997,Debra Saunders,Rebecca Jackson,35.72917,10.58082,Msaken,TN,Tunis,FALSE,FALSE,TRUE,out-of-control
+Africa,8/10/1992,28/11/1992,Tiffany Dean,Steven Edwards,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,friendly
+Africa,8/09/1986,12/09/1986,Tyrone Johnson,Michael Webb,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,TRUE,TRUE,scared
+Africa,20/12/1991,31/12/1991,Katherine Lopez,Gregory Hanson,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,hostile
+Africa,23/02/2000,13/03/2000,Sarah Sullivan,Cassidy Brown,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,FALSE,TRUE,tense
+Africa,10/05/2018,6/07/2018,Johnny Cook,Kenneth Stevenson,3.02013,30.91105,Arua,UG,Kampala,FALSE,FALSE,TRUE,panicking
+Africa,21/07/1991,12/09/1991,Mario Watson,Nicole Payne,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,friendly
+Africa,22/07/1993,11/09/1993,Kaitlyn Horn,Shawn Ramirez,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,TRUE,TRUE,lonely
+Africa,8/12/1991,1/02/1992,Stephen Moore,Angel Gonzales,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,over-complimenting
+Africa,25/11/2020,5/12/2020,Amy Leon,Joshua Guzman,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,out-of-control
+Africa,1/01/2019,19/02/2019,Alicia Perry,Denise Park,11.86064,9.0027,Gaya,NG,Lagos,FALSE,TRUE,TRUE,injured
+Africa,8/12/2018,10/12/2018,Jonathan Rowland,Parker Mitchell,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,TRUE,TRUE,silent
+Africa,8/09/2012,17/10/2012,Andrew Campbell,Rita Johnson,12.74409,-8.07257,Kati,ML,Bamako,FALSE,TRUE,TRUE,scared
+Africa,4/11/2002,16/12/2002,Ryan Williams,Kenneth Stevenson,9.58126,8.2926,Kafanchan,NG,Lagos,FALSE,FALSE,TRUE,accusatory
+Africa,24/11/1996,6/12/1996,Melissa Green,James Burnett,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,TRUE,TRUE,over-complimenting
+Africa,25/06/1986,16/07/1986,Nicole Green,Matthew Brown,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,talkative
+Africa,27/11/1989,7/01/1990,Cassidy Woods,Todd Garcia,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,FALSE,TRUE,tense
+Africa,3/12/1988,31/12/1988,Brian Long,Meredith Gibbs,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,TRUE,FALSE,sad
+Africa,9/11/2008,24/11/2008,Dominic Thompson,Jordan Torres,7.57944,-8.53778,New Yekepa,LR,Monrovia,TRUE,TRUE,TRUE,out-of-control
+Africa,9/11/2013,20/11/2013,Shawn Vasquez,Sarah Brown,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,TRUE,TRUE,panicking
+Africa,19/04/1995,31/05/1995,Meghan Herrera,Kimberly Woods,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,complaining
+Africa,17/03/1999,12/04/1999,David Valdez,Brian Torres,3.51667,11.5,Mbalmayo,CM,Douala,FALSE,TRUE,TRUE,insulting
+Africa,14/02/2015,31/03/2015,Melissa Baker,Amber Wright,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,panicking
+Africa,17/05/1996,24/06/1996,John Boone,Theresa Patterson,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,FALSE,TRUE,evasive
+Africa,22/02/2000,5/04/2000,Jennifer Allen,Lindsey Wheeler,13.56667,-15.6,Farafenni,GM,Banjul,TRUE,TRUE,TRUE,scared
+Africa,27/06/2014,19/08/2014,Benjamin Zimmerman,Kyle Thomas,3.27833,32.88667,Kitgum,UG,Kampala,TRUE,TRUE,TRUE,fleeing
+Africa,14/02/1997,15/03/1997,Dominic Brown,Martin Diaz,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,fleeing
+Africa,5/08/2009,22/09/2009,Steven Cruz,Cathy Durham,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,hostile
+Africa,29/10/1989,2/11/1989,Nicholas Munoz,Glen Walker,3.51667,11.5,Mbalmayo,CM,Douala,FALSE,TRUE,TRUE,unhappy
+Africa,24/10/2019,6/11/2019,Lisa Salazar,Ashley Taylor,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,complaining
+Africa,25/02/2002,18/03/2002,Stacy Pineda,Kathleen Castro,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,FALSE,TRUE,scared
+Africa,7/04/2007,5/05/2007,Kimberly Mccullough,Stephanie Taylor,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,FALSE,TRUE,sad
+Africa,25/11/1994,24/12/1994,Lisa Shaffer,Denise Kramer,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,TRUE,accusatory
+Africa,25/03/2002,25/03/2002,Kathleen Paul,Tammy Bruce,-26.93366,29.24152,Standerton,ZA,Johannesburg,TRUE,TRUE,TRUE,unhappy
+Africa,5/03/2016,5/04/2016,Diane Gill,Sarah Brown,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,FALSE,TRUE,happy
+Africa,20/07/2000,12/08/2000,Erica Martin,William Joseph,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,TRUE,TRUE,sad
+Africa,6/08/2003,22/09/2003,Kyle Deleon,Amanda Brown,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,TRUE,TRUE,happy
+Africa,21/01/2015,9/02/2015,Michael Becker,Erik Gibson,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,FALSE,TRUE,evasive
+Africa,13/08/2017,31/08/2017,Lindsey Howard,Rita Johnson,4.2475,9.00472,Idenao,CM,Douala,FALSE,TRUE,TRUE,worried
+Africa,30/05/2005,31/05/2005,Cynthia Richardson,Theresa Patterson,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,FALSE,TRUE,evasive
+Africa,15/10/1992,14/11/1992,Jennifer White,Jane Hall,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,FALSE,TRUE,TRUE,insulting
+Africa,5/09/1988,1/10/1988,Trevor Valdez,Thomas Hamilton,10.61285,12.19458,Biu,NG,Lagos,FALSE,TRUE,TRUE,out-of-control
+Africa,16/10/2016,21/11/2016,Casey Porter,Denise Davis,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,FALSE,TRUE,injured
+Africa,11/11/1993,5/01/1994,Brett Johnson,Aaron Nguyen,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,TRUE,TRUE,happy
+Africa,11/05/1986,7/06/1986,Kelly Diaz,Darren Simpson,4.94273,15.87735,Carnot,CF,Bangui,TRUE,TRUE,TRUE,injured
+Africa,14/11/1989,15/12/1989,Arthur Watts,Steven Lee,-4.5833,15.16554,Kasangulu,CD,Kinshasa,FALSE,FALSE,TRUE,confessing
+Africa,4/09/1991,1/11/1991,Robin Gentry,Eric Roberts,-13.7804,34.4587,Salima,MW,Blantyre,FALSE,TRUE,TRUE,injured
+Africa,4/09/2013,24/10/2013,Kelly Rose,Jennifer George,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,TRUE,FALSE,lonely
+Africa,21/09/2011,6/10/2011,Cameron Hawkins,Emily Johns,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,silent
+Africa,25/02/2019,8/03/2019,Amanda Flynn,Jerry Cruz,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,confessing
+Africa,25/08/2000,8/10/2000,Julie Ross,Phillip Quinn,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,TRUE,TRUE,complaining
+Africa,1/02/1988,10/02/1988,Louis Crane,Nicole Hart,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,TRUE,TRUE,complaining
+Africa,10/05/2002,3/07/2002,Robert Gallagher,Brian Torres,35.21222,2.31889,Ksar Chellala,DZ,Algiers,TRUE,FALSE,TRUE,complaining
+Africa,29/10/1994,28/11/1994,Chelsea Kirk,Kelly Drake,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,TRUE,TRUE,friendly
+Africa,21/08/1998,24/09/1998,Stephen Herring,Annette Barrett,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,fleeing
+Africa,8/05/2017,7/06/2017,Charles Escobar,Jeremy Mason,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,scared
+Africa,13/01/1991,19/02/1991,Christopher Jones,Kevin Contreras,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,TRUE,TRUE,out-of-control
+Africa,17/03/2019,1/04/2019,Danielle Hall,Victor Tapia,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,FALSE,over-complimenting
+Africa,12/09/2016,29/09/2016,Christina Roberts,Ashley Carr,37.16911,10.03478,El Alia,TN,Tunis,FALSE,FALSE,FALSE,evasive
+Africa,13/08/2006,19/08/2006,Brian Martin,Angela Strickland,0.46005,34.11169,Busia,KE,Nairobi,FALSE,FALSE,TRUE,over-complimenting
+Africa,28/02/2013,19/04/2013,Laura Mcdonald,Erik Gibson,34.31,-2.16,Jerada,MA,Casablanca,FALSE,FALSE,TRUE,talkative
+Africa,17/06/2022,1/07/2022,Thomas Pena,Sonia Mcdaniel,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,TRUE,complaining
+Africa,9/04/2016,19/04/2016,Mrs. Kimberly Hodges MD,John Hayes,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,TRUE,TRUE,evasive
+Africa,2/06/2017,14/07/2017,Timothy Smith,William Zuniga,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,FALSE,TRUE,paranoid
+Africa,9/08/2019,17/09/2019,Arthur Robertson,Teresa Sanchez,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,happy
+Africa,15/02/2010,5/03/2010,Robert Carter,Jerry Cruz,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,FALSE,TRUE,out-of-control
+Africa,16/05/2004,18/06/2004,Christian Martinez,Sara Chavez,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,TRUE,complaining
+Africa,28/06/2012,19/07/2012,Elizabeth Rogers,Nicholas Powell,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,TRUE,TRUE,paranoid
+Africa,25/10/2010,20/12/2010,Linda Vega,Nicole Payne,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,TRUE,FALSE,happy
+Africa,5/09/2004,25/09/2004,Michael Reese,Lindsey Hoover,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,TRUE,paranoid
+Africa,7/03/2009,4/05/2009,Jerome Johnson,Laura Oconnor,35.21222,2.31889,Ksar Chellala,DZ,Algiers,FALSE,TRUE,TRUE,oblivious
+Africa,18/03/2001,12/04/2001,Zachary Hughes,Eric Wilson,35.21222,2.31889,Ksar Chellala,DZ,Algiers,FALSE,TRUE,TRUE,paranoid
+Africa,4/10/2018,20/11/2018,Luke Lucas,Meredith Gibbs,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,silent
+Africa,23/01/2016,1/03/2016,Christine Allen,Micheal Thomas,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,FALSE,TRUE,injured
+Africa,13/12/1992,29/01/1993,Austin Valencia,Kurt Clark,3.27833,32.88667,Kitgum,UG,Kampala,TRUE,FALSE,TRUE,insulting
+Africa,16/05/1993,9/06/1993,Sarah Williams,Cynthia Moore,9.535,-13.68778,Camayenne,GN,Conakry,TRUE,TRUE,TRUE,unhappy
+Africa,28/01/2003,23/03/2003,Matthew Bowman,Robert Meyer,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,TRUE,panicking
+Africa,30/01/2000,26/02/2000,Jade Lewis,Chris Campbell Jr.,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,TRUE,TRUE,fleeing
+Africa,16/04/2022,2/05/2022,Brian Chavez,Todd Garcia,-21.98333,16.91667,Okahandja,NA,Windhoek,FALSE,TRUE,TRUE,complaining
+Africa,18/07/2017,8/08/2017,Ronnie Farrell,Misty Marshall,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,FALSE,TRUE,happy
+Africa,22/01/2011,22/02/2011,Mark Bishop,Chloe Harris,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,FALSE,TRUE,fleeing
+Africa,6/02/1987,29/03/1987,Alexandra Middleton,Dennis Flores,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,TRUE,lonely
+Africa,30/08/2004,2/09/2004,Brittany Santiago,Donna Mathis,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,FALSE,TRUE,insulting
+Africa,12/01/1999,27/01/1999,Robyn Wagner,Jeremy Mccullough,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,FALSE,worried
+Africa,25/04/2006,10/06/2006,Deborah Sanders,Taylor Robinson,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,scared
+Africa,4/01/1997,10/01/1997,Robert Holden,Dennis Flores,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,TRUE,panicking
+Africa,8/08/1995,27/08/1995,Nicholas Clark,Gordon Jimenez,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,TRUE,TRUE,tense
+Africa,1/11/2008,24/12/2008,Kevin Alexander,Richard Harris,0.49113,29.47306,Beni,CD,Lubumbashi,FALSE,TRUE,TRUE,worried
+Africa,22/07/2005,13/09/2005,Jessica Day,Patrick Stephens,24.96334,10.18003,Ghat,LY,Tripoli,FALSE,TRUE,FALSE,silent
+Africa,25/04/2001,11/05/2001,Timothy Walters,Justin White,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,oblivious
+Africa,12/10/2007,4/11/2007,Angela Hall,Jennifer Hoffman,4.2475,9.00472,Idenao,CM,Douala,FALSE,TRUE,TRUE,tense
+Africa,22/05/2002,24/05/2002,Meghan Mcneil,Linda Edwards,34.31,-2.16,Jerada,MA,Casablanca,FALSE,TRUE,TRUE,confessing
+Africa,31/01/2021,6/03/2021,Sarah Lane,Richard Reyes,10.61285,12.19458,Biu,NG,Lagos,FALSE,TRUE,TRUE,happy
+Africa,22/11/2005,10/12/2005,Marie Sutton,Brian Torres,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,TRUE,TRUE,worried
+Africa,13/04/1986,10/06/1986,Angel Franklin,Richard Harris,3.02013,30.91105,Arua,UG,Kampala,FALSE,TRUE,TRUE,sad
+Africa,24/03/2020,7/05/2020,Maria Sanchez,Susan Thomas,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,accusatory
+Africa,22/12/2020,15/01/2021,Christopher Miller,Cynthia Moore,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,TRUE,TRUE,worried
+Africa,19/08/2014,13/09/2014,Ashley Boone,Alicia Harper,36.08497,9.37082,Siliana,TN,Tunis,FALSE,FALSE,FALSE,tense
+Africa,29/11/2005,25/12/2005,Patricia Washington,James Anderson,0.49113,29.47306,Beni,CD,Lubumbashi,TRUE,TRUE,TRUE,lonely
+Africa,6/01/2010,15/01/2010,Jessica Wilkinson,John Hayes,11.86064,9.0027,Gaya,NG,Lagos,TRUE,TRUE,TRUE,friendly
+Africa,18/08/2003,15/10/2003,Jason Guzman,Adam Mathis,10.61285,12.19458,Biu,NG,Lagos,TRUE,TRUE,TRUE,scared
+Africa,26/06/2011,7/08/2011,John Davis,Donna Martin,-10.33333,39.28333,Nyangao,TZ,Dar es Salaam,FALSE,TRUE,FALSE,tense
+Africa,28/08/1990,21/10/1990,Justin Rush,David Woodward,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,complaining
+Africa,15/02/2008,18/02/2008,James Jones,Jerry Cruz,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,FALSE,TRUE,oblivious
+Africa,4/07/1996,11/07/1996,Amy Nichols,Kevin Contreras,37.16911,10.03478,El Alia,TN,Tunis,TRUE,TRUE,TRUE,talkative
+Africa,26/10/2006,16/12/2006,Becky Smith,David Strong,13.70727,9.15013,Mirriah,NE,Niamey,FALSE,TRUE,TRUE,scared
+Africa,8/03/2015,4/05/2015,Caitlin Scott,Austin Williams,34.31,-2.16,Jerada,MA,Casablanca,FALSE,TRUE,TRUE,out-of-control
+Africa,19/01/1989,12/03/1989,Eric Mckay II,Katelyn Cook,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,TRUE,TRUE,TRUE,over-complimenting
+Africa,16/07/1990,10/08/1990,Robert Lee,Glenn Li,-4.26613,15.28318,Brazzaville,CG,Brazzaville,TRUE,FALSE,TRUE,complaining
+Africa,3/03/1994,19/03/1994,Eric Hull,Shannon Norman,13.56667,-15.6,Farafenni,GM,Banjul,FALSE,FALSE,TRUE,worried
+Africa,30/01/2017,21/03/2017,Shawn Mitchell,Megan West,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,FALSE,TRUE,panicking
+Africa,18/09/2000,24/09/2000,Robert Mclean,Dr. John Webb DVM,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,FALSE,TRUE,silent
+Africa,14/11/1988,6/01/1989,Michelle Garcia,Annette Barrett,36.08497,9.37082,Siliana,TN,Tunis,FALSE,TRUE,TRUE,tense
+Africa,8/01/2010,5/02/2010,Megan Carr,Todd Garcia,36.46917,10.78222,Beni Khiar,TN,Tunis,FALSE,TRUE,TRUE,evasive
+Africa,7/02/2002,13/03/2002,Brandi Hines,Cristina Reynolds,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,accusatory
+Africa,29/01/1989,13/02/1989,Marissa Cohen,James Williams,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,TRUE,TRUE,worried
+Africa,14/04/2020,4/05/2020,Paul Fowler,Kerry Buck,11.8659,34.3869,Ar Ruseris,SD,Khartoum,TRUE,TRUE,TRUE,tense
+Africa,12/02/2001,21/03/2001,Marie Castillo,Daniel Moore,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,happy
+Africa,2/11/2021,11/11/2021,Martha Gardner,Susan Bowers,33.42585,-6.00137,Oulmes,MA,Casablanca,TRUE,TRUE,TRUE,accusatory
+Africa,21/01/2006,24/02/2006,Laurie Lewis,Elizabeth Martinez,6.46346,-2.31938,Bibiani,GH,Accra,TRUE,TRUE,TRUE,unhappy
+Africa,10/07/2004,20/07/2004,Veronica Hartman,Miranda Lester,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,confessing
+Africa,29/01/1993,9/02/1993,Joseph Berger,Beth Cuevas,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,evasive
+Africa,21/01/2021,9/03/2021,Natalie Jenkins,Rebecca Rodriguez,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,FALSE,TRUE,scared
+Africa,4/08/2015,12/08/2015,Kevin Roberts,Tamara Hall,3.51667,11.5,Mbalmayo,CM,Douala,FALSE,TRUE,FALSE,scared
+Africa,26/05/2012,8/07/2012,Tyler Wilson,Larry Braun,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,TRUE,FALSE,worried
+Africa,30/07/2021,30/08/2021,Melissa Williams,Vanessa Chapman,7.6,4.18333,Olupona,NG,Lagos,FALSE,TRUE,TRUE,panicking
+Africa,17/07/1999,20/08/1999,Michael Carr,William Knight,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,TRUE,TRUE,fleeing
+Africa,3/09/2010,25/10/2010,Tanya Gonzalez,Christina Ball,37.16911,10.03478,El Alia,TN,Tunis,FALSE,TRUE,TRUE,complaining
+Africa,30/01/1989,13/03/1989,April Scott,Timothy Maldonado,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,TRUE,TRUE,lonely
+Africa,23/01/2004,29/02/2004,Kimberly Hart,Robert Merritt,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,TRUE,TRUE,lonely
+Africa,19/02/1998,9/03/1998,Debra Cruz,Emily Brown,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,TRUE,silent
+Africa,13/06/2004,21/07/2004,Christopher Cline,Christopher Miller,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,FALSE,TRUE,confessing
+Africa,18/07/1986,21/08/1986,Howard Rivera MD,Denise Davis,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,FALSE,TRUE,sad
+Africa,14/09/1989,17/10/1989,Meghan Johnson,Aaron Nguyen,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,TRUE,fleeing
+Africa,25/11/1991,16/12/1991,Steven Davis,Bethany Chen,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,TRUE,silent
+Africa,5/01/2010,2/02/2010,Tammy Randall,Maria Tucker,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,paranoid
+Africa,7/02/2007,1/03/2007,Cindy Patel,James Brock,37.16911,10.03478,El Alia,TN,Tunis,FALSE,TRUE,TRUE,accusatory
+Africa,7/04/2009,28/05/2009,Jennifer Murray,Ashley Larson,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,TRUE,TRUE,unhappy
+Africa,10/01/2001,27/02/2001,Kenneth Leach,Zachary Moore,0.46005,34.11169,Busia,KE,Nairobi,FALSE,FALSE,TRUE,accusatory
+Africa,10/05/2021,28/05/2021,Diana Case,Brian Velasquez,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,TRUE,FALSE,scared
+Africa,2/10/2011,23/11/2011,Justin Cummings,Melvin Hansen,-11.78333,19.91667,Luena,AO,Luanda,FALSE,FALSE,TRUE,worried
+Africa,23/02/1986,24/03/1986,Maria Turner,Charles Mitchell,3.27833,32.88667,Kitgum,UG,Kampala,TRUE,TRUE,TRUE,fleeing
+Africa,20/09/2014,14/10/2014,Mr. Dale George,Rebecca Jackson,36.08497,9.37082,Siliana,TN,Tunis,FALSE,TRUE,TRUE,happy
+Africa,8/06/2018,10/06/2018,Sara Walker,Daniel Moore,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,FALSE,TRUE,insulting
+Africa,18/09/1999,13/10/1999,Kara Thornton,David Strong,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,FALSE,TRUE,lonely
+Africa,27/12/2009,29/12/2009,Nancy Robinson,Dawn Simmons,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,confessing
+Africa,8/11/2011,11/11/2011,Theresa Sherman,Nicole Hart,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,paranoid
+Africa,20/07/2021,26/07/2021,Ryan Vazquez,Shawn Huang,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,complaining
+Africa,12/10/2017,27/10/2017,James Friedman,David Zamora,3.27833,32.88667,Kitgum,UG,Kampala,TRUE,TRUE,TRUE,lonely
+Africa,8/04/2009,11/05/2009,Matthew Delgado,Michael Higgins,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,FALSE,TRUE,oblivious
+Africa,7/01/2022,3/02/2022,Nicolas Harris,Garrett Martinez,-1.9487,30.4347,Rwamagana,RW,Kigali,FALSE,FALSE,TRUE,scared
+Africa,8/04/1992,11/04/1992,Susan Berry,Megan Livingston,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,TRUE,TRUE,FALSE,fleeing
+Africa,30/06/2019,22/08/2019,Kelsey Frazier,Jeffery Carter,7.06273,-1.4001,Mampong,GH,Accra,FALSE,TRUE,TRUE,friendly
+Africa,19/11/2014,18/12/2014,Troy Rivera,Destiny Peterson,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,happy
+Africa,27/05/1999,23/06/1999,Melanie Mcmillan,Randy Simmons,35.72917,10.58082,Msaken,TN,Tunis,FALSE,TRUE,TRUE,panicking
+Africa,21/12/1998,11/02/1999,Christopher Morris,Monica Davis,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,hostile
+Africa,2/01/2002,11/02/2002,Ronald Solis,Michael Riddle,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,FALSE,TRUE,worried
+Africa,12/06/1991,17/06/1991,Sarah Henry,Jorge Novak,-6.8,39.25,Magomeni,TZ,Dar es Salaam,TRUE,TRUE,TRUE,talkative
+Africa,14/07/2007,28/08/2007,Krista Floyd,Michelle Green,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,TRUE,TRUE,unhappy
+Africa,26/04/2003,14/06/2003,Michael Higgins,Michael Smith,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,FALSE,TRUE,accusatory
+Africa,26/08/2005,17/10/2005,Katie Wolfe,Alexandra Jones,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,evasive
+Africa,9/02/2015,19/03/2015,Mary Goodwin,Adam Montes,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,FALSE,TRUE,insulting
+Africa,2/12/2012,7/12/2012,Michelle Howard,Tiffany Patrick,30.75545,20.22625,Ajdabiya,LY,Tripoli,FALSE,TRUE,TRUE,lonely
+Africa,19/09/1992,11/11/1992,Allison Alvarez,Michael Sims,12.74482,4.52514,Argungu,NG,Lagos,TRUE,TRUE,TRUE,out-of-control
+Africa,28/02/2008,24/03/2008,Jenna Chan,Brian Torres,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,TRUE,FALSE,oblivious
+Africa,25/07/2002,2/08/2002,Jennifer Cabrera,James Brock,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,TRUE,TRUE,over-complimenting
+Africa,11/11/2011,28/11/2011,Wesley Larson,Dr. Gregory Gibson,9.58126,8.2926,Kafanchan,NG,Lagos,FALSE,TRUE,TRUE,worried
+Africa,8/08/1987,27/08/1987,Casey Davidson,Larry King,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,FALSE,friendly
+Africa,1/04/2001,27/05/2001,Linda Page,Gina Howard,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,TRUE,TRUE,injured
+Africa,28/05/1988,26/06/1988,David Allen,Christopher Morris,35.72917,10.58082,Msaken,TN,Tunis,FALSE,FALSE,TRUE,unhappy
+Africa,10/06/2007,2/07/2007,Joanna Perez,Jessica Conway,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,TRUE,TRUE,TRUE,unhappy
+Africa,6/03/2005,16/04/2005,Jordan Cook,Rachel Barnes,4.96667,10.7,Tonga,CM,Douala,FALSE,FALSE,TRUE,fleeing
+Africa,26/06/1998,5/08/1998,Justin Mejia,Robert Baird,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,FALSE,FALSE,TRUE,evasive
+Africa,23/11/1994,17/01/1995,Tracy Travis,Micheal Thomas,5.27247,-3.59625,Bonoua,CI,Abidjan,FALSE,FALSE,TRUE,worried
+Africa,8/12/1986,7/01/1987,Daniel Wise,Angela Strickland,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,TRUE,TRUE,confessing
+Africa,10/03/2008,11/03/2008,John Andrews,Zachary Moore,2.41669,30.98551,Paidha,UG,Kampala,FALSE,FALSE,TRUE,complaining
+Africa,28/05/2008,19/07/2008,Timothy Walker,Ashley Taylor,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,FALSE,FALSE,oblivious
+Africa,21/06/2001,25/07/2001,Michelle Huber,Ashley Taylor,36.76639,3.47717,Boumerdas,DZ,Algiers,FALSE,FALSE,TRUE,accusatory
+Africa,30/10/1993,31/10/1993,Maureen Perkins,Austin Summers,-13.7804,34.4587,Salima,MW,Blantyre,FALSE,TRUE,TRUE,complaining
+Africa,15/09/1991,24/10/1991,Dale Bowman,Garrett Cook,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,TRUE,TRUE,TRUE,lonely
+Africa,20/11/1994,1/01/1995,Jennifer Willis,Denise Park,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,FALSE,TRUE,silent
+Africa,5/09/1994,23/09/1994,William Le,Scott Houston,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,TRUE,TRUE,oblivious
+Africa,20/06/2021,1/08/2021,Bryan Larson,William Joseph,37.16911,10.03478,El Alia,TN,Tunis,FALSE,TRUE,TRUE,paranoid
+Africa,30/09/2011,15/11/2011,Alexis Morrow,Jeffery Weaver,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,TRUE,TRUE,tense
+Africa,12/08/2021,4/09/2021,Paul Weaver,Beth Cuevas,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,FALSE,TRUE,sad
+Africa,24/12/1992,5/01/1993,Melissa Stevens,Tammy Lutz,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,FALSE,FALSE,complaining
+Africa,3/11/2010,13/11/2010,Angel Mckay,Carrie Jones,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,TRUE,TRUE,confessing
+Africa,13/11/1998,24/11/1998,Thomas Dixon,Cathy Durham,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,TRUE,TRUE,oblivious
+Africa,28/03/2008,3/05/2008,Samantha Smith,Christine Obrien,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,out-of-control
+Africa,1/11/2000,18/12/2000,Samantha Smith,Jennifer Snyder,5.84752,-5.682,Lakota,CI,Abidjan,FALSE,TRUE,TRUE,happy
+Africa,24/03/2000,12/05/2000,Tonya Jackson,Hunter Lee,7.65649,4.92235,Efon-Alaaye,NG,Lagos,FALSE,FALSE,TRUE,friendly
+Africa,28/06/2019,5/08/2019,Cindy Arnold,Emily Mccoy,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,friendly
+Africa,21/12/2006,18/01/2007,Kendra French,Angela Strickland,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,accusatory
+Africa,28/08/2006,8/10/2006,Jason Barrett,Chloe Harris,36.76775,2.95924,Cheraga,DZ,Algiers,FALSE,FALSE,TRUE,silent
+Africa,24/05/2020,18/06/2020,Patricia Salazar,Mr. Rodney Franco,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,FALSE,TRUE,paranoid
+Africa,1/06/2005,22/06/2005,Larry Hernandez MD,Timothy Maldonado,10.61285,12.19458,Biu,NG,Lagos,FALSE,TRUE,TRUE,accusatory
+Africa,12/02/1994,16/02/1994,Ryan Johnson,John Turner,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,TRUE,worried
+Africa,15/04/1986,31/05/1986,Shelby Phillips,Kevin Evans,7.06273,-1.4001,Mampong,GH,Accra,FALSE,FALSE,TRUE,happy
+Africa,25/06/2014,22/07/2014,Norman Brown,Karen Keller MD,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,TRUE,TRUE,unhappy
+Africa,14/06/2019,25/07/2019,Brandon Colon,Brian Velasquez,34.15429,3.50309,Messaad,DZ,Algiers,FALSE,FALSE,TRUE,complaining
+Africa,2/06/2012,11/07/2012,Megan Davis,John Carlson,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,FALSE,TRUE,unhappy
+Africa,22/06/1995,7/08/1995,Scott Miller,Robert Baird,4.96667,10.7,Tonga,CM,Douala,FALSE,TRUE,TRUE,tense
+Africa,13/12/2014,1/01/2015,Monique Mckay,Joseph Ramirez,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,TRUE,tense
+Africa,2/05/1991,30/05/1991,Sarah Green,Kenneth Barrett,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,FALSE,TRUE,over-complimenting
+Africa,23/08/1997,4/10/1997,James Jones,Eric Roberts,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,TRUE,TRUE,fleeing
+Africa,14/08/2016,23/09/2016,Jasmine Hunt,Alicia Harper,-8.73508,24.99798,Kamina,CD,Lubumbashi,FALSE,FALSE,TRUE,lonely
+Africa,1/03/1997,31/03/1997,Paige Barker,Julie Nguyen,-6.8,39.25,Magomeni,TZ,Dar es Salaam,FALSE,TRUE,TRUE,tense
+Africa,26/09/2011,1/10/2011,David Douglas,Valerie Griffin,7.6,4.18333,Olupona,NG,Lagos,FALSE,FALSE,FALSE,silent
+Africa,25/02/1991,1/04/1991,Sara Diaz,Reginald Harvey,-11.78333,19.91667,Luena,AO,Luanda,FALSE,FALSE,TRUE,friendly
+Africa,13/06/2018,30/06/2018,Nicholas Martin,Wesley Horton,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,over-complimenting
+Africa,19/11/2009,17/01/2010,Kara West,Jennifer Cook,35.21222,2.31889,Ksar Chellala,DZ,Algiers,FALSE,TRUE,TRUE,unhappy
+Africa,24/09/1998,12/10/1998,Jose Hunter,Vanessa Chapman,-4.06667,37.73333,Same,TZ,Dar es Salaam,FALSE,TRUE,TRUE,insulting
+Africa,2/04/1992,14/04/1992,Heather Morales,Joseph Ramirez,26.67319,31.4976,Juhaynah,EG,Cairo,FALSE,TRUE,TRUE,evasive
+Africa,15/06/2005,8/08/2005,Emily Weiss,Matthew Wagner,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,TRUE,TRUE,silent
+Africa,25/06/1989,22/07/1989,Shawn Walton,Chad Chandler,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,TRUE,complaining
+Africa,12/04/1990,4/06/1990,Phillip Roy,Cynthia Villegas,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,unhappy
+Africa,16/01/2000,22/01/2000,Donald Curtis,Janice Carroll,11.8659,34.3869,Ar Ruseris,SD,Khartoum,FALSE,TRUE,TRUE,sad
+Africa,24/06/1999,15/07/1999,Seth Lopez,Sandra Ramos,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,FALSE,TRUE,oblivious
+Africa,19/05/2022,25/05/2022,Kimberly Davis,Courtney Thompson,-21.44236,27.46153,Tonota,BW,Gaborone,TRUE,TRUE,TRUE,complaining
+Africa,11/12/1999,23/01/2000,Dwayne Ramirez,Janice Carroll,30.75545,20.22625,Ajdabiya,LY,Tripoli,TRUE,TRUE,TRUE,talkative
+Africa,4/05/1999,24/05/1999,James Stanley,Karen Weber,-1.63333,13.58357,Franceville,GA,Libreville,TRUE,FALSE,TRUE,happy
+Africa,30/06/2006,1/07/2006,Miss Shannon Butler DDS,Darrell Crawford,0.46005,34.11169,Busia,KE,Nairobi,FALSE,FALSE,TRUE,sad
+Africa,27/09/2017,1/11/2017,Kelli Kane,Jerry Stephenson,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,FALSE,TRUE,out-of-control
+Africa,17/01/2003,10/03/2003,Randy Lopez,Julia Reynolds,7.57944,-8.53778,New Yekepa,LR,Monrovia,FALSE,TRUE,TRUE,hostile
+Africa,7/12/1992,18/12/1992,Kelly Miller,Mr. Shannon Sharp,-13.7804,34.4587,Salima,MW,Blantyre,FALSE,TRUE,TRUE,accusatory
+Africa,2/01/1997,5/01/1997,Wendy Anderson,Jeffery Lee,-21.44236,27.46153,Tonota,BW,Gaborone,FALSE,FALSE,TRUE,injured
+Africa,23/11/2015,30/11/2015,Jose Morales,Anthony Harris,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,TRUE,TRUE,panicking
+Africa,4/06/2018,25/07/2018,Edward Harris,Misty Young,-8.73508,24.99798,Kamina,CD,Lubumbashi,TRUE,FALSE,TRUE,insulting
+Africa,14/03/2019,5/04/2019,Mario Roy,Shelia Holmes,11.85,38.01667,Debre Tabor,ET,Addis Ababa,FALSE,TRUE,TRUE,over-complimenting
+Africa,10/05/2010,22/05/2010,Kelsey Chapman,Brooke Crawford,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,TRUE,injured
+Africa,18/11/1992,5/01/1993,Sara Mccullough,Ronald Friedman,-11.78333,19.91667,Luena,AO,Luanda,FALSE,TRUE,TRUE,worried
+Africa,12/11/1993,11/12/1993,Alyssa Harris,Sandra Ramos,7.6,4.18333,Olupona,NG,Lagos,FALSE,TRUE,TRUE,insulting
+Africa,4/08/1993,24/09/1993,Stephanie Young,Jennifer Shannon,36.27462,4.85668,Bordj Zemoura,DZ,Algiers,FALSE,TRUE,TRUE,panicking
+Africa,20/12/1993,25/01/1994,Juan Kim,Veronica Richards,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,FALSE,TRUE,silent
+Africa,1/10/2004,7/10/2004,Monica Lewis,Jeffery Weaver,36.06386,4.62744,El Achir,DZ,Algiers,FALSE,TRUE,TRUE,paranoid
+Africa,6/01/2020,23/02/2020,Margaret Lester,Jacob Santiago,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,TRUE,complaining
+Africa,7/03/1992,4/04/1992,Brian Yates,Jeanette Martinez,6.45407,3.39467,Lagos,NG,Lagos,FALSE,TRUE,FALSE,paranoid
+Africa,26/09/2019,14/11/2019,Ricky Wright,Garrett Lawrence,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,TRUE,TRUE,friendly
+Africa,15/01/2021,2/03/2021,Alexis Evans,Nicholas Powell,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,silent
+Africa,1/03/2010,14/04/2010,Jennifer Powell,Allen Baker,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,TRUE,happy
+Africa,4/01/1987,4/03/1987,Kimberly Garcia,Jennifer Hernandez,10.61285,12.19458,Biu,NG,Lagos,FALSE,FALSE,TRUE,paranoid
+Africa,3/01/1999,16/01/1999,Kenneth Williams,James Dawson,-4.06667,37.73333,Same,TZ,Dar es Salaam,TRUE,TRUE,TRUE,talkative
+Africa,1/11/2015,5/11/2015,Gregory Frye,Latasha Norris,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,FALSE,TRUE,fleeing
+Africa,30/05/2012,15/07/2012,Hunter Russell,Brian Thomas,4.2475,9.00472,Idenao,CM,Douala,FALSE,TRUE,TRUE,tense
+Africa,1/12/2002,6/12/2002,John Miller,Rita Johnson,6.8485,3.64633,Shagamu,NG,Lagos,FALSE,FALSE,TRUE,hostile
+Africa,15/09/2011,16/10/2011,Carmen Jones,Justin Edwards,12.74482,4.52514,Argungu,NG,Lagos,FALSE,TRUE,TRUE,injured
+Africa,16/11/1985,2/12/1985,Willie White,Sherry Aguilar,6.45407,3.39467,Lagos,NG,Lagos,FALSE,FALSE,TRUE,friendly
+Africa,25/12/2006,17/02/2007,Nathan Ferguson,James Kennedy,-11.78333,19.91667,Luena,AO,Luanda,TRUE,FALSE,TRUE,silent
+Africa,19/03/1987,25/04/1987,Glen Smith,Christopher Baker,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,TRUE,TRUE,paranoid
+Africa,6/08/1996,12/09/1996,Jared Walker,Mr. Shannon Sharp,11.85,38.01667,Debre Tabor,ET,Addis Ababa,TRUE,TRUE,TRUE,friendly
+Africa,13/04/2011,4/06/2011,Erin Mata,Larry King,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,FALSE,TRUE,friendly
+Africa,23/06/2008,2/08/2008,Mark Chandler,Edward Hernandez,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,TRUE,injured
+Africa,20/11/2014,11/01/2015,Zoe Lewis,Kenneth Barrett,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,FALSE,TRUE,fleeing
+Africa,6/03/2020,14/03/2020,Gabriella Douglas,Monica Davis,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,scared
+Africa,19/05/1999,12/06/1999,Brian Lewis,Chad Chandler,37.16911,10.03478,El Alia,TN,Tunis,FALSE,FALSE,TRUE,hostile
+Africa,19/10/2014,16/11/2014,Susan Cunningham,Jessica Rogers,-2.68333,33,Usagara,TZ,Dar es Salaam,FALSE,TRUE,TRUE,lonely
+Africa,15/01/1993,7/03/1993,Nathan Bailey,Eric French,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,insulting
+Africa,14/09/1997,12/10/1997,Ashley Baldwin,Garrett Lawrence,-5.41667,38.01667,Chanika,TZ,Dar es Salaam,FALSE,TRUE,TRUE,sad
+Africa,6/11/1986,10/12/1986,John Silva,Joshua Reed,36.72544,3.55665,Thenia,DZ,Algiers,FALSE,TRUE,TRUE,worried
+Africa,5/09/2001,24/10/2001,Shirley Winters,Laura Santana,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,TRUE,FALSE,fleeing
+Africa,22/06/2002,20/07/2002,Caitlin Berg,Gregory Moore,3.27833,32.88667,Kitgum,UG,Kampala,FALSE,TRUE,TRUE,hostile
+Africa,2/12/1994,19/01/1995,Sheila Ford,Elizabeth Cook,8.88649,2.59753,Tchaourou,BJ,Porto-Novo,FALSE,FALSE,TRUE,sad
+Africa,24/01/2006,5/02/2006,Douglas Stephens,Kimberly Woods,-4.26613,15.28318,Brazzaville,CG,Brazzaville,FALSE,TRUE,TRUE,out-of-control
+Africa,17/12/1999,12/02/2000,Travis Owens,Sarah Green,31.20176,29.91582,Alexandria,EG,Cairo,FALSE,TRUE,TRUE,hostile
+Africa,22/10/2011,30/10/2011,John Jones,Marie Hill,7.50251,5.06258,Igbara-Odo,NG,Lagos,FALSE,TRUE,FALSE,silent
+Africa,27/04/2011,3/05/2011,Russell Andrews,Joseph Arellano,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,out-of-control
+Africa,28/10/2002,2/11/2002,Deanna Martinez,Pamela Gonzales,37.16911,10.03478,El Alia,TN,Tunis,FALSE,TRUE,TRUE,friendly
+Africa,12/05/1986,12/06/1986,James Carey,Jeanette Best,9.89206,43.38531,Baki,SO,Mogadishu,FALSE,TRUE,TRUE,paranoid
+Africa,21/09/2017,9/10/2017,Kayla Jackson,Regina Henderson,4.94273,15.87735,Carnot,CF,Bangui,FALSE,TRUE,TRUE,lonely
+Africa,31/10/2019,14/12/2019,Sarah Patton,Micheal Thomas,33.92866,-6.90656,Temara,MA,Casablanca,FALSE,FALSE,TRUE,hostile
+Africa,1/05/1992,12/06/1992,Derek Morrison,Beth Cuevas,6.15038,6.83042,Nkpor,NG,Lagos,FALSE,TRUE,TRUE,silent
+Africa,2/10/1994,19/10/1994,John Jacobs,Michelle Jarvis,36.61954,4.08282,Beni Douala,DZ,Algiers,TRUE,TRUE,TRUE,paranoid
+Africa,29/10/2003,9/11/2003,Zoe Edwards,Janice Carroll,6.03333,37.55,Arba Minch,ET,Addis Ababa,FALSE,TRUE,TRUE,panicking
+Africa,11/09/1987,4/11/1987,Madeline Hill,Denise Davis,-1.63333,13.58357,Franceville,GA,Libreville,TRUE,FALSE,TRUE,out-of-control
+Africa,23/01/2011,3/02/2011,Katie Marshall,Parker Mitchell,7.6,4.18333,Olupona,NG,Lagos,TRUE,TRUE,FALSE,insulting
+Africa,9/04/1990,30/04/1990,Karina Carrillo,Steven Edwards,5.30383,-1.98956,Tarkwa,GH,Accra,FALSE,TRUE,TRUE,unhappy
+Africa,1/08/2016,8/08/2016,Jamie Klein,Garrett Allen,-7.60361,37.00438,Kidodi,TZ,Dar es Salaam,FALSE,FALSE,TRUE,unhappy
+Africa,9/05/1991,6/07/1991,Olivia Smith,Dr. Crystal Mccormick,12.18441,18.69303,Mongo,TD,Ndjamena,FALSE,FALSE,TRUE,sad
+Africa,18/05/2010,16/07/2010,Jordan Yoder,Shelly Espinoza,4.92675,6.26764,Yenagoa,NG,Lagos,FALSE,FALSE,TRUE,complaining
+Africa,3/11/1997,3/11/1997,Jillian Taylor,Eddie Hall,-24.19436,29.00974,Mokopane,ZA,Johannesburg,FALSE,TRUE,TRUE,scared
+Africa,11/10/2003,3/11/2003,Carrie Juarez,Michael Riddle,0.46005,34.11169,Busia,KE,Nairobi,FALSE,TRUE,FALSE,panicking
+Africa,6/08/1989,22/09/1989,Alan Lopez,Sarah Brown,-8.73508,24.99798,Kamina,CD,Lubumbashi,FALSE,FALSE,TRUE,panicking
+Africa,18/02/1991,27/03/1991,Heidi Pennington,Julia Cannon,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,paranoid
+Africa,30/10/2008,8/12/2008,Joseph Mendez,Rachel Barnes,-26.93366,29.24152,Standerton,ZA,Johannesburg,FALSE,TRUE,TRUE,worried
+Africa,13/04/2014,18/04/2014,Edward Dickerson,Christian Moore,3.51667,11.5,Mbalmayo,CM,Douala,TRUE,TRUE,TRUE,hostile
+Africa,14/08/1990,20/09/1990,Kelly Kim,James Williams,7.62789,4.74161,Ilesa,NG,Lagos,FALSE,FALSE,TRUE,panicking
+Africa,1/07/1989,23/07/1989,Tonya Brown,Jeremy Mccullough,35.21222,2.31889,Ksar Chellala,DZ,Algiers,FALSE,TRUE,FALSE,oblivious
+Africa,14/06/1993,1/08/1993,Joel Solis,Shawn Ramirez,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,FALSE,TRUE,fleeing
+Africa,8/08/1998,11/08/1998,Kathleen Smith,Gregory Hanson,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,panicking
+Africa,18/09/2011,7/10/2011,Samantha Gray,Charlene Mccormick,-4.83,29.65806,Mwandiga,TZ,Dar es Salaam,TRUE,FALSE,TRUE,sad
+Africa,15/11/1999,27/12/1999,Edward Johnson,Todd Garcia,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,FALSE,TRUE,evasive
+Africa,3/01/2002,19/02/2002,Dr. Brooke Peterson,Shelly Espinoza,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,scared
+Africa,14/02/2014,23/03/2014,Deanna Duncan,Tracy Young,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,FALSE,over-complimenting
+Africa,15/02/1996,26/03/1996,Rita Dixon MD,William Wood,33.43443,-5.22126,Azrou,MA,Casablanca,FALSE,FALSE,TRUE,unhappy
+Africa,25/05/1986,3/06/1986,Martha Smith,Garrett Lawrence,-1.9487,30.4347,Rwamagana,RW,Kigali,TRUE,TRUE,FALSE,out-of-control
+Africa,6/06/2005,26/07/2005,Karen Haynes,Michelle Lee,11.15583,42.7125,'Ali Sabieh,DJ,Djibouti,TRUE,FALSE,TRUE,out-of-control
+Africa,18/09/1995,7/10/1995,Andrew Wilcox,Kerry Buck,0.03813,36.36339,Nyahururu,KE,Nairobi,FALSE,TRUE,TRUE,unhappy
+Africa,20/04/1992,4/06/1992,Melissa Young,Nicole Adams,4.2475,9.00472,Idenao,CM,Douala,FALSE,FALSE,TRUE,worried
+Africa,18/06/2018,24/06/2018,Jason Hunt,Jacqueline Maldonado,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,TRUE,panicking
+Africa,24/09/1990,26/10/1990,Danny Hess,Marie Hill,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,panicking
+Africa,14/03/2006,29/03/2006,Christopher Simpson,Emily Johns,0.76755,24.43973,Yangambi,CD,Lubumbashi,FALSE,FALSE,TRUE,talkative
+Africa,1/09/1986,26/10/1986,Karen Douglas,Kimberly Cooper,8.48714,-13.2356,Freetown,SL,Freetown,FALSE,TRUE,TRUE,worried
+Africa,10/04/1995,24/05/1995,Rachel Olsen,Matthew Brown,36.61954,4.08282,Beni Douala,DZ,Algiers,TRUE,TRUE,TRUE,injured
+Africa,24/02/1989,4/04/1989,Michael Baldwin,Michael Barron,9.535,-13.68778,Camayenne,GN,Conakry,FALSE,TRUE,TRUE,talkative
+Africa,19/10/2012,22/10/2012,Lisa Baker,Daniel Moore,-0.35817,42.54536,Kismayo,SO,Mogadishu,FALSE,TRUE,TRUE,hostile
+Africa,18/04/2002,13/05/2002,Richard Moore,Gabrielle Mendez,-27.76952,30.79165,Vryheid,ZA,Johannesburg,FALSE,TRUE,FALSE,oblivious
+Africa,17/12/2014,5/02/2015,Elizabeth Aguilar,Alan Ford,-1.63333,13.58357,Franceville,GA,Libreville,FALSE,FALSE,TRUE,tense
+Africa,30/10/2005,3/12/2005,Daniel Bennett,Christopher Ross,-11.78333,19.91667,Luena,AO,Luanda,TRUE,TRUE,TRUE,unhappy
+Africa,6/09/1985,3/11/1985,Stefanie Morris,Jorge Novak,35.06544,1.04945,Frenda,DZ,Algiers,FALSE,FALSE,TRUE,silent
+Africa,28/05/1996,20/06/1996,Jonathan Lynn Jr.,Jennifer Malone,-6.25,38.66667,Mvomero,TZ,Dar es Salaam,FALSE,TRUE,TRUE,accusatory
+Africa,28/09/2003,3/10/2003,Margaret Watson DDS,Sherry Aguilar,6.46346,-2.31938,Bibiani,GH,Accra,FALSE,TRUE,TRUE,happy
+Africa,27/02/1996,4/04/1996,Cindy Moore,Anita Gray,3.51667,11.5,Mbalmayo,CM,Douala,FALSE,TRUE,TRUE,over-complimenting
+Africa,2/11/2012,24/12/2012,Debbie Williamson,Melvin Hansen,3.11988,35.59642,Lodwar,KE,Nairobi,FALSE,TRUE,FALSE,unhappy
+Africa,3/04/2017,17/05/2017,Kimberly Espinoza,Kenneth Gutierrez,36.61954,4.08282,Beni Douala,DZ,Algiers,FALSE,FALSE,TRUE,tense
+Africa,28/10/2004,19/11/2004,Brian Hernandez,Anthony Hamilton,7.6,4.18333,Olupona,NG,Lagos,FALSE,TRUE,TRUE,out-of-control
+Africa,12/07/1986,4/08/1986,Darlene Wilson,Ashley Farrell,33.42585,-6.00137,Oulmes,MA,Casablanca,FALSE,TRUE,TRUE,confessing
+Africa,30/01/1997,11/03/1997,Mrs. Catherine Craig,Eddie Hall,-7.76667,35.7,Iringa,TZ,Dar es Salaam,FALSE,TRUE,TRUE,talkative
+Africa,1/11/2016,14/12/2016,Sergio Rodriguez,Brooke Crawford,-23.85972,35.34722,Maxixe,MZ,Maputo,FALSE,TRUE,TRUE,complaining
