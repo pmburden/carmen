@@ -40,14 +40,24 @@ models:
     src_seed:
       +materialized: view
       +schema: src_seed
+      +tags:
+        - "cs_source" 
+        - "cs_src_to_int"
     staging:
       +materialized: view
       +schema: staging
+      +tags:
+        - "cs_stage" 
+        - "cs_src_to_int"
     intermediate:
-      +materialized: view
+      +materialized: table
       +schema: intermediate
+      +tags:
+        - "cs_int" 
+        - "cs_src_to_int"
     final:
       +materialized: table
       +schema: final
-
+      +tags:
+        - "cs_fin" 
 
