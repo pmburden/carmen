@@ -60,4 +60,8 @@ models:
       +schema: final
       +tags:
         - "cs_fin" 
-
+    analytics:
+      +materialized: view
+      +schema: analytics
+      +tags:
+        - "cs_analytics" 
