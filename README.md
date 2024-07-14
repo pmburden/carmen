@@ -87,6 +87,8 @@ Enjoy the challenge and good luck!
 
 ## ERD
 
+/assets/images/CARMEN_ERD001.png
+
 
 ## Analytical view
 
