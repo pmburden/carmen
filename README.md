@@ -91,5 +91,8 @@ Enjoy the challenge and good luck!
 <img src="/assets/CARMEN_ERD01.png" alt="WIWICSD" width=900px/>
  
 
-## Analytical view
+## Models
+
+<img src="/assets/carmen_lineage_01.jpg" alt="WIWICSD" width=900px/>
+
 
