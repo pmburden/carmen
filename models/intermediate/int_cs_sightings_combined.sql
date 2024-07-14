@@ -27,7 +27,7 @@ WITH
                 {% endfor %}
                     'africa'            AS region
 		FROM
-				{{ ref ( 'africa' ) 	}} AS cs
+				{{ ref ( 'stg_cs_africa' ) 	}} AS cs
         UNION 
 		SELECT
                 {% for col_name in ["date_witness", "witness", "agent","date_agent","city_agent","country","city"
@@ -36,7 +36,7 @@ WITH
                 {% endfor %}
                     'america'            AS region
 		FROM
-				{{ ref ( 'america' ) 	}} AS cs
+				{{ ref ( 'stg_cs_america' ) 	}} AS cs
         UNION 
 		SELECT
                 {% for col_name in ["date_witness", "witness", "agent","date_agent","city_agent","country","city"
@@ -45,7 +45,7 @@ WITH
                 {% endfor %}
                     'asia'            AS region
 		FROM
-				{{ ref ( 'asia' ) 	}} AS cs
+				{{ ref ( 'stg_cs_asia' ) 	}} AS cs
         UNION 
 		SELECT
                 {% for col_name in ["date_witness", "witness", "agent","date_agent","city_agent","country","city"
@@ -54,7 +54,7 @@ WITH
                 {% endfor %}
                     'atlantic'            AS region
 		FROM
-				{{ ref ( 'atlantic' ) 	}} AS cs
+				{{ ref ( 'stg_cs_atlantic' ) 	}} AS cs
         UNION 
 		SELECT
                 {% for col_name in ["date_witness", "witness", "agent","date_agent","city_agent","country","city"
@@ -63,7 +63,7 @@ WITH
                 {% endfor %}
                     'australia'            AS region
 		FROM
-				{{ ref ( 'australia' ) 	}} AS cs
+				{{ ref ( 'stg_cs_australia' ) 	}} AS cs
         UNION 
 		SELECT
                 {% for col_name in ["date_witness", "witness", "agent","date_agent","city_agent","country","city"
@@ -72,7 +72,7 @@ WITH
                 {% endfor %}
                     'europe'            AS region
 		FROM
-				{{ ref ( 'europe' ) 	}} AS cs
+				{{ ref ( 'stg_cs_europe' ) 	}} AS cs
         UNION 
 		SELECT
                 {% for col_name in ["date_witness", "witness", "agent","date_agent","city_agent","country","city"
@@ -81,7 +81,7 @@ WITH
                 {% endfor %}
                     'india'            AS region
 		FROM
-				{{ ref ( 'india' ) 	}} AS cs 
+				{{ ref ( 'stg_cs_india' ) 	}} AS cs 
         UNION 
 		SELECT
                 {% for col_name in ["date_witness", "witness", "agent","date_agent","city_agent","country","city"
@@ -90,7 +90,7 @@ WITH
                 {% endfor %}
                     'pacific'            AS region
 		FROM
-				{{ ref ( 'pacific' ) 	}} AS cs      
+				{{ ref ( 'stg_cs_pacific' ) 	}} AS cs      
 	)
 
 ------------------------------

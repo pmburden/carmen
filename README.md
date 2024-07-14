@@ -84,3 +84,9 @@ Now that you have eight models, all with the same columns - join them together, 
 * Then notify the team that you're ready for a review.
 
 Enjoy the challenge and good luck!
+
+## ERD
+
+
+## Analytical view
+

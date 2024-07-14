@@ -41,7 +41,7 @@ WITH
 				--'{{ invocation_id }}'          							AS dw_updated_run_id,
 				--current_timestamp()            							AS dw_updated_dtm    
 		FROM
-				{{ ref ( 'asia' ) 	}} AS cs
+				{{ ref ( 'atlantic' ) 	}} AS cs
 	)
 
 ------------------------------
