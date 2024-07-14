@@ -88,7 +88,7 @@ Enjoy the challenge and good luck!
 ## ERD
 
 
-<img src="/assets/CARMEN_ERD01.png" alt="WIWICSD" width=300px/>
+<img src="/assets/CARMEN_ERD01.png" alt="WIWICSD" width=900px/>
  
 
 ## Analytical view
