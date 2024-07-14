@@ -37,12 +37,12 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 models:
   carmen_sightings_pmb:
-    src_seed:
-      +materialized: view
-      +schema: src_seed
-      +tags:
-        - "cs_source" 
-        - "cs_src_to_int"
+#    src_seed:
+#      +materialized: view
+#      +schema: src_seed
+#      +tags:
+#        - "cs_source" 
+#        - "cs_src_to_int"
     staging:
       +materialized: view
       +schema: staging
