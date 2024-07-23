@@ -5,9 +5,7 @@
 ---------------------
 -- Any config
 ---------------------
-{{ config(
-    post_hook="ALTER TABLE {{this}} ADD CONSTRAINT pk1 PRIMARY KEY (agent_id)" 
-) }}
+
 
 ---------------------
 -- CTE's
