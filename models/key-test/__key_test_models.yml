@@ -9,13 +9,22 @@ models:
       - name: agent_id
         tests:
           - dbt_constraints.primary_key
+
   - name: test_cs_sightings
     config:
       materialized: table
     columns:
-      - name: region_id
       - name: agent_id
-        tests:
-          - dbt_constraints.foreign_key:
-              pk_table_name: ref('test_cs_agent')
-              pk_column_name: agent_id
+#        tests:
+#          - dbt_constraints.foreign_key:
+#              pk_table_name: ref('TEST_CS_AGENT')
+#              pk_column_name: AGENT_ID
+    tests:
+      - dbt_constraints.foreign_key:
+          fk_column_name: agent_id
+          pk_table_name: ref('test_cs_agent')
+          pk_column_name: agent_id		
+          config:
+            severity: warn
+            always_create_constraint: true     
+
