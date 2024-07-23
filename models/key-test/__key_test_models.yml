@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: test_cs_agent
+    config:
+      materialized: table
+    columns:
+      # Single column inline constraints
+      - name: agent_id
+        tests:
+          - dbt_constraints.primary_key
+
+
